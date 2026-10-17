@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="wrap section narrow">
+  <h1>Questa pagina non c'è (o il gatto l'ha spostata)</h1>
+  <p class="lead">L'indirizzo che hai aperto non esiste. Prova da una di queste stanze:</p>
+  <div class="hero-cats">
+    {% for c in categories %}<a class="chip" href="{{ c.url }}">{{ c.name }}</a>{% endfor %}
+  </div>
+  <p><a href="/">Torna alla home</a></p>
+</section>
+{% endblock %}

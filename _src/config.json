@@ -1,0 +1,55 @@
+{
+  "name": "Micio Design",
+  "title": "Micio Design · La casa a misura di gatto d'appartamento",
+  "description": "Guide pratiche, prodotti scelti e progetti per vivere bene con un gatto in appartamento: lettiere, mensole e percorsi, balcone sicuro, giochi, convivenze, arredo.",
+  "site_url": "https://miciodesign.it",
+  "email": "redazione@miciodesign.it",
+  "instagram": "https://www.instagram.com/miciodesign.it/",
+  "pinterest": "https://www.pinterest.com/miciodesignit/",
+  "etsy": "",
+  "amazon_tag": "",
+  "categories": [
+    {
+      "slug": "lettiera",
+      "name": "Lettiera",
+      "short": "Tipi, posizione, sabbie, odori",
+      "description": "Come scegliere la lettiera, dove metterla in un appartamento, quale sabbia usare e come gestire gli odori. Guide e confronti di prodotti.",
+      "intro": "La lettiera è il mobile più importante della casa di un gatto, e il più sbagliato. Qui trovi come sceglierla, dove metterla quando lo spazio è poco, quale sabbia conviene e come tenere la casa senza odori."
+    },
+    {
+      "slug": "spazio-verticale",
+      "name": "Spazio verticale",
+      "short": "Mensole, tiragraffi, percorsi",
+      "description": "Mensole a parete, tiragraffi alti, alberi da soffitto e percorsi: come dare al gatto l'altezza che cerca anche in una casa piccola.",
+      "intro": "Un gatto d'appartamento misura la casa in altezza, non in metri quadri. Mensole, tiragraffi stabili e percorsi a parete trasformano un bilocale in un territorio da esplorare."
+    },
+    {
+      "slug": "balcone-e-finestre",
+      "name": "Balcone e finestre",
+      "short": "Reti, vasistas, catio",
+      "description": "Reti per balcone anche senza forare, protezioni per le finestre a vasistas, catio e ripari: la sicurezza del gatto fuori dalla porta di casa.",
+      "intro": "Balconi e finestre sono il punto più pericoloso della casa per un gatto. Si mettono in sicurezza con poco, spesso senza forare, e diventano il suo posto preferito."
+    },
+    {
+      "slug": "vita-quotidiana",
+      "name": "Vita quotidiana",
+      "short": "Acqua, cibo, gioco, routine",
+      "description": "Fontanelle, distributori, giochi intelligenti e routine: tutto quello che rende felice un gatto che vive in casa.",
+      "intro": "Acqua, cibo, gioco e riposo nei posti giusti: la vita quotidiana di un gatto d'appartamento funziona quando la casa è organizzata attorno alle sue abitudini, non alle nostre."
+    },
+    {
+      "slug": "convivenze",
+      "name": "Convivenze",
+      "short": "Piante, bambini, altri animali",
+      "description": "Piante sicure e tossiche, l'arrivo di un neonato, un secondo gatto o un cane: come far convivere tutti nella stessa casa.",
+      "intro": "Piante, bambini, altri gatti e cani: ogni nuovo arrivo cambia gli equilibri della casa. Qui trovi come prepararli e come gestirli senza stress per nessuno."
+    },
+    {
+      "slug": "arredo-e-pulizia",
+      "name": "Arredo e pulizia",
+      "short": "Divani, tessuti, peli, odori",
+      "description": "Divani e tessuti che resistono, aspirapolvere per peli di gatto, odori di pipì e routine di pulizia: una casa bella anche con un gatto dentro.",
+      "intro": "Una casa con un gatto può essere bella e pulita. Servono i tessuti giusti, due o tre strumenti che funzionano davvero e una routine che non pesa."
+    }
+  ]
+}

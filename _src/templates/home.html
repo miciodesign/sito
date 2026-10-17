@@ -1,0 +1,75 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="hero">
+  <div class="wrap hero-inner">
+    <div>
+      <p class="eyebrow">Per chi vive con un gatto in appartamento</p>
+      <h1>La casa a misura di gatto, <span>stanza per stanza.</span></h1>
+      <p class="lead">Guide pratiche, prodotti provati e progetti da costruire: lettiere che non si sentono, mensole dove il gatto vuole stare, balconi sicuri, giochi che funzionano. Niente consigli medici, solo casa.</p>
+      <div class="hero-cats">
+        {% for c in categories %}<a class="chip" href="{{ c.url }}">{{ c.name }}</a>{% endfor %}
+      </div>
+    </div>
+    <div class="hero-art" aria-hidden="true">
+      <svg viewBox="0 0 320 260" width="100%" role="img">
+        <rect x="20" y="40" width="280" height="190" rx="8" fill="var(--paper)" stroke="var(--line)"/>
+        <rect x="40" y="70" width="110" height="10" rx="3" fill="var(--accent-soft)"/>
+        <rect x="190" y="110" width="90" height="10" rx="3" fill="var(--accent-soft)"/>
+        <rect x="60" y="150" width="120" height="10" rx="3" fill="var(--accent-soft)"/>
+        <rect x="40" y="200" width="240" height="14" rx="4" fill="var(--sage-soft)"/>
+        <g fill="var(--accent)">
+          <path d="M88 60 L92 46 L100 54 L110 54 L118 46 L122 60 A17 17 0 1 1 88 60 Z"/>
+          <path d="M228 100 L232 86 L240 94 L250 94 L258 86 L262 100 A17 17 0 1 1 228 100 Z"/>
+          <path d="M108 140 L112 126 L120 134 L130 134 L138 126 L142 140 A17 17 0 1 1 108 140 Z"/>
+        </g>
+        <circle cx="52" cy="250" r="4" fill="var(--sage)"/>
+        <circle cx="268" cy="250" r="4" fill="var(--sage)"/>
+      </svg>
+    </div>
+  </div>
+</section>
+
+<section class="wrap section">
+  <div class="section-head">
+    <h2>Da dove cominciare</h2>
+    <p class="muted">Sei stanze, sei guide complete. Ogni guida è il punto di partenza della sua categoria.</p>
+  </div>
+  <div class="cat-grid">
+    {% for c in categories %}
+    <a class="cat-card" href="{{ c.pillar.url if c.pillar else c.url }}">
+      <span class="cat-name">{{ c.name }}</span>
+      <span class="cat-short">{{ c.short }}</span>
+      {% if c.pillar %}<span class="cat-link">Leggi la guida completa →</span>{% else %}<span class="cat-link muted">Guida in arrivo</span>{% endif %}
+    </a>
+    {% endfor %}
+  </div>
+</section>
+
+{% if articles %}
+<section class="wrap section">
+  <div class="section-head">
+    <h2>Ultimi articoli</h2>
+  </div>
+  <div class="post-list">
+    {% for a in articles[:9] %}
+    <article class="post-card">
+      <p class="post-cat"><a href="{{ a.category_obj.url }}">{{ a.category_obj.name }}</a> · {{ a.minutes }} min</p>
+      <h3><a href="{{ a.url }}">{{ a.title }}</a></h3>
+      <p class="muted">{{ a.description }}</p>
+    </article>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+
+<section class="wrap section">
+  <div class="promise">
+    <h2>Come scegliamo quello che consigliamo</h2>
+    <div class="promise-grid">
+      <div><strong>Prodotti reali, prezzi verificati.</strong><p class="muted">Ogni confronto nasce da schede tecniche, recensioni di chi li usa e, quando possibile, prova diretta. I prezzi sono indicativi e li aggiorniamo ogni tre mesi.</p></div>
+      <div><strong>Case vere, non showroom.</strong><p class="muted">Scriviamo per bilocali, affitti dove non si può forare, balconi di due metri. Se una soluzione funziona solo in una villa, lo diciamo.</p></div>
+      <div><strong>Niente medicina.</strong><p class="muted">Parliamo di casa, oggetti e abitudini. Quando un problema può avere una causa di salute, ti diciamo di sentire il veterinario, e basta.</p></div>
+    </div>
+  </div>
+</section>
+{% endblock %}
