@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" font-family="Outfit, Arial, sans-serif">
+<rect width="1200" height="700" fill="#fbfaf7"/>
+<text x="60" y="70" font-size="34" font-weight="700" fill="#24201b">Balcone a prova di gatto, anche senza forare</text>
+<text x="60" y="104" font-size="20" fill="#6a6359">Rete con maglia da 3 cm dalla ringhiera al soffitto, aste a pressione agli angoli</text>
+<!-- sezione balcone -->
+<rect x="140" y="150" width="20" height="470" fill="#24201b"/>
+<rect x="140" y="150" width="760" height="18" fill="#24201b"/>
+<rect x="140" y="600" width="760" height="20" fill="#24201b"/>
+<!-- ringhiera -->
+<g stroke="#24201b" stroke-width="8"><line x1="880" y1="420" x2="880" y2="600"/><line x1="820" y1="420" x2="820" y2="600"/><line x1="760" y1="420" x2="760" y2="600"/><line x1="700" y1="420" x2="700" y2="600"/><line x1="690" y1="420" x2="900" y2="420"/></g>
+<!-- aste a pressione -->
+<rect x="892" y="168" width="14" height="432" fill="#4e7a66"/>
+<rect x="640" y="168" width="14" height="252" fill="#4e7a66"/>
+<!-- rete -->
+<g stroke="#c2651d" stroke-width="2" opacity=".85">
+<path d="M650 168 L650 420 M680 168 L680 420 M710 168 L710 420 M740 168 L740 420 M770 168 L770 420 M800 168 L800 420 M830 168 L830 420 M860 168 L860 420"/>
+<path d="M646 198 L906 198 M646 228 L906 228 M646 258 L906 258 M646 288 L906 288 M646 318 L906 318 M646 348 L906 348 M646 378 L906 378 M646 408 L906 408"/>
+</g>
+<!-- quote -->
+<text x="700" y="640" font-size="15" fill="#6a6359">sbarre: luce sotto 6 cm o rete fino a terra</text>
+<text x="300" y="200" font-size="17" fill="#4e7a66" font-weight="600">asta a pressione</text>
+<line x1="470" y1="193" x2="630" y2="193" stroke="#4e7a66" stroke-width="2"/>
+<text x="300" y="300" font-size="17" fill="#c2651d" font-weight="600">maglia ≤ 3 cm, filo ≥ 1,5 mm, anti-UV</text>
+<!-- mensola e gatto -->
+<rect x="170" y="420" width="160" height="12" fill="#24201b"/>
+<g fill="#c2651d"><path transform="translate(220,380)" d="M0 20 L4 0 L14 10 L26 10 L36 0 L40 20 A20 20 0 1 1 0 20 Z"/></g>
+<text x="170" y="460" font-size="15" fill="#6a6359">punto alto in ombra</text>
+<!-- ciotola -->
+<rect x="400" y="580" width="60" height="18" rx="6" fill="#e3ede7" stroke="#4e7a66" stroke-width="3"/>
+<text x="470" y="596" font-size="15" fill="#6a6359">acqua</text>
+<!-- vasistas -->
+<g transform="translate(960,160)">
+<rect x="0" y="0" width="180" height="230" fill="#e3ede7" stroke="#24201b" stroke-width="6"/>
+<path d="M0 0 L180 0 L180 230 L30 190 Z" fill="#ffffff" stroke="#24201b" stroke-width="5"/>
+<path d="M0 0 L30 190 L0 230 Z" fill="#f8e3df" stroke="#a53a2a" stroke-width="4"/>
+<text x="0" y="265" font-size="16" fill="#a53a2a" font-weight="700">vasistas: la V laterale</text>
+<text x="0" y="288" font-size="16" fill="#a53a2a" font-weight="700">va chiusa con la griglia</text>
+</g>
+<text x="60" y="672" font-size="16" fill="#6a6359">miciodesign.it · Basta una volta: la rete costa meno di una radiografia.</text>
+</svg>

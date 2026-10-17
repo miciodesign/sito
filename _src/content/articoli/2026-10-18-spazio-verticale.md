@@ -5,6 +5,8 @@ category: spazio-verticale
 date: 2026-10-18
 description: Un gatto d'appartamento misura la casa in altezza. Come progettare mensole a parete, scegliere un tiragraffi che non si ribalta, costruire percorsi anche in affitto e dove metterli perché il gatto li usi davvero.
 pillar: true
+image: /assets/img/spazio-verticale.svg
+image_png: /assets/img/spazio-verticale.png
 ---
 Un gatto d'appartamento non ha bisogno di più metri quadri: ha bisogno di più metri in altezza. Nella natura il gatto osserva dall'alto, dorme in posti rialzati e si muove lungo percorsi che conosce. In una casa piana, senza punti alti, un gatto si annoia, ingrassa e litiga con gli altri animali per i pochi posti buoni. Questa guida spiega come dare al gatto la verticalità che cerca con mensole, tiragraffi e percorsi, in una casa normale e anche in affitto.
 

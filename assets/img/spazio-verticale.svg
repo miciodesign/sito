@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" font-family="Outfit, Arial, sans-serif">
+<rect width="1200" height="700" fill="#fbfaf7"/>
+<text x="60" y="70" font-size="34" font-weight="700" fill="#24201b">Un percorso a parete: le misure che funzionano</text>
+<text x="60" y="104" font-size="20" fill="#6a6359">Mensole profonde 25-30 cm, salti di 35-45 cm, una destinazione che vale il viaggio</text>
+<!-- parete -->
+<rect x="80" y="140" width="1040" height="470" fill="#ffffff" stroke="#e7e2d9" stroke-width="4"/>
+<rect x="80" y="610" width="1040" height="10" fill="#e7e2d9"/>
+<!-- finestra -->
+<rect x="860" y="180" width="200" height="190" fill="#e3ede7" stroke="#24201b" stroke-width="6"/>
+<line x1="960" y1="180" x2="960" y2="370" stroke="#24201b" stroke-width="4"/>
+<line x1="860" y1="275" x2="1060" y2="275" stroke="#24201b" stroke-width="4"/>
+<!-- tiragraffi -->
+<rect x="150" y="250" width="34" height="360" fill="#d8c3a5"/>
+<rect x="110" y="590" width="120" height="22" rx="4" fill="#24201b"/>
+<rect x="130" y="250" width="80" height="22" rx="4" fill="#24201b"/>
+<text x="90" y="640" font-size="15" fill="#6a6359">tiragraffi 90+ cm, base larga</text>
+<!-- mensole -->
+<g fill="#24201b">
+<rect x="260" y="470" width="130" height="14" rx="3"/>
+<rect x="420" y="400" width="130" height="14" rx="3"/>
+<rect x="580" y="330" width="130" height="14" rx="3"/>
+<rect x="640" y="250" width="220" height="14" rx="3"/>
+</g>
+<!-- feltro -->
+<g fill="#c2651d"><rect x="260" y="464" width="130" height="6"/><rect x="420" y="394" width="130" height="6"/><rect x="580" y="324" width="130" height="6"/><rect x="640" y="244" width="220" height="6"/></g>
+<!-- quote -->
+<g stroke="#4e7a66" stroke-width="3" fill="none">
+<line x1="400" y1="470" x2="400" y2="400"/><line x1="392" y1="470" x2="408" y2="470"/><line x1="392" y1="400" x2="408" y2="400"/>
+<line x1="420" y1="520" x2="550" y2="520"/><line x1="420" y1="512" x2="420" y2="528"/><line x1="550" y1="512" x2="550" y2="528"/>
+</g>
+<text x="300" y="440" font-size="17" fill="#4e7a66" font-weight="600">35-45 cm</text>
+<text x="450" y="548" font-size="17" fill="#4e7a66" font-weight="600">40-60 cm</text>
+<text x="560" y="300" font-size="15" fill="#6a6359">superficie antiscivolo</text>
+<text x="640" y="225" font-size="15" fill="#6a6359">destinazione: la finestra</text>
+<!-- gatti -->
+<g fill="#c2651d"><path transform="translate(300,430)" d="M0 20 L4 0 L14 10 L26 10 L36 0 L40 20 A20 20 0 1 1 0 20 Z"/><path transform="translate(740,210)" d="M0 20 L4 0 L14 10 L26 10 L36 0 L40 20 A20 20 0 1 1 0 20 Z"/></g>
+<text x="60" y="672" font-size="16" fill="#6a6359">miciodesign.it · Tasselli adeguati al muro, portata 20 kg, mai un vicolo cieco con due gatti.</text>
+</svg>

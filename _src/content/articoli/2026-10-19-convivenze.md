@@ -5,6 +5,8 @@ category: convivenze
 date: 2026-10-19
 description: Quali piante sono sicure e quali tossiche, come preparare l'arrivo di un neonato, come inserire un secondo gatto o un cane, come gestire gli ospiti. Tutto quello che cambia in casa quando il gatto non è più solo.
 pillar: true
+image: /assets/img/convivenze.svg
+image_png: /assets/img/convivenze.png
 ---
 Una casa con un gatto è un equilibrio. Ogni nuovo arrivo, una pianta, un bambino, un secondo gatto, un cane, lo cambia, e il gatto reagisce come sa: si nasconde, marca, smette di mangiare, oppure accetta tutto in tre giorni. La differenza la fa quasi sempre la preparazione. Questa guida raccoglie le convivenze più comuni e per ciascuna dice cosa preparare prima e cosa fare dopo.
 

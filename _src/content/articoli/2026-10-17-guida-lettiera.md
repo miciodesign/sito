@@ -5,6 +5,8 @@ category: lettiera
 date: 2026-10-17
 description: Quante lettiere servono, dove metterle quando lo spazio è poco, aperta o chiusa o autopulente, quale sabbia conviene e come eliminare gli odori. Tutto quello che serve a chi vive con un gatto in appartamento.
 pillar: true
+image: /assets/img/lettiera.svg
+image_png: /assets/img/lettiera.png
 ---
 La lettiera è il mobile più importante della casa di un gatto d'appartamento, e il più sbagliato. Nove problemi su dieci (bisogni fuori posto, odori, sabbia ovunque, gatto che si trattiene) dipendono da una lettiera troppo piccola, nel posto sbagliato o pulita troppo poco. Questa guida spiega come sceglierla, dove metterla, quale sabbia usare e come gestirla in una casa dove lo spazio è poco.
 

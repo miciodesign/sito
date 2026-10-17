@@ -37,6 +37,7 @@
   <div class="cat-grid">
     {% for c in categories %}
     <a class="cat-card" href="{{ c.pillar.url if c.pillar else c.url }}">
+      {% if c.pillar and c.pillar.image %}<img class="cat-img" src="{{ c.pillar.image }}" alt="" width="1200" height="700" loading="lazy">{% endif %}
       <span class="cat-name">{{ c.name }}</span>
       <span class="cat-short">{{ c.short }}</span>
       {% if c.pillar %}<span class="cat-link">Leggi la guida completa →</span>{% else %}<span class="cat-link muted">Guida in arrivo</span>{% endif %}
@@ -53,6 +54,7 @@
   <div class="post-list">
     {% for a in articles[:9] %}
     <article class="post-card">
+      {% if a.image %}<a href="{{ a.url }}"><img class="post-img" src="{{ a.image }}" alt="" width="1200" height="700" loading="lazy"></a>{% endif %}
       <p class="post-cat"><a href="{{ a.category_obj.url }}">{{ a.category_obj.name }}</a> · {{ a.minutes }} min</p>
       <h3><a href="{{ a.url }}">{{ a.title }}</a></h3>
       <p class="muted">{{ a.description }}</p>

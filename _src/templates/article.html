@@ -1,8 +1,9 @@
 {% extends "base.html" %}
 {% block ogtype %}article{% endblock %}
+{% block ogimage %}<meta property="og:image" content="{{ site_url }}{{ a.image_png if a.image_png else '/assets/og-default.png' }}">{% endblock %}
 {% block head %}
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Article","headline":{{ a.title|tojson }},"description":{{ a.description|tojson }},"datePublished":"{{ a.date_iso }}","dateModified":"{{ a.updated_iso }}","inLanguage":"it-IT","author":{"@type":"Organization","name":"Redazione Micio Design","url":"{{ site_url }}/chi-siamo/"},"publisher":{"@type":"Organization","name":"Micio Design","url":"{{ site_url }}/"},"mainEntityOfPage":"{{ site_url }}{{ a.url }}"}
+{"@context":"https://schema.org","@type":"Article","headline":{{ a.title|tojson }},"description":{{ a.description|tojson }},"datePublished":"{{ a.date_iso }}","dateModified":"{{ a.updated_iso }}","inLanguage":"it-IT","author":{"@type":"Organization","name":"Redazione Micio Design","url":"{{ site_url }}/chi-siamo/"},"publisher":{"@type":"Organization","name":"Micio Design","url":"{{ site_url }}/"},"mainEntityOfPage":"{{ site_url }}{{ a.url }}"{% if a.image_png %},"image":"{{ site_url }}{{ a.image_png }}"{% endif %}}
 </script>
 {% endblock %}
 {% block content %}
@@ -14,6 +15,8 @@
     <p class="meta">Redazione Micio Design · Aggiornato il {{ a.updated_human }} · {{ a.minutes }} minuti di lettura</p>
     <p class="disclosure">Alcuni link in questa pagina sono di affiliazione: se compri tramite questi link riceviamo una piccola commissione, senza costi per te. <a href="/affiliazione/">Come funziona</a>.</p>
   </header>
+
+  {% if a.image %}<figure class="hero-img"><img src="{{ a.image }}" alt="{{ a.title }}" width="1200" height="700" loading="eager"></figure>{% endif %}
 
   <div class="article-grid">
     {% if a.toc %}

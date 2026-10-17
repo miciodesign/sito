@@ -5,6 +5,8 @@ category: arredo-e-pulizia
 date: 2026-10-20
 description: Quali tessuti resistono alle unghie, come salvare il divano, quale aspirapolvere funziona davvero con i peli, come eliminare per sempre l'odore di pipì e la routine di pulizia che non pesa. Una casa bella anche con un gatto dentro.
 pillar: true
+image: /assets/img/arredo-pulizia.svg
+image_png: /assets/img/arredo-pulizia.png
 ---
 Una casa con un gatto può essere bella, ordinata e profumata di niente. Non serve rinunciare al divano chiaro o ai tappeti: serve scegliere i materiali giusti, avere due o tre strumenti che funzionano e una routine che richiede meno tempo di quanto si pensi. Questa guida mette insieme le scelte di arredo che prevengono i problemi e le soluzioni per quelli che arrivano comunque.
 

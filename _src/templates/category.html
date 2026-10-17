@@ -9,6 +9,7 @@
 {% if cat.pillar %}
 <section class="wrap">
   <a class="pillar-card" href="{{ cat.pillar.url }}">
+    {% if cat.pillar.image %}<img class="pillar-img" src="{{ cat.pillar.image }}" alt="" width="1200" height="700">{% endif %}
     <p class="eyebrow">La guida completa</p>
     <h2>{{ cat.pillar.title }}</h2>
     <p>{{ cat.pillar.description }}</p>

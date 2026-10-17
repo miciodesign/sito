@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" font-family="Outfit, Arial, sans-serif">
+<rect width="1200" height="700" fill="#fbfaf7"/>
+<text x="60" y="70" font-size="34" font-weight="700" fill="#24201b">Piante e gatti: quali tenere, quali togliere</text>
+<text x="60" y="104" font-size="20" fill="#6a6359">Il giglio è l'unica pianta da non avere mai in casa, nemmeno in un mazzo</text>
+<g transform="translate(80,150)">
+<rect x="0" y="0" width="500" height="470" rx="16" fill="#e3ede7"/>
+<text x="30" y="50" font-size="24" font-weight="700" fill="#4e7a66">✓ Sicure</text>
+<g font-size="19" fill="#24201b">
+<text x="30" y="100">Erba gatta e graminacee</text><text x="30" y="135">Felce di Boston</text><text x="30" y="170">Calathea e maranta</text><text x="30" y="205">Areca, kentia, chamaedorea</text><text x="30" y="240">Peperomia e pilea</text><text x="30" y="275">Orchidea Phalaenopsis</text><text x="30" y="310">Violetta africana</text><text x="30" y="345">Basilico, rosmarino, timo</text><text x="30" y="380">Bromelie</text><text x="30" y="415">Fragole</text>
+</g>
+</g>
+<g transform="translate(620,150)">
+<rect x="0" y="0" width="500" height="470" rx="16" fill="#f8e3df"/>
+<text x="30" y="50" font-size="24" font-weight="700" fill="#a53a2a">✕ Tossiche</text>
+<g font-size="19" fill="#24201b">
+<text x="30" y="100" font-weight="700" fill="#a53a2a">Giglio ed emerocallide (letali)</text><text x="30" y="135">Oleandro</text><text x="30" y="170">Pothos, monstera, filodendro</text><text x="30" y="205">Dieffenbachia, spatifillo</text><text x="30" y="240">Stella di Natale</text><text x="30" y="275">Ciclamino, azalea</text><text x="30" y="310">Sansevieria, dracena, aloe</text><text x="30" y="345">Edera, mughetto</text><text x="30" y="380">Tulipano, narciso, giacinto (bulbi)</text><text x="30" y="415">Anthurium, calla</text>
+</g>
+</g>
+<g fill="#c2651d"><path transform="translate(520,70)" d="M0 20 L4 0 L14 10 L26 10 L36 0 L40 20 A20 20 0 1 1 0 20 Z"/></g>
+<text x="60" y="672" font-size="16" fill="#6a6359">miciodesign.it · Vasi pesanti, terriccio coperto, una vaschetta di erba gatta sempre disponibile.</text>
+</svg>

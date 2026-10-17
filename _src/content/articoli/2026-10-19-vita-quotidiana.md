@@ -5,6 +5,8 @@ category: vita-quotidiana
 date: 2026-10-19
 description: Dove mettere acqua e cibo, perché il gatto beve poco, quanto e come giocare, come organizzare le giornate quando sei fuori casa. La guida alla vita quotidiana di un gatto che vive in appartamento.
 pillar: true
+image: /assets/img/vita-quotidiana.svg
+image_png: /assets/img/vita-quotidiana.png
 ---
 Un gatto d'appartamento ha tutto quello che gli serve a portata di zampa, e proprio per questo rischia di non fare niente: mangia troppo, beve poco, dorme sedici ore e si annoia nelle altre otto. La differenza tra un gatto che vive in casa e un gatto che vive bene in casa sta in quattro cose semplici: dove stanno acqua e cibo, quanto si gioca, cosa fa quando è solo e quanto la giornata è prevedibile. Questa guida le prende una per una.
 

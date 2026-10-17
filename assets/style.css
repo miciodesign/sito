@@ -142,3 +142,10 @@ p{margin:0 0 1em}
 
 /* l indice generato da Markdown ha la stessa classe del contenitore: niente doppio bordo */
 .toc .toc{border:0;padding:0;background:none;position:static}
+
+/* immagini */
+.hero-img{margin:0 0 28px;max-width:960px}
+.hero-img img{width:100%;height:auto;border:1px solid var(--line);border-radius:var(--radius);background:#fbfaf7}
+.cat-img,.post-img{width:calc(100% + 40px);margin:-20px -20px 12px;height:auto;border-radius:var(--radius) var(--radius) 0 0;display:block;background:#fbfaf7;border-bottom:1px solid var(--line)}
+.pillar-img{width:100%;max-width:560px;height:auto;border-radius:10px;border:1px solid #ead4bd;margin-bottom:16px;display:block;background:#fbfaf7}
+.cat-card{overflow:hidden}

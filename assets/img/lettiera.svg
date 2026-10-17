@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" font-family="Outfit, Arial, sans-serif">
+<rect width="1200" height="700" fill="#fbfaf7"/>
+<text x="60" y="70" font-size="34" font-weight="700" fill="#24201b">Dove mettere la lettiera in un bilocale</text>
+<text x="60" y="104" font-size="20" fill="#6a6359">Lontana da cibo e acqua, con via di fuga, mai in un passaggio</text>
+<!-- pianta -->
+<g stroke="#24201b" stroke-width="6" fill="#ffffff">
+<rect x="80" y="150" width="1040" height="480"/>
+<line x1="560" y1="150" x2="560" y2="630"/>
+<line x1="560" y1="400" x2="1120" y2="400"/>
+<line x1="80" y1="470" x2="330" y2="470"/>
+</g>
+<!-- porte -->
+<g stroke="#24201b" stroke-width="6" fill="none"><path d="M560 300 a60 60 0 0 1 -60 60"/><path d="M700 400 a60 60 0 0 0 60 60"/><path d="M330 520 a50 50 0 0 1 -50 50"/></g>
+<rect x="556" y="300" width="8" height="60" fill="#fbfaf7"/>
+<rect x="700" y="396" width="60" height="8" fill="#fbfaf7"/>
+<rect x="326" y="470" width="8" height="50" fill="#fbfaf7"/>
+<!-- etichette stanze -->
+<g font-size="18" fill="#6a6359" font-weight="500">
+<text x="100" y="180">SOGGIORNO E CUCINA</text><text x="580" y="180">CAMERA</text><text x="580" y="430">BAGNO</text><text x="100" y="500">INGRESSO</text>
+</g>
+<!-- cucina: ciotole -->
+<rect x="380" y="170" width="160" height="60" rx="6" fill="#e7e2d9"/>
+<text x="395" y="207" font-size="16" fill="#6a6359">cucina</text>
+<circle cx="470" cy="260" r="14" fill="none" stroke="#4e7a66" stroke-width="5"/><circle cx="505" cy="260" r="14" fill="none" stroke="#4e7a66" stroke-width="5"/>
+<text x="430" y="300" font-size="15" fill="#4e7a66" font-weight="600">ciotole</text>
+<!-- divano -->
+<rect x="110" y="330" width="220" height="90" rx="14" fill="#e7e2d9"/><text x="170" y="383" font-size="16" fill="#6a6359">divano</text>
+<!-- letto -->
+<rect x="600" y="210" width="200" height="160" rx="10" fill="#e7e2d9"/><text x="672" y="298" font-size="16" fill="#6a6359">letto</text>
+<!-- lettiere -->
+<g>
+<rect x="1000" y="500" width="90" height="70" rx="10" fill="#f7e8d9" stroke="#c2651d" stroke-width="5"/>
+<text x="1012" y="543" font-size="30" fill="#c2651d">✓</text>
+<text x="880" y="610" font-size="16" fill="#c2651d" font-weight="600">bagno, porta sempre aperta</text>
+<rect x="960" y="190" width="90" height="70" rx="10" fill="#f7e8d9" stroke="#c2651d" stroke-width="5"/>
+<text x="972" y="233" font-size="30" fill="#c2651d">✓</text>
+<text x="850" y="290" font-size="16" fill="#c2651d" font-weight="600">angolo camera, chiusa</text>
+<rect x="420" y="330" width="90" height="70" rx="10" fill="#f8e3df" stroke="#a53a2a" stroke-width="5"/>
+<text x="446" y="375" font-size="30" fill="#a53a2a">✕</text>
+<text x="380" y="430" font-size="16" fill="#a53a2a" font-weight="600">vicino al cibo</text>
+<rect x="110" y="540" width="90" height="70" rx="10" fill="#f8e3df" stroke="#a53a2a" stroke-width="5"/>
+<text x="136" y="585" font-size="30" fill="#a53a2a">✕</text>
+<text x="210" y="585" font-size="16" fill="#a53a2a" font-weight="600">passaggio, porta d'ingresso</text>
+</g>
+<!-- gatto -->
+<g fill="#c2651d" transform="translate(700,470)"><path d="M0 20 L4 0 L14 10 L26 10 L36 0 L40 20 A20 20 0 1 1 0 20 Z"/></g>
+<text x="60" y="672" font-size="16" fill="#6a6359">miciodesign.it · Un gatto, due lettiere. Due gatti, tre. In stanze diverse.</text>
+</svg>

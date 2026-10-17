@@ -5,6 +5,8 @@ category: balcone-e-finestre
 date: 2026-10-18
 description: Come mettere in sicurezza balcone e finestre per un gatto d'appartamento: reti anche senza forare, il pericolo delle finestre a vasistas, zanzariere che reggono, e come trasformare il balcone nel suo posto preferito.
 pillar: true
+image: /assets/img/balcone.svg
+image_png: /assets/img/balcone.png
 ---
 Il balcone e le finestre sono il punto più pericoloso della casa per un gatto. Non perché il gatto sia goffo, ma perché insegue un piccione, perde l'equilibrio su una ringhiera bagnata o resta incastrato in una finestra a ribalta. Le cadute dai piani alti sono una delle prime cause di ricovero d'urgenza dei gatti di città, e i veterinari le vedono soprattutto in primavera, quando si riaprono le finestre. La buona notizia è che si risolvono tutte con poco, spesso senza un buco, e che un balcone sicuro diventa il posto preferito del gatto.
 
