@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1640 624" font-family="Outfit, Arial, sans-serif"><rect width="1640" height="624" fill="#fbfaf7"/>
+<g fill="#f7e8d9" transform="translate(60,-40)"><rect x="1180" y="140" width="300" height="22" rx="6"/><rect x="1260" y="250" width="240" height="22" rx="6"/><rect x="1120" y="360" width="280" height="22" rx="6"/><rect x="1100" y="470" width="420" height="30" rx="8" fill="#e3ede7"/></g>
+<g fill="#c2651d" transform="translate(60,-40)"><path transform="translate(1300,92) scale(2.2)" d="M0 20 L4 0 L14 10 L26 10 L36 0 L40 20 A20 20 0 1 1 0 20 Z"/><path transform="translate(1400,202) scale(2.2)" d="M0 20 L4 0 L14 10 L26 10 L36 0 L40 20 A20 20 0 1 1 0 20 Z"/><path transform="translate(1200,312) scale(2.2)" d="M0 20 L4 0 L14 10 L26 10 L36 0 L40 20 A20 20 0 1 1 0 20 Z"/></g>
+<text x="120" y="250" font-size="110" font-weight="700" fill="#24201b" letter-spacing="-3">Micio <tspan fill="#c2651d">Design</tspan></text>
+<text x="124" y="330" font-size="42" fill="#6a6359">La casa a misura di gatto d'appartamento.</text>
+<text x="124" y="400" font-size="30" fill="#4e7a66" font-weight="600" letter-spacing="3">LETTIERA · SPAZIO VERTICALE · BALCONE · GIOCO · CASA</text>
+<text x="124" y="520" font-size="34" font-weight="600" fill="#24201b">miciodesign.it</text>
+</svg>
