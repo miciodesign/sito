@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Strumenti per chi vive con un gatto · Micio Design</title>
+<meta name="description" content="Tre calcolatori gratuiti: questa pianta è sicura per il gatto? Quante lettiere servono e dove? Il mio gatto beve abbastanza?">
+<link rel="canonical" href="https://miciodesign.it/strumenti/">
+<meta property="og:site_name" content="Micio Design">
+<meta property="og:title" content="Strumenti per chi vive con un gatto · Micio Design">
+<meta property="og:description" content="Tre calcolatori gratuiti: questa pianta è sicura per il gatto? Quante lettiere servono e dove? Il mio gatto beve abbastanza?">
+<meta property="og:url" content="https://miciodesign.it/strumenti/">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://miciodesign.it/assets/og-default.png"><meta property="og:locale" content="it_IT">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="alternate" type="application/rss+xml" title="Micio Design" href="/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;600;700&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&display=swap">
+<link rel="stylesheet" href="/assets/style.css?v=2026-10-18">
+</head>
+<body>
+<a class="skip" href="#main">Vai al contenuto</a>
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="logo" href="/" aria-label="Micio Design, home">
+      <svg width="34" height="34" viewBox="0 0 34 34" aria-hidden="true"><path d="M5 14 L7 3 L14 9 L20 9 L27 3 L29 14 A12 12 0 1 1 5 14 Z" fill="currentColor"/><circle cx="12.5" cy="18" r="1.8" fill="#fff"/><circle cx="21.5" cy="18" r="1.8" fill="#fff"/><path d="M15.5 22.5 L17 24 L18.5 22.5 Z" fill="#fff"/></svg>
+      <span>Micio <em>Design</em></span>
+    </a>
+    <button class="nav-toggle" aria-expanded="false" aria-controls="nav" onclick="var n=document.getElementById('nav');var o=n.classList.toggle('open');this.setAttribute('aria-expanded',o)">Menu</button>
+    <nav id="nav" class="nav" aria-label="Categorie">
+      <a href="/lettiera/">Lettiera</a>
+      <a href="/spazio-verticale/">Spazio verticale</a>
+      <a href="/balcone-e-finestre/">Balcone e finestre</a>
+      <a href="/vita-quotidiana/">Vita quotidiana</a>
+      <a href="/convivenze/">Convivenze</a>
+      <a href="/arredo-e-pulizia/">Arredo e pulizia</a>
+      <a href="/strumenti/" class="nav-tools" aria-current="page">Strumenti</a>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+<section class="wrap section">
+  <nav class="crumbs" aria-label="Percorso"><a href="/">Home</a> › <span>Strumenti</span></nav>
+  <h1>Strumenti per chi vive con un gatto</h1>
+  <p class="lead">Tre calcolatori rapidi, senza registrazione. Rispondono alle domande che ci fanno più spesso. Non sostituiscono il veterinario: ti dicono se la casa è organizzata bene.</p>
+</section>
+
+<section class="wrap section tools">
+
+  <div class="tool" id="piante">
+    <p class="eyebrow">Convivenze</p>
+    <h2>Questa pianta è sicura per il gatto?</h2>
+    <p class="muted">Scrivi il nome comune o scientifico. La lista copre le piante da appartamento e da balcone più diffuse in Italia.</p>
+    <label for="plantq" class="small">Nome della pianta</label>
+    <input id="plantq" type="search" placeholder="es. pothos, monstera, basilico, giglio" autocomplete="off">
+    <div id="plantres" class="tool-result" aria-live="polite"></div>
+    <p class="small muted">Se la pianta non è in lista, considerala a rischio finché non la verifichi. In caso di ingestione, foto della pianta e chiamata al veterinario. Lista completa nella <a href="/convivenze/gatto-convivenze-piante-bambini-animali/">guida alle convivenze</a>.</p>
+  </div>
+
+  <div class="tool" id="lettiere">
+    <p class="eyebrow">Lettiera</p>
+    <h2>Quante lettiere servono e dove metterle?</h2>
+    <form id="litterform" class="tool-form">
+      <div><label for="ncats">Quanti gatti</label><select id="ncats"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4 o più</option></select></div>
+      <div><label for="rooms">Stanze in casa (bagno escluso)</label><select id="rooms"><option value="1">1 (monolocale)</option><option value="2" selected>2 (bilocale)</option><option value="3">3</option><option value="4">4 o più</option></select></div>
+      <div><label for="floors">Piani</label><select id="floors"><option value="1" selected>1</option><option value="2">2 o più</option></select></div>
+      <div><label for="senior">C'è un gatto anziano o con difficoltà a muoversi?</label><select id="senior"><option value="no" selected>No</option><option value="si">Sì</option></select></div>
+      <div><label for="closed">Preferenza</label><select id="closed"><option value="any" selected>Nessuna</option><option value="chiusa">Lettiere chiuse</option><option value="aperta">Lettiere aperte</option></select></div>
+      <button type="submit" class="btn">Calcola</button>
+    </form>
+    <div id="litterres" class="tool-result" aria-live="polite"></div>
+    <p class="small muted">Dettagli, tipi e sabbie nella <a href="/lettiera/guida-lettiera-gatto-appartamento/">guida completa alla lettiera</a>.</p>
+  </div>
+
+  <div class="tool" id="acqua">
+    <p class="eyebrow">Vita quotidiana</p>
+    <h2>Il mio gatto beve abbastanza?</h2>
+    <form id="waterform" class="tool-form">
+      <div><label for="kg">Peso del gatto (kg)</label><input id="kg" type="number" min="1" max="15" step="0.1" value="4"></div>
+      <div><label for="diet">Cosa mangia</label><select id="diet"><option value="secco" selected>Solo cibo secco</option><option value="misto">Misto secco e umido</option><option value="umido">Solo cibo umido</option></select></div>
+      <div><label for="ml">Quanta acqua beve dalla ciotola al giorno (ml, se lo sai)</label><input id="ml" type="number" min="0" max="1000" step="10" placeholder="facoltativo"></div>
+      <button type="submit" class="btn">Calcola</button>
+    </form>
+    <div id="waterres" class="tool-result" aria-live="polite"></div>
+    <p class="small muted">Stime indicative per un gatto adulto sano. Un gatto che beve molto più o molto meno del solito va visto dal veterinario. Come farlo bere di più: nella <a href="/vita-quotidiana/gatto-appartamento-felice-routine/">guida alla vita quotidiana</a>.</p>
+  </div>
+
+</section>
+
+<script>
+(function(){
+// ---- piante
+var plants=[
+ ['giglio','lilium','emerocallide','hemerocallis','giglio asiatico','giglio orientale'],
+ ['oleandro','nerium'],['pothos','potos','epipremnum','scindapsus'],['monstera','monstera deliciosa'],['filodendro','philodendron'],['dieffenbachia'],['spatifillo','spathiphyllum','giglio della pace'],['anthurium','anturio'],['calla','zantedeschia'],['stella di natale','poinsettia','euphorbia pulcherrima'],['ciclamino','cyclamen'],['azalea','rododendro','rhododendron'],['sansevieria','lingua di suocera','dracaena trifasciata'],['dracena','dracaena','tronchetto della felicità'],['aloe','aloe vera'],['edera','hedera'],['mughetto','convallaria'],['narciso','narcissus'],['tulipano','tulipa'],['giacinto','hyacinthus'],['ficus','ficus benjamin','ficus elastica','ficus lyrata'],['yucca'],['kalanchoe'],['amaryllis','hippeastrum'],['ortensia','hydrangea'],['lavanda','lavandula'],['eucalipto','eucalyptus'],['cannabis','marijuana'],['tabacco','nicotiana'],['glicine','wisteria'],['tasso','taxus'],['digitale','digitalis'],['agrifoglio','ilex'],['vischio'],['ricino'],['oleandro giallo','thevetia'],['zamioculcas','zz plant','zamia'],['alocasia','orecchie di elefante'],['caladium'],['begonia'],['geranio','pelargonium'],['crisantemo','chrysanthemum'],['peperoncino ornamentale'],['schefflera'],['croton','codiaeum'],['pachira'],['asparagina','asparagus'],['cycas','cicas','palma da sago'],['bosso','buxus'],['aglio','cipolla','erba cipollina','porro']
+];
+var tox={'giglio':'Letale: insufficienza renale acuta anche con il polline o l\'acqua del vaso. Da non avere mai in casa, nemmeno in un mazzo. In caso di contatto, pronto soccorso veterinario subito.','oleandro':'Molto tossico per il cuore. Da evitare anche sul balcone.','pothos':'Cristalli di ossalato di calcio: dolore e gonfiore in bocca, salivazione, vomito. Raramente grave, ma da tenere fuori portata.','monstera':'Ossalati di calcio: irritazione della bocca, salivazione, vomito.','filodendro':'Ossalati di calcio: irritazione della bocca, salivazione, vomito.','dieffenbachia':'Ossalati di calcio, tra le più irritanti: dolore intenso in bocca, gonfiore, difficoltà a deglutire.','spatifillo':'Ossalati di calcio: irritazione della bocca e vomito.','anthurium':'Ossalati di calcio: irritazione della bocca e vomito.','calla':'Ossalati di calcio: irritazione della bocca e vomito.','stella di natale':'Lattice irritante: vomito, salivazione. Meno grave di quanto si creda, ma da evitare.','ciclamino':'Tossico, soprattutto i tubercoli: vomito, problemi cardiaci in dosi alte.','azalea':'Tossica: vomito, debolezza, problemi cardiaci. Da evitare.','sansevieria':'Saponine: vomito, diarrea, letargia.','dracena':'Saponine: vomito, salivazione, pupille dilatate.','aloe':'Saponine e antrachinoni: vomito, diarrea, letargia. Il gel puro è meno problematico, la pianta sì.','edera':'Tossica: vomito, diarrea, salivazione; irritante al contatto.','mughetto':'Molto tossico per il cuore. Da evitare.','narciso':'Tossico, soprattutto il bulbo: vomito, diarrea, problemi cardiaci.','tulipano':'Tossico, soprattutto il bulbo: vomito, salivazione.','giacinto':'Tossico, soprattutto il bulbo: vomito, salivazione.','ficus':'Lattice irritante: vomito, salivazione, irritazione della pelle. Tossicità moderata.','yucca':'Saponine: vomito, diarrea, salivazione.','kalanchoe':'Tossica per il cuore in dosi alte; vomito e diarrea.','amaryllis':'Tossica, soprattutto il bulbo: vomito, dolori addominali, tremori.','ortensia':'Tossica: vomito, diarrea, letargia.','lavanda':'Lievemente tossica se ingerita in quantità; l\'olio essenziale è tossico. La pianta sul balcone è un rischio basso.','eucalipto':'Tossico: salivazione, vomito, debolezza. L\'olio essenziale è pericoloso.','cannabis':'Tossica: incoordinazione, vomito, tremori.','tabacco':'Molto tossico: nicotina.','glicine':'Tossico: vomito, diarrea.','tasso':'Molto tossico, potenzialmente letale.','digitale':'Molto tossica per il cuore.','agrifoglio':'Tossico: vomito, diarrea.','vischio':'Tossico: vomito, problemi cardiaci.','ricino':'Molto tossico, potenzialmente letale.','oleandro giallo':'Molto tossico per il cuore.','zamioculcas':'Ossalati di calcio: irritazione della bocca e vomito.','alocasia':'Ossalati di calcio: irritazione intensa della bocca.','caladium':'Ossalati di calcio: irritazione intensa della bocca.','begonia':'Ossalati, soprattutto nelle radici: irritazione della bocca, vomito.','geranio':'Tossico: vomito, anoressia, dermatite.','crisantemo':'Tossico: vomito, diarrea, salivazione, incoordinazione.','peperoncino ornamentale':'Irritante: vomito e diarrea.','schefflera':'Ossalati di calcio: irritazione della bocca e vomito.','croton':'Irritante: vomito, diarrea.','pachira':'Lievemente irritante se masticata; rischio basso.','asparagina':'Tossica: vomito, diarrea, dermatite da contatto ripetuto.','cycas':'Molto tossica per il fegato, potenzialmente letale (soprattutto i semi).','bosso':'Tossico: vomito, diarrea.','aglio':'Tossici per i gatti (anemia): aglio, cipolla, erba cipollina, porro, anche cotti.'};
+var safe=[['erba gatta','nepeta','nepeta cataria'],['erba per gatti','graminacee','orzo','avena','grano'],['valeriana'],['felce di boston','nephrolepis','felce'],['calathea'],['maranta'],['peperomia'],['areca','dypsis'],['kentia','howea'],['chamaedorea','palma della fortuna','palma nana'],['pilea','pianta delle monete'],['bromelia','guzmania','tillandsia'],['orchidea','phalaenopsis'],['violetta africana','saintpaulia'],['basilico'],['rosmarino'],['timo'],['salvia'],['prezzemolo'],['menta'],['fragola','fragole'],['camomilla'],['echeveria'],['haworthia'],['fittonia'],['ipomea batatas','patata dolce ornamentale'],['girasole','helianthus'],['rosa','rose'],['gerbera'],['zinnia'],['petunia'],['bocca di leone','antirrhinum'],['calendula'],['fucsia','fuchsia'],['bambù','bambusa'],['ceropegia','collana di cuori'],['banano','musa'],['hoya','fiore di cera'],['aspidistra'],['zucca','zucchina','cetriolo'],['melissa'],['aneto'],['coriandolo'],['origano']];
+function norm(s){return s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'').trim()}
+var q=document.getElementById('plantq'),res=document.getElementById('plantres');
+q.addEventListener('input',function(){
+  var v=norm(q.value); if(v.length<3){res.innerHTML='';res.className='tool-result';return}
+  var hit=null,key=null;
+  plants.forEach(function(g){g.forEach(function(n){if(!hit&&(norm(n).indexOf(v)===0||v.indexOf(norm(n))===0||norm(n).indexOf(v)>=0&&v.length>=4)){hit=g;key=g[0]}})});
+  if(hit){res.className='tool-result bad';res.innerHTML='<strong>'+hit[0].charAt(0).toUpperCase()+hit[0].slice(1)+': da togliere o mettere fuori portata.</strong><br>'+(tox[key]||'Tossica per i gatti.');return}
+  var ok=null;safe.forEach(function(g){g.forEach(function(n){if(!ok&&(norm(n).indexOf(v)===0||v.indexOf(norm(n))===0||norm(n).indexOf(v)>=0&&v.length>=4))ok=g})});
+  if(ok){res.className='tool-result good';res.innerHTML='<strong>'+ok[0].charAt(0).toUpperCase()+ok[0].slice(1)+': sicura.</strong><br>Può masticarla senza problemi seri; al massimo un po\' di vomito se esagera. Vaso pesante e terriccio coperto, per il resto della casa.';return}
+  res.className='tool-result warn';res.innerHTML='<strong>Non è in lista.</strong><br>Finché non la verifichi, trattala come a rischio: fuori portata. Se hai il nome scientifico, prova con quello.';
+});
+// ---- lettiere
+document.getElementById('litterform').addEventListener('submit',function(e){
+  e.preventDefault();
+  var n=+document.getElementById('ncats').value,rooms=+document.getElementById('rooms').value,floors=+document.getElementById('floors').value,senior=document.getElementById('senior').value==='si',pref=document.getElementById('closed').value;
+  var tot=n+1; if(floors>1&&tot<floors+ (n>1?1:0)) tot=Math.max(tot,floors+1);
+  if(rooms===1&&n===1) tot=1;
+  var where=[];
+  if(rooms===1){where.push('In un monolocale conta più la gestione del numero: una lettiera grande, pulita due volte al giorno, nel punto più lontano da cibo e letto, con un tappetino davanti.');}
+  else{where.push('Una in bagno, con la porta sempre aperta (fermaporta).');if(tot>=2)where.push('Una in un angolo tranquillo di un\'altra stanza, lontano da ciotole e passaggi: camera da letto o studio vanno benissimo.');if(tot>=3)where.push('La terza in una stanza diversa dalle prime due, mai affiancata: due lettiere vicine per il gatto contano come una.');if(tot>=4)where.push('Le altre distribuite in modo che nessun gatto debba attraversare il territorio di un altro per arrivarci.');}
+  if(floors>1)where.push('Almeno una per piano: un gatto non scende le scale per fare pipì, soprattutto di notte o da anziano.');
+  var type='';
+  if(senior)type='Con un gatto anziano o con difficoltà: almeno una lettiera aperta, bordi bassi (5-8 cm) su un lato, vicino a dove dorme.';
+  else if(pref==='chiusa')type='Lettiere chiuse: va bene, ma togli lo sportello se il gatto esita, e pulisci due volte al giorno perché l\'odore resta dentro.';
+  else if(pref==='aperta')type='Lettiere aperte: la scelta più accettata dai gatti. Bordi alti almeno 15 cm e un tappetino raccogli-sabbia.';
+  else type='Tipo: con un solo gatto va bene qualunque tipo purché grande (almeno 1,5 volte la lunghezza del gatto); con più gatti meglio almeno una aperta.';
+  var r=document.getElementById('litterres');r.className='tool-result good';
+  r.innerHTML='<strong>'+(tot===1?'Una lettiera, gestita bene.':tot+' lettiere.')+'</strong> '+(n>1?'La regola è una per gatto più una.':'Una per gatto più una: la seconda evita la maggior parte degli incidenti.')+'<ul><li>'+where.join('</li><li>')+'</li><li>'+type+'</li></ul>';
+});
+// ---- acqua
+document.getElementById('waterform').addEventListener('submit',function(e){
+  e.preventDefault();
+  var kg=parseFloat(document.getElementById('kg').value)||4,diet=document.getElementById('diet').value,ml=document.getElementById('ml').value;
+  var need=Math.round(kg*50); // 40-60 ml/kg/die
+  var fromFood={secco:Math.round(kg*4),misto:Math.round(need*0.4),umido:Math.round(need*0.75)}[diet];
+  var toDrink=Math.max(0,need-fromFood);
+  var r=document.getElementById('waterres');r.className='tool-result good';
+  var html='<strong>Fabbisogno totale: circa '+need+' ml al giorno</strong> (acqua bevuta più acqua nel cibo), per un gatto di '+kg+' kg.<br>';
+  html+={secco:'Con solo cibo secco quasi tutta deve venire dalla ciotola: <strong>circa '+toDrink+' ml da bere</strong>. È tanto per un gatto, e la maggior parte non ci arriva: fontanella, più punti acqua lontani dal cibo, e una porzione di umido al giorno fanno la differenza.',misto:'Con dieta mista una parte arriva dall\'umido: <strong>circa '+toDrink+' ml da bere</strong> dalla ciotola o dalla fontanella.',umido:'Con solo umido il grosso arriva dal cibo: <strong>circa '+toDrink+' ml da bere</strong>, spesso senza che tu lo veda bere molto.'}[diet];
+  if(ml!==''){var d=parseFloat(ml);if(d<toDrink*0.6)html+='<br><br>Beve <strong>'+d+' ml</strong>: meno di quanto servirebbe. Prova le soluzioni della guida (acqua lontana dal cibo, fontanella, ciotole larghe) e, se non cambia in due settimane, parlane con il veterinario.';else if(d>need*1.3)html+='<br><br>Beve <strong>'+d+' ml</strong>: più del previsto. Bere molto può essere normale col caldo, ma se è una novità va riferito al veterinario.';else html+='<br><br>Beve <strong>'+d+' ml</strong>: in linea con il fabbisogno.';}
+  r.innerHTML=html;
+});
+})();
+</script>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap footer-grid">
+    <div>
+      <p class="footer-brand">Micio <em>Design</em></p>
+      <p class="muted">Idee, guide e progetti per vivere bene con un gatto in appartamento. Scritto da persone che vivono con gatti in case piccole.</p>
+      <p class="muted small">Non diamo consigli veterinari: per la salute del tuo gatto rivolgiti al veterinario.</p>
+    </div>
+    <div>
+      <p class="footer-title">Categorie</p>
+      <ul class="footer-list">
+<li><a href="/lettiera/">Lettiera</a></li><li><a href="/spazio-verticale/">Spazio verticale</a></li><li><a href="/balcone-e-finestre/">Balcone e finestre</a></li><li><a href="/vita-quotidiana/">Vita quotidiana</a></li><li><a href="/convivenze/">Convivenze</a></li><li><a href="/arredo-e-pulizia/">Arredo e pulizia</a></li>      </ul>
+    </div>
+    <div>
+      <p class="footer-title">Micio Design</p>
+      <ul class="footer-list">
+        <li><a href="/strumenti/">Strumenti</a></li>
+        <li><a href="/chi-siamo/">Chi siamo</a></li>
+        <li><a href="/contatti/">Contatti</a></li>
+        <li><a href="/affiliazione/">Come ci sosteniamo</a></li>
+        <li><a href="/privacy/">Privacy e cookie</a></li>
+<li><a href="https://www.instagram.com/miciodesign.it/" rel="noopener" target="_blank">Instagram</a></li><li><a href="https://www.pinterest.com/miciodesignit/" rel="noopener" target="_blank">Pinterest</a></li>      </ul>
+    </div>
+  </div>
+  <div class="wrap footer-bottom">
+    <p class="small muted">© 2026 Micio Design · miciodesign.it · Alcuni link sono di affiliazione: se compri tramite questi link riceviamo una piccola commissione, senza costi per te. <a href="/affiliazione/">Come funziona</a>.</p>
+  </div>
+</footer>
+</body>
+</html>

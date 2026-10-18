@@ -35,6 +35,7 @@
       {% for c in categories %}
       <a href="{{ c.url }}"{% if page_url.startswith(c.url) %} aria-current="page"{% endif %}>{{ c.name }}</a>
       {% endfor %}
+      <a href="/strumenti/" class="nav-tools"{% if page_url == "/strumenti/" %} aria-current="page"{% endif %}>Strumenti</a>
     </nav>
   </div>
 </header>
@@ -59,6 +60,7 @@
     <div>
       <p class="footer-title">Micio Design</p>
       <ul class="footer-list">
+        <li><a href="/strumenti/">Strumenti</a></li>
         <li><a href="/chi-siamo/">Chi siamo</a></li>
         <li><a href="/contatti/">Contatti</a></li>
         <li><a href="/affiliazione/">Come ci sosteniamo</a></li>

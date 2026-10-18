@@ -209,13 +209,18 @@ def build() -> None:
             **base_ctx, p=p, page_url=p["url"],
             title=f"{p['title']} · {CONFIG['name']}", description=p.get("description", "")))
 
+    # strumenti
+    write(ROOT / "strumenti" / "index.html", env.get_template("tools.html").render(
+        **base_ctx, page_url="/strumenti/", title=f"Strumenti per chi vive con un gatto · {CONFIG['name']}",
+        description="Tre calcolatori gratuiti: questa pianta è sicura per il gatto? Quante lettiere servono e dove? Il mio gatto beve abbastanza?"))
+
     # 404
     write(ROOT / "404.html", env.get_template("404.html").render(
         **base_ctx, page_url="/404.html", title=f"Pagina non trovata · {CONFIG['name']}",
         description=""))
 
     # sitemap, robots, feed
-    urls = ["/"] + [c["url"] for c in categories] + [a["url"] for a in articles] + [p["url"] for p in pages]
+    urls = ["/", "/strumenti/"] + [c["url"] for c in categories] + [a["url"] for a in articles] + [p["url"] for p in pages]
     sitemap = ['<?xml version="1.0" encoding="UTF-8"?>',
                '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     for u in urls:
