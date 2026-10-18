@@ -20,6 +20,25 @@ Stato: [ ] da scrivere · [x] pubblicato
 - [x] 5 Gatto e casa: piante, bambini, altri animali · convivenze · 2026-10-19
 - [x] 6 Arredare e pulire una casa con gatti · arredo-e-pulizia · 2026-10-20
 
+## Razze in appartamento (2 a settimana dalla settimana 3, in aggiunta alla coda)
+
+Nuova categoria `razze` da aggiungere in config.json (nome "Razze in appartamento", intro: come vive ciascuna razza in casa). Ogni scheda, tipo I, 900-1.200 parole: carattere in casa, spazio verticale richiesto, bisogno di gioco e compagnia, pelo e pulizia, adatta a monolocale sì/no, con cosa attrezzare la casa, link alle guide. Niente salute né prezzi dei cuccioli. Illustrazione: silhouette della razza nello stile del sito finché non arriva la foto Wikimedia (con riga di attribuzione obbligatoria: autore, Wikimedia Commons, licenza).
+
+- [ ] R1 Maine Coon in appartamento: spazio, mensole e gioco per un gigante
+- [ ] R2 Il gatto europeo (soriano) in casa: il più adattabile di tutti
+- [ ] R3 Siamese in appartamento: compagnia, voce e noia
+- [ ] R4 Britannico a pelo corto: il gatto da divano che ha bisogno di muoversi
+- [ ] R5 Persiano in casa: pelo, spazi bassi e routine
+- [ ] R6 Ragdoll in appartamento: il gatto da interno per definizione
+- [ ] R7 Bengala in casa: energia, altezza e arricchimento
+- [ ] R8 Sacro di Birmania in appartamento
+- [ ] R9 Norvegese delle foreste: un arrampicatore in casa
+- [ ] R10 Scottish Fold in appartamento
+- [ ] R11 Sphynx in casa: caldo, pulizia e compagnia
+- [ ] R12 Abissino in appartamento: il gatto che non sta mai fermo
+- [ ] R13 Certosino in casa
+- [ ] R14 Siberiano in appartamento
+
 ## Coda, in ordine di pubblicazione (5 a settimana)
 
 - [ ] 7 A Le migliori lettiere autopulenti del 2026 · lettiera
