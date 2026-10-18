@@ -181,6 +181,9 @@ def build() -> None:
 
     # assets
     shutil.copytree(STATIC, ROOT / "assets")
+    # file di verifica (Google Search Console e simili) nella radice del sito
+    for f in STATIC.glob("google*.html"):
+        shutil.copy(f, ROOT / f.name)
 
     # home
     write(ROOT / "index.html", env.get_template("home.html").render(
