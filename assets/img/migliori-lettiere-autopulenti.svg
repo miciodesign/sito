@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" font-family="Outfit, Arial, sans-serif">
+<rect width="1200" height="700" fill="#fbfaf7"/>
+<text x="60" y="70" font-size="34" font-weight="700" fill="#24201b">Lettiera autopulente: come funziona e cosa misurare</text>
+<text x="60" y="104" font-size="20" fill="#6a6359">Il gatto esce, il tamburo setaccia, i grumi cadono nel cassetto. Prima di comprare: spazio, presa, sabbia</text>
+<!-- sezione lettiera chiusa -->
+<g transform="translate(90,150)">
+<rect x="0" y="0" width="520" height="470" rx="14" fill="#ffffff" stroke="#e7e2d9" stroke-width="3"/>
+<text x="24" y="40" font-size="18" font-weight="700" fill="#24201b">Chiusa a tamburo (PetKit, Litter-Robot)</text>
+<!-- base -->
+<rect x="80" y="330" width="360" height="90" rx="10" fill="#e7e2d9"/>
+<!-- cassetto -->
+<rect x="110" y="355" width="300" height="45" rx="6" fill="#ffffff" stroke="#24201b" stroke-width="5"/>
+<text x="260" y="383" font-size="14" text-anchor="middle" fill="#24201b" font-weight="600">cassetto 7-11 litri · si svuota ogni 7-15 giorni</text>
+<!-- tamburo -->
+<circle cx="260" cy="200" r="130" fill="#ffffff" stroke="#24201b" stroke-width="6"/>
+<path d="M158 265 A120 120 0 0 0 362 265 Z" fill="#f7e8d9"/>
+<path d="M158 265 A120 120 0 0 0 362 265" fill="none" stroke="#c2651d" stroke-width="4" stroke-dasharray="10 8"/>
+<text x="260" y="256" font-size="15" text-anchor="middle" fill="#c2651d" font-weight="600">sabbia agglomerante fine, 2,5-4 kg</text>
+<!-- apertura -->
+<ellipse cx="330" cy="175" rx="38" ry="55" fill="#fbfaf7" stroke="#24201b" stroke-width="6"/>
+<!-- freccia rotazione -->
+<path d="M150 130 A125 125 0 0 1 240 75" fill="none" stroke="#4e7a66" stroke-width="5"/>
+<path d="M232 62 L254 72 L236 90 Z" fill="#4e7a66"/>
+<text x="24" y="70" font-size="15" fill="#4e7a66" font-weight="600">ruota 3-10 min dopo l'uscita</text>
+<!-- grumi -->
+<circle cx="230" cy="340" r="7" fill="#c2651d"/><circle cx="260" cy="335" r="6" fill="#c2651d"/><circle cx="290" cy="342" r="7" fill="#c2651d"/>
+<!-- quote -->
+<line x1="470" y1="70" x2="470" y2="420" stroke="#6a6359" stroke-width="2"/>
+<line x1="460" y1="70" x2="480" y2="70" stroke="#6a6359" stroke-width="2"/><line x1="460" y1="420" x2="480" y2="420" stroke="#6a6359" stroke-width="2"/>
+<text x="490" y="250" font-size="15" fill="#6a6359" transform="rotate(90 490 250)" text-anchor="middle">altezza 55-65 cm</text>
+<text x="260" y="448" font-size="15" text-anchor="middle" fill="#6a6359">profondità 60-82 cm · lascia 10 cm dietro e 15 sopra</text>
+</g>
+<!-- colonna destra: aperta + checklist -->
+<g transform="translate(640,150)">
+<rect x="0" y="0" width="470" height="200" rx="14" fill="#ffffff" stroke="#e7e2d9" stroke-width="3"/>
+<text x="24" y="40" font-size="18" font-weight="700" fill="#24201b">Aperta (Neakasa M1): per gatti diffidenti</text>
+<rect x="60" y="120" width="260" height="55" rx="8" fill="#e7e2d9"/>
+<path d="M80 120 L80 70 Q190 40 300 70 L300 120 Z" fill="#ffffff" stroke="#24201b" stroke-width="6"/>
+<path d="M95 112 Q190 96 285 112" fill="none" stroke="#c2651d" stroke-width="4" stroke-dasharray="10 8"/>
+<g fill="#c2651d" transform="translate(170,66)"><path d="M0 20 L4 0 L14 10 L26 10 L36 0 L40 20 A20 20 0 1 1 0 20 Z"/></g>
+<text x="345" y="100" font-size="15" fill="#4e7a66" font-weight="600">ingresso 35 cm</text>
+<text x="345" y="122" font-size="15" fill="#4e7a66" font-weight="600">1-15 kg</text>
+<text x="345" y="144" font-size="15" fill="#4e7a66" font-weight="600">50 dB</text>
+</g>
+<g transform="translate(640,375)" font-size="17" fill="#24201b">
+<rect x="0" y="0" width="470" height="245" rx="14" fill="#ffffff" stroke="#e7e2d9" stroke-width="3"/>
+<text x="24" y="40" font-size="18" font-weight="700">Le quattro verifiche prima di comprare</text>
+<g font-size="22" fill="#4e7a66" font-weight="700"><text x="24" y="85">✓</text><text x="24" y="125">✓</text><text x="24" y="165">✓</text><text x="24" y="205">✓</text></g>
+<text x="56" y="85">Misura l'angolo: 80 cm di profondità, 65 di altezza</text>
+<text x="56" y="125">Presa di corrente a meno di un metro</text>
+<text x="56" y="165">Sabbia agglomerante fine: niente silicio o pellet</text>
+<text x="56" y="205">Vecchia lettiera accanto, nuova spenta, per 1-2 settimane</text>
+</g>
+<text x="60" y="672" font-size="16" fill="#6a6359">miciodesign.it · Prezzi ottobre 2026: da 160 € (PetSafe ScoopFree) a 850 € (PetKit Purobot Ultra). Un quarto del lavoro, non zero.</text>
+</svg>

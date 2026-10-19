@@ -41,11 +41,11 @@ Nuova categoria `razze` da aggiungere in config.json (nome "Razze in appartament
 
 ## Coda, in ordine di pubblicazione (5 a settimana)
 
-- [ ] 7 A Le migliori lettiere autopulenti del 2026 · lettiera
-- [ ] 8 A Lettiere chiuse: le 7 migliori e come scegliere · lettiera
-- [ ] 14 A I migliori tiragraffi alti e stabili · spazio-verticale
-- [ ] 21 A Rete per gatti sul balcone: le migliori e come montarla · balcone-e-finestre
-- [ ] 27 A Le migliori fontanelle per gatti silenziose · vita-quotidiana
+- [x] 7 A Le migliori lettiere autopulenti del 2026 · lettiera · 2026-10-20
+- [x] 8 A Lettiere chiuse: le 7 migliori e come scegliere · lettiera · 2026-10-21
+- [x] 14 A I migliori tiragraffi alti e stabili · spazio-verticale · 2026-10-22
+- [x] 21 A Rete per gatti sul balcone: le migliori e come montarla · balcone-e-finestre · 2026-10-23
+- [x] 27 A Le migliori fontanelle per gatti silenziose · vita-quotidiana · 2026-10-24
 - [ ] 9 A Lettiere per gatti grandi e Maine Coon · lettiera
 - [ ] 10 A Sabbia agglomerante, vegetale o silicio: quale conviene · lettiera
 - [ ] 16 P Mensole per gatti a parete: misure, distanze, montaggio · spazio-verticale

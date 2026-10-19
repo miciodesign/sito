@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" font-family="Outfit, Arial, sans-serif">
+<rect width="1200" height="700" fill="#fbfaf7"/>
+<text x="60" y="70" font-size="34" font-weight="700" fill="#24201b">Rete sul balcone: dalla ringhiera al soffitto, senza varchi</text>
+<text x="60" y="104" font-size="20" fill="#6a6359">Maglia 3 cm, filo 1,5 mm anti-UV, ganci ogni 30-40 cm, cavo d'acciaio teso, fascette nere ogni 15-20 cm</text>
+<!-- sezione balcone -->
+<g transform="translate(90,140)">
+<rect x="0" y="0" width="680" height="480" rx="14" fill="#ffffff" stroke="#e7e2d9" stroke-width="3"/>
+<text x="24" y="40" font-size="18" font-weight="700" fill="#24201b">Sezione del balcone, montaggio con fori</text>
+<!-- muro casa -->
+<rect x="40" y="60" width="30" height="400" fill="#e7e2d9"/>
+<!-- soletta sopra -->
+<rect x="40" y="60" width="430" height="26" fill="#e7e2d9"/>
+<!-- pavimento balcone -->
+<rect x="70" y="420" width="400" height="40" fill="#e7e2d9"/>
+<!-- porta finestra -->
+<rect x="70" y="140" width="14" height="280" fill="#ffffff" stroke="#24201b" stroke-width="4"/>
+<text x="108" y="280" font-size="13" fill="#6a6359" transform="rotate(-90 108 280)" text-anchor="middle">porta-finestra: la rete arriva fin sopra</text>
+<!-- ringhiera -->
+<g stroke="#24201b" stroke-width="5"><line x1="420" y1="420" x2="420" y2="300"/><line x1="390" y1="300" x2="450" y2="300"/><line x1="440" y1="420" x2="440" y2="305"/><line x1="400" y1="420" x2="400" y2="305"/></g>
+<!-- ganci -->
+<g fill="#4e7a66"><circle cx="380" cy="92" r="6"/><circle cx="420" cy="92" r="6"/><circle cx="460" cy="92" r="6"/></g>
+<!-- cavo -->
+<line x1="420" y1="92" x2="420" y2="300" stroke="#4e7a66" stroke-width="4"/>
+<!-- rete -->
+<rect x="403" y="92" width="34" height="210" fill="#f7e8d9" opacity="0.6"/>
+<g stroke="#c2651d" stroke-width="1.5">
+<line x1="405" y1="92" x2="405" y2="300"/><line x1="435" y1="92" x2="435" y2="300"/>
+<line x1="405" y1="110" x2="435" y2="110"/><line x1="405" y1="130" x2="435" y2="130"/><line x1="405" y1="150" x2="435" y2="150"/><line x1="405" y1="170" x2="435" y2="170"/><line x1="405" y1="190" x2="435" y2="190"/><line x1="405" y1="210" x2="435" y2="210"/><line x1="405" y1="230" x2="435" y2="230"/><line x1="405" y1="250" x2="435" y2="250"/><line x1="405" y1="270" x2="435" y2="270"/><line x1="405" y1="290" x2="435" y2="290"/>
+</g>
+<!-- fascette -->
+<g fill="#24201b"><rect x="413" y="100" width="14" height="4"/><rect x="413" y="160" width="14" height="4"/><rect x="413" y="220" width="14" height="4"/><rect x="413" y="296" width="14" height="4"/></g>
+<!-- etichette a destra -->
+<g font-size="14">
+<text x="490" y="97" fill="#4e7a66" font-weight="600">ganci a occhiello con tassello,</text>
+<text x="490" y="115" fill="#4e7a66" font-weight="600">cavo d'acciaio teso tra i ganci</text>
+<text x="490" y="175" fill="#c2651d" font-weight="600">rete, maglia 3 cm</text>
+<text x="490" y="195" fill="#24201b">fascette nere anti-UV</text>
+<text x="490" y="213" fill="#24201b">ogni 15-20 cm</text>
+<text x="490" y="312" fill="#24201b">fascette al corrimano</text>
+<text x="490" y="330" fill="#24201b">ogni 15 cm</text>
+</g>
+<!-- quota altezza -->
+<line x1="640" y1="130" x2="640" y2="300" stroke="#6a6359" stroke-width="2"/>
+<line x1="630" y1="130" x2="650" y2="130" stroke="#6a6359" stroke-width="2"/><line x1="630" y1="300" x2="650" y2="300" stroke="#6a6359" stroke-width="2"/>
+<text x="660" y="215" font-size="13" fill="#6a6359" transform="rotate(90 660 215)" text-anchor="middle">da chiudere: 1,5-1,7 m</text>
+<!-- errori -->
+<text x="120" y="125" font-size="14" fill="#a53a2a" font-weight="600">✕ niente varco tra rete e tenda da sole</text>
+<text x="120" y="362" font-size="14" fill="#a53a2a" font-weight="600">✕ sbarre con più di 6 cm di luce:</text>
+<text x="120" y="381" font-size="14" fill="#a53a2a" font-weight="600">la rete scende fino al pavimento</text>
+<path d="M400 390 L440 390" stroke="#a53a2a" stroke-width="3" stroke-dasharray="5 5"/>
+<!-- ringhiera etichetta -->
+<text x="420" y="440" font-size="13" fill="#6a6359" text-anchor="middle">ringhiera</text>
+<!-- gatto -->
+<g fill="#c2651d" transform="translate(300,392)"><path d="M0 20 L4 0 L14 10 L26 10 L36 0 L40 20 A20 20 0 1 1 0 20 Z"/><rect x="36" y="22" width="60" height="22" rx="11"/></g>
+</g>
+<!-- colonna destra -->
+<g transform="translate(800,140)">
+<rect x="0" y="0" width="310" height="230" rx="14" fill="#ffffff" stroke="#e7e2d9" stroke-width="3"/>
+<text x="24" y="40" font-size="18" font-weight="700" fill="#24201b">Quanta rete serve</text>
+<text x="24" y="75" font-size="16" fill="#24201b">Balcone 3 × 1,5 m, alto 2,7 m</text>
+<text x="24" y="100" font-size="16" fill="#6a6359">perimetro aperto 6 m × 2,7 m</text>
+<text x="24" y="125" font-size="16" fill="#6a6359">= 16 m² + 15% di margine</text>
+<rect x="24" y="145" width="262" height="50" rx="8" fill="#e3ede7" stroke="#4e7a66" stroke-width="3"/>
+<text x="155" y="177" font-size="17" text-anchor="middle" fill="#4e7a66" font-weight="700">un pannello da 8 × 3 m</text>
+<text x="24" y="218" font-size="14" fill="#6a6359">meglio uno grande che due uniti</text>
+</g>
+<g transform="translate(800,390)">
+<rect x="0" y="0" width="310" height="230" rx="14" fill="#ffffff" stroke="#e7e2d9" stroke-width="3"/>
+<text x="24" y="40" font-size="18" font-weight="700" fill="#24201b">Quale rete</text>
+<g font-size="15" fill="#24201b">
+<text x="24" y="75"><tspan fill="#4e7a66" font-weight="700">nylon</tspan> 20-30 € · otto balconi su dieci</text>
+<text x="24" y="105"><tspan fill="#4e7a66" font-weight="700">trasparente</tspan> 10-25 € · condominio</text>
+<text x="24" y="135"><tspan fill="#4e7a66" font-weight="700">anima acciaio</tspan> 55-65 € · gatto che morde</text>
+<text x="24" y="165"><tspan fill="#4e7a66" font-weight="700">set a pressione</tspan> 30-35 € · in affitto</text>
+</g>
+<text x="24" y="205" font-size="14" fill="#6a6359">prezzi ottobre 2026</text>
+</g>
+<text x="60" y="672" font-size="16" fill="#6a6359">miciodesign.it · Alla fine passa la mano su tutto il perimetro: dove entra il pugno, entra il gatto.</text>
+</svg>

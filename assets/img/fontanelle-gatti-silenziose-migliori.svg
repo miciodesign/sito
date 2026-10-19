@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" font-family="Outfit, Arial, sans-serif">
+<rect width="1200" height="700" fill="#fbfaf7"/>
+<text x="60" y="70" font-size="34" font-weight="700" fill="#24201b">Fontanella silenziosa: cosa guardare prima del prezzo</text>
+<text x="60" y="104" font-size="20" fill="#6a6359">Pompa senza fili, ciotola in acciaio o ceramica, livello visibile, filtri che non costano più della fontanella</text>
+<!-- sezione fontanella -->
+<g transform="translate(90,150)">
+<rect x="0" y="0" width="560" height="470" rx="14" fill="#ffffff" stroke="#e7e2d9" stroke-width="3"/>
+<text x="24" y="40" font-size="18" font-weight="700" fill="#24201b">Sezione di una fontanella con pompa a induzione</text>
+<!-- base -->
+<rect x="90" y="380" width="340" height="30" rx="6" fill="#e7e2d9"/>
+<line x1="430" y1="404" x2="470" y2="404" stroke="#24201b" stroke-width="4"/>
+<text x="478" y="409" font-size="13" fill="#6a6359">USB 1-3 W</text>
+<!-- serbatoio -->
+<path d="M100 170 L120 380 L400 380 L420 170 Z" fill="#ffffff" stroke="#24201b" stroke-width="6"/>
+<!-- acqua -->
+<path d="M110 240 L124 376 L396 376 L410 240 Z" fill="#e3ede7"/>
+<line x1="110" y1="240" x2="410" y2="240" stroke="#4e7a66" stroke-width="3" stroke-dasharray="8 6"/>
+<text x="440" y="245" font-size="14" fill="#4e7a66" font-weight="600">livello minimo</text>
+<text x="440" y="263" font-size="14" fill="#4e7a66" font-weight="600">visibile da fuori</text>
+<!-- filtro -->
+<rect x="170" y="275" width="180" height="24" rx="4" fill="#f7e8d9" stroke="#c2651d" stroke-width="3"/>
+<text x="260" y="292" font-size="13" text-anchor="middle" fill="#c2651d" font-weight="600">filtro a carboni</text>
+<text x="440" y="292" font-size="14" fill="#c2651d" font-weight="600">cambio ogni</text>
+<text x="440" y="310" font-size="14" fill="#c2651d" font-weight="600">2-4 settimane</text>
+<!-- pompa -->
+<rect x="230" y="320" width="60" height="50" rx="8" fill="#ffffff" stroke="#4e7a66" stroke-width="5"/>
+<circle cx="260" cy="345" r="12" fill="none" stroke="#4e7a66" stroke-width="4"/>
+<text x="440" y="345" font-size="14" fill="#4e7a66" font-weight="600">pompa senza cavo</text>
+<text x="440" y="363" font-size="14" fill="#4e7a66" font-weight="600">nell'acqua: si leva</text>
+<text x="440" y="381" font-size="14" fill="#4e7a66" font-weight="600">con un dito</text>
+<line x1="292" y1="345" x2="430" y2="345" stroke="#4e7a66" stroke-width="2" stroke-dasharray="4 4"/>
+<!-- piatto superiore acciaio -->
+<rect x="112" y="160" width="296" height="14" rx="4" fill="#24201b"/>
+<text x="260" y="205" font-size="14" text-anchor="middle" fill="#24201b" font-weight="600">piatto in acciaio inox, va in lavastoviglie</text>
+<!-- getto -->
+<path d="M240 160 Q240 118 275 108 Q310 118 310 160" fill="none" stroke="#4e7a66" stroke-width="5"/>
+<!-- gatto che beve -->
+<g fill="#c2651d" transform="translate(330,78)"><path d="M0 20 L4 0 L14 10 L26 10 L36 0 L40 20 A20 20 0 1 1 0 20 Z" transform="rotate(-30 20 20)"/><rect x="34" y="12" width="76" height="26" rx="13"/></g>
+<!-- quote capacità -->
+<line x1="70" y1="170" x2="70" y2="380" stroke="#6a6359" stroke-width="2"/>
+<line x1="60" y1="170" x2="80" y2="170" stroke="#6a6359" stroke-width="2"/><line x1="60" y1="380" x2="80" y2="380" stroke="#6a6359" stroke-width="2"/>
+<text x="52" y="275" font-size="14" fill="#6a6359" transform="rotate(-90 52 275)" text-anchor="middle">1,8-3 litri</text>
+<text x="260" y="445" font-size="14" text-anchor="middle" fill="#6a6359">tutto smontato e lavato una volta a settimana, acqua cambiata ogni 2-3 giorni</text>
+</g>
+<!-- colonna destra -->
+<g transform="translate(680,150)">
+<rect x="0" y="0" width="430" height="220" rx="14" fill="#ffffff" stroke="#e7e2d9" stroke-width="3"/>
+<text x="24" y="40" font-size="18" font-weight="700" fill="#24201b">Quanto rumore</text>
+<g font-size="14">
+<rect x="24" y="60" width="60" height="26" rx="5" fill="#e3ede7" stroke="#4e7a66" stroke-width="3"/><text x="96" y="79" fill="#4e7a66" font-weight="600">25-35 dB · pompa a induzione: un sussurro</text>
+<rect x="24" y="100" width="110" height="26" rx="5" fill="#fdf3e4" stroke="#c2651d" stroke-width="3"/><text x="146" y="119" fill="#c2651d" font-weight="600">40 dB · pompa tradizionale, pulita</text>
+<rect x="24" y="140" width="160" height="26" rx="5" fill="#f8e3df" stroke="#a53a2a" stroke-width="3"/><text x="196" y="159" fill="#a53a2a" font-weight="600">50+ dB · acqua bassa o pompa sporca</text>
+</g>
+<text x="24" y="200" font-size="14" fill="#6a6359">se ronza: rabbocca, poi smonta e sciacqua la pompa</text>
+</g>
+<g transform="translate(680,395)">
+<rect x="0" y="0" width="430" height="225" rx="14" fill="#ffffff" stroke="#e7e2d9" stroke-width="3"/>
+<text x="24" y="40" font-size="18" font-weight="700" fill="#24201b">Dove metterla</text>
+<circle cx="70" cy="120" r="26" fill="none" stroke="#4e7a66" stroke-width="6"/><text x="70" y="168" font-size="14" text-anchor="middle" fill="#4e7a66" font-weight="600">fontanella</text>
+<line x1="110" y1="120" x2="330" y2="120" stroke="#c2651d" stroke-width="3" stroke-dasharray="8 8"/>
+<text x="220" y="90" font-size="15" text-anchor="middle" fill="#c2651d" font-weight="600">almeno 1 metro, meglio un'altra stanza</text>
+<circle cx="370" cy="120" r="26" fill="none" stroke="#24201b" stroke-width="6"/><text x="370" y="168" font-size="14" text-anchor="middle" fill="#24201b" font-weight="600">cibo</text>
+<text x="24" y="205" font-size="14" fill="#6a6359">dove il gatto passa e si ferma, non in un angolo cieco</text>
+</g>
+<text x="60" y="672" font-size="16" fill="#6a6359">miciodesign.it · Prezzi ottobre 2026: da 15 € (Trixie Flower) a 110 € (Petlibro Dockstream 2). I filtri costano 30-50 € l'anno.</text>
+</svg>
