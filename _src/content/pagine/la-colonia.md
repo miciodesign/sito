@@ -3,7 +3,7 @@ title: La nostra colonia felina
 slug: la-colonia
 description: Una parte dei ricavi di Micio Design serve a mantenere una piccola colonia felina che seguiamo da vicino: cibo, cure veterinarie e sterilizzazioni.
 ---
-Non tutti i gatti hanno un appartamento, un divano e una lettiera pulita due volte al giorno. Alcuni vivono fuori, in una piccola colonia che seguiamo da vicino: una gatta tricolore che non si fa avvicinare da nessuno, una mamma bianca e grigia con i suoi cuccioli, tre gatti neri che si presentano puntuali all'ora delle ciotole.
+Non tutti i gatti hanno un appartamento, un divano e una lettiera pulita due volte al giorno. Alcuni vivono fuori, in una piccola colonia che seguiamo da vicino: una gatta tricolore, una mamma bianca e grigia con i suoi cuccioli, tre gatti neri che aspettano vicino alle ciotole.
 
 <div class="photo-grid" markdown="1">
 
