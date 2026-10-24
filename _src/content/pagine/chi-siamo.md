@@ -23,4 +23,6 @@ Siamo una piccola redazione di persone che vivono con gatti in appartamenti norm
 
 Alcuni link nelle guide sono di affiliazione: se compri un prodotto passando da lì, riceviamo una piccola commissione dal negozio, senza alcun costo in più per te. È quello che ci permette di scrivere guide gratuite e indipendenti. [Qui spieghiamo come funziona](/affiliazione/).
 
+Una parte di questi ricavi va a una piccola colonia felina che seguiamo da vicino: cibo, cure veterinarie e sterilizzazioni. [Conosci la colonia](/la-colonia/).
+
 Per scriverci: [redazione@miciodesign.it](mailto:redazione@miciodesign.it).
