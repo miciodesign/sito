@@ -183,3 +183,12 @@ p{margin:0 0 1em}
 .colony-promo img{width:100%;height:auto;aspect-ratio:4/3;object-fit:cover;border-radius:12px;display:block}
 .colony-promo h2{margin:.25rem 0 .5rem}
 @media (max-width:700px){.colony-promo{grid-template-columns:1fr;gap:1rem}.photo-grid{grid-template-columns:1fr}}
+
+.tool-index{display:flex;flex-wrap:wrap;gap:8px;list-style:none;padding:0;margin:16px 0 0}
+.tool-index a{display:inline-block;padding:7px 13px;border:1px solid var(--line);border-radius:999px;background:var(--paper);font-size:15px;text-decoration:none;color:var(--ink)}
+.tool-index a:hover{border-color:var(--accent);color:var(--accent-ink)}
+.tool-form label.check{display:flex;gap:8px;align-items:center;font-weight:500;cursor:pointer}
+.tool-form label.check input{width:18px;height:18px;accent-color:var(--accent)}
+.tool-table{width:100%;border-collapse:collapse;margin-top:12px;font-size:16px;background:transparent}
+.tool-table td{padding:7px 0;border-bottom:1px solid rgba(36,32,27,.12)}
+.tool-table td:last-child{text-align:right;white-space:nowrap;font-weight:600;padding-left:12px}

@@ -212,7 +212,7 @@ def build() -> None:
     # strumenti
     write(ROOT / "strumenti" / "index.html", env.get_template("tools.html").render(
         **base_ctx, page_url="/strumenti/", title=f"Strumenti per chi vive con un gatto · {CONFIG['name']}",
-        description="Tre calcolatori gratuiti: questa pianta è sicura per il gatto? Quante lettiere servono e dove? Il mio gatto beve abbastanza?"))
+        description="Calcolatori gratuiti per chi ha un gatto: età del gatto in anni umani, quanto costa un gatto all'anno, quanta rete serve per il balcone, piante tossiche, quante lettiere, quanta acqua."))
 
     # 404
     write(ROOT / "404.html", env.get_template("404.html").render(

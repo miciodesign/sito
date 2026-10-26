@@ -3,7 +3,15 @@
 <section class="wrap section">
   <nav class="crumbs" aria-label="Percorso"><a href="/">Home</a> › <span>Strumenti</span></nav>
   <h1>Strumenti per chi vive con un gatto</h1>
-  <p class="lead">Tre calcolatori rapidi, senza registrazione. Rispondono alle domande che ci fanno più spesso. Non sostituiscono il veterinario: ti dicono se la casa è organizzata bene.</p>
+  <p class="lead">Sei calcolatori rapidi, senza registrazione. Rispondono alle domande che ci fanno più spesso. Non sostituiscono il veterinario: ti dicono se la casa è organizzata bene.</p>
+  <ul class="tool-index">
+    <li><a href="#piante">Pianta sicura o tossica?</a></li>
+    <li><a href="#lettiere">Quante lettiere e dove</a></li>
+    <li><a href="#acqua">Il gatto beve abbastanza?</a></li>
+    <li><a href="#eta">Età del gatto in anni umani</a></li>
+    <li><a href="#costo">Quanto costa un gatto all'anno</a></li>
+    <li><a href="#rete">Quanta rete serve per il balcone</a></li>
+  </ul>
 </section>
 
 <section class="wrap section tools">
@@ -44,6 +52,51 @@
     </form>
     <div id="waterres" class="tool-result" aria-live="polite"></div>
     <p class="small muted">Stime indicative per un gatto adulto sano. Un gatto che beve molto più o molto meno del solito va visto dal veterinario. Come farlo bere di più: nella <a href="/vita-quotidiana/gatto-appartamento-felice-routine/">guida alla vita quotidiana</a>.</p>
+  </div>
+
+  <div class="tool" id="eta">
+    <p class="eyebrow">Vita quotidiana</p>
+    <h2>Quanti anni ha il mio gatto in anni umani?</h2>
+    <form id="ageform" class="tool-form">
+      <div><label for="ay">Anni</label><input id="ay" type="number" min="0" max="30" step="1" value="5"></div>
+      <div><label for="am">Mesi</label><select id="am"><option value="0" selected>0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option></select></div>
+      <button type="submit" class="btn">Calcola</button>
+    </form>
+    <div id="ageres" class="tool-result" aria-live="polite"></div>
+    <p class="small muted">Il primo anno di un gatto vale circa 15 anni umani, il secondo altri 9, poi ogni anno ne vale circa 4. Le fasi della vita seguono le linee guida delle associazioni veterinarie feline (AAFP e AAHA). È una stima: ogni gatto invecchia a modo suo.</p>
+  </div>
+
+  <div class="tool" id="costo">
+    <p class="eyebrow">Prima di adottare</p>
+    <h2>Quanto costa un gatto all'anno?</h2>
+    <form id="costform" class="tool-form">
+      <div><label for="cn">Quanti gatti</label><select id="cn"><option value="1" selected>1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option></select></div>
+      <div><label for="cf">Cibo</label><select id="cf"><option value="eco">Secco economico</option><option value="medio" selected>Secco di qualità e un po' di umido</option><option value="umido">Prevalentemente umido o premium</option></select></div>
+      <div><label for="cs">Sabbia</label><select id="cs"><option value="min" selected>Agglomerante minerale (bentonite)</option><option value="veg">Vegetale (legno, tofu, mais)</option><option value="sil">Silicio</option></select></div>
+      <div><label for="cv">Giorni all'anno con un cat sitter (vacanze)</label><input id="cv" type="number" min="0" max="120" step="1" value="10"></div>
+      <div><label class="check"><input id="cfirst" type="checkbox" checked> È il primo anno: devo comprare tutto</label></div>
+      <div><label class="check"><input id="cster" type="checkbox"> Da sterilizzare</label></div>
+      <button type="submit" class="btn">Calcola</button>
+    </form>
+    <div id="costres" class="tool-result" aria-live="polite"></div>
+    <p class="small muted">Stime medie su prezzi italiani di ottobre 2026, per gatti adulti sani. Non comprendono malattie, esami straordinari ed emergenze: conviene mettere da parte qualcosa ogni mese. Le spese veterinarie variano molto da città a città.</p>
+  </div>
+
+  <div class="tool" id="rete">
+    <p class="eyebrow">Balcone e finestre</p>
+    <h2>Quanta rete serve per il mio balcone?</h2>
+    <form id="netform" class="tool-form">
+      <div><label for="nf">Lunghezza del lato lungo (m)</label><input id="nf" type="number" min="0.5" max="20" step="0.1" value="3"></div>
+      <div><label for="nd">Profondità del balcone (m)</label><input id="nd" type="number" min="0.3" max="5" step="0.1" value="1.5"></div>
+      <div><label for="ns">Lati aperti da chiudere</label><select id="ns"><option value="0">Solo il lato lungo (loggia)</option><option value="1">Lato lungo e un lato corto</option><option value="2" selected>Lato lungo e due lati corti</option></select></div>
+      <div><label for="nh">Altezza da chiudere, dal pavimento al soffitto (m)</label><input id="nh" type="number" min="1" max="4" step="0.1" value="2.7"></div>
+      <div><label for="nc">Sopra il balcone c'è</label><select id="nc"><option value="soffitto" selected>Il balcone del piano di sopra (o un tetto)</option><option value="aperto">Niente: è scoperto</option></select></div>
+      <div><label for="nm">Fissaggio</label><select id="nm"><option value="pressione" selected>Senza forare (aste a pressione)</option><option value="tasselli">Con tasselli e ganci</option></select></div>
+      <div><label for="nb">Il gatto morde le reti o pesa più di 6 kg?</label><select id="nb"><option value="no" selected>No</option><option value="si">Sì</option></select></div>
+      <button type="submit" class="btn">Calcola</button>
+    </form>
+    <div id="netres" class="tool-result" aria-live="polite"></div>
+    <p class="small muted">Prezzi indicativi rilevati a ottobre 2026. Maglia sempre da 3 cm al massimo. Confronto delle reti e montaggio nella <a href="/balcone-e-finestre/rete-balcone-gatti-migliori-montaggio/">guida alle reti per balcone</a>; il sistema senza buchi passo per passo nella <a href="/balcone-e-finestre/rete-balcone-gatti-senza-forare/">guida alla rete senza forare</a>.</p>
   </div>
 
 </section>
@@ -98,6 +151,66 @@ document.getElementById('waterform').addEventListener('submit',function(e){
   html+={secco:'Con solo cibo secco quasi tutta deve venire dalla ciotola: <strong>circa '+toDrink+' ml da bere</strong>. È tanto per un gatto, e la maggior parte non ci arriva: fontanella, più punti acqua lontani dal cibo, e una porzione di umido al giorno fanno la differenza.',misto:'Con dieta mista una parte arriva dall\'umido: <strong>circa '+toDrink+' ml da bere</strong> dalla ciotola o dalla fontanella.',umido:'Con solo umido il grosso arriva dal cibo: <strong>circa '+toDrink+' ml da bere</strong>, spesso senza che tu lo veda bere molto.'}[diet];
   if(ml!==''){var d=parseFloat(ml);if(d<toDrink*0.6)html+='<br><br>Beve <strong>'+d+' ml</strong>: meno di quanto servirebbe. Prova le soluzioni della guida (acqua lontana dal cibo, fontanella, ciotole larghe) e, se non cambia in due settimane, parlane con il veterinario.';else if(d>need*1.3)html+='<br><br>Beve <strong>'+d+' ml</strong>: più del previsto. Bere molto può essere normale col caldo, ma se è una novità va riferito al veterinario.';else html+='<br><br>Beve <strong>'+d+' ml</strong>: in linea con il fabbisogno.';}
   r.innerHTML=html;
+});
+// ---- utilità
+function eur(n){return Math.round(n).toLocaleString('it-IT')+' €'}
+function num(n,d){return n.toLocaleString('it-IT',{maximumFractionDigits:d||1})}
+// ---- età
+document.getElementById('ageform').addEventListener('submit',function(e){
+  e.preventDefault();
+  var y=Math.max(0,parseInt(document.getElementById('ay').value)||0),m=+document.getElementById('am').value,t=y+m/12,h;
+  if(t<1){var pts=[[0,0],[1,1],[2,2],[3,4],[4,6],[6,10],[8,13],[12,15]],mm=t*12;for(var i=1;i<pts.length;i++){if(mm<=pts[i][0]){var a=pts[i-1],b=pts[i];h=a[1]+(b[1]-a[1])*(mm-a[0])/(b[0]-a[0]);break}}}
+  else if(t<2)h=15+9*(t-1); else h=24+4*(t-2);
+  h=Math.round(h);
+  var st,tips;
+  if(t<1){st='Cucciolo';tips=['Casa a prova di gattino: rete sul balcone e protezioni alle finestre a vasistas prima che impari a saltare (<a href="/balcone-e-finestre/balcone-finestre-sicurezza-gatto/">guida</a>).','Piante tossiche fuori casa: controllale con lo strumento <a href="#piante">qui sopra</a>.','Tiragraffi subito, vicino a dove dorme: le abitudini prese adesso restano (<a href="/spazio-verticale/migliori-tiragraffi-alti-stabili/">i più stabili</a>).','Lettiera con bordo basso finché è piccolo. Della sterilizzazione parla con il veterinario: di solito si fa entro i sei mesi.']}
+  else if(t<7){st='Giovane adulto';tips=['È il momento della massima energia: mensole e percorsi in alto valgono più di metri quadri (<a href="/spazio-verticale/mensole-gatti-parete-misure-montaggio/">misure e montaggio</a>).','Due sessioni di gioco al giorno, dieci minuti ciascuna, prima dei pasti.','Giochi da ruotare ogni settimana e un gioco-puzzle per il cibo contro la noia quando sei fuori casa.']}
+  else if(t<11){st='Adulto maturo';tips=['Si muove meno e tende a ingrassare: porzioni pesate e gioco quotidiano, anche breve.','Più acqua: una fontanella spesso lo fa bere di più (<a href="/vita-quotidiana/fontanelle-gatti-silenziose-migliori/">le più silenziose</a>).','Visita di controllo dal veterinario almeno una volta l\'anno.']}
+  else {st='Anziano';tips=['Almeno una lettiera con bordo basso vicino a dove dorme (<a href="/lettiera/guida-lettiera-gatto-appartamento/">guida alla lettiera</a>).','Scalini o un mobile intermedio per raggiungere i posti alti a cui è abituato, senza grandi salti.','Una cuccia calda lontana dalle correnti, ciotole leggermente rialzate e acqua in più punti della casa.','Per i gatti anziani le linee guida veterinarie consigliano un controllo ogni sei mesi.']}
+  var r=document.getElementById('ageres');r.className='tool-result good';
+  r.innerHTML='<strong>'+(t<1?'Il tuo gattino':'Il tuo gatto')+' ha circa '+h+' anni umani.</strong> Fase della vita: <strong>'+st.toLowerCase()+'</strong>.<ul><li>'+tips.join('</li><li>')+'</li></ul>';
+});
+// ---- costo
+document.getElementById('costform').addEventListener('submit',function(e){
+  e.preventDefault();
+  var n=+document.getElementById('cn').value,f=document.getElementById('cf').value,s=document.getElementById('cs').value,vd=Math.max(0,parseInt(document.getElementById('cv').value)||0),first=document.getElementById('cfirst').checked,ster=document.getElementById('cster').checked;
+  var food={eco:15,medio:30,umido:55}[f]*12*n, litter={min:10,veg:13,sil:12}[s]*12*n, vet=180*n, toys=60*n, sit=vd*15;
+  var rows=[['Cibo',food,'/vita-quotidiana/gatto-appartamento-felice-routine/'],['Sabbia',litter,'/lettiera/sabbia-gatti-agglomerante-vegetale-silicio/'],['Veterinario di base (visita, vaccino, antiparassitari)',vet,''],['Giochi, tiragraffi e ricambi',toys,'/spazio-verticale/migliori-tiragraffi-alti-stabili/'],['Cat sitter per le vacanze ('+vd+' giorni)',sit,'']];
+  var once=[];
+  if(first)once.push(['Attrezzatura iniziale (lettiere, trasportino, tiragraffi, ciotole, cuccia)',200+100*(n-1)]);
+  if(ster)once.push(['Sterilizzazione',180*n]);
+  var yr=rows.reduce(function(a,r){return a+r[1]},0), one=once.reduce(function(a,r){return a+r[1]},0);
+  var t='<strong>'+(n===1?'Un gatto costa':n+' gatti costano')+' circa '+eur(yr)+' all\'anno, cioè '+eur(yr/12)+' al mese.</strong>'+(one?' Il primo anno aggiungi circa '+eur(one)+' di spese una tantum: totale '+eur(yr+one)+'.':'');
+  t+='<table class="tool-table"><tbody>';
+  rows.forEach(function(r){if(r[1]>0)t+='<tr><td>'+(r[2]?'<a href="'+r[2]+'">'+r[0]+'</a>':r[0])+'</td><td>'+eur(r[1])+'</td></tr>'});
+  once.forEach(function(r){t+='<tr><td>'+r[0]+' <span class="muted">(una volta)</span></td><td>'+eur(r[1])+'</td></tr>'});
+  t+='</tbody></table>';
+  t+='<p class="small" style="margin:10px 0 0">Il cibo è la voce che pesa di più e quella su cui conviene meno risparmiare. Sulla sabbia invece si risparmia molto scegliendo bene: il confronto è nella <a href="/lettiera/sabbia-gatti-agglomerante-vegetale-silicio/">guida alle sabbie</a>.</p>';
+  var r=document.getElementById('costres');r.className='tool-result good';r.innerHTML=t;
+});
+// ---- rete balcone
+document.getElementById('netform').addEventListener('submit',function(e){
+  e.preventDefault();
+  var fr=parseFloat(document.getElementById('nf').value)||3,dp=parseFloat(document.getElementById('nd').value)||1.5,sides=+document.getElementById('ns').value,h=parseFloat(document.getElementById('nh').value)||2.7,cov=document.getElementById('nc').value,mt=document.getElementById('nm').value,bite=document.getElementById('nb').value==='si';
+  var per=fr+sides*dp, hh=h+(cov==='aperto'?0.5:0), area=per*hh*1.15;
+  var panels=[[3,2],[4,3],[6,3],[8,3],[10,3]],pick=null;
+  panels.forEach(function(p){if(!pick&&p[0]>=per*1.07&&p[1]>=hh)pick=p});
+  var lines=[],lo=0,hi=0;
+  if(pick){lines.push('<strong>Rete:</strong> un pannello da '+pick[0]+'×'+pick[1]+' m'+(bite?', con anima in acciaio (55-65 €)':', in nylon con maglia da 3 cm (15-30 €)')+'.');if(bite){lo+=55;hi+=65}else{lo+=15;hi+=30}}
+  else{var why=hh>3?'i pannelli standard sono alti al massimo 3 metri: per '+num(hh,1)+' m serve una rete su misura, oppure due pannelli uniti':'il perimetro è lungo: servono due pannelli o una rete su misura';lines.push('<strong>Rete:</strong> '+why+'. Se unisci due pannelli, sovrapponili di almeno 20 cm e cucili con il cavo: la giunzione è il punto debole.'+(bite?' Scegli una rete con anima in acciaio.':' Maglia da 3 cm.'));lo+=area*(bite?3:1.2);hi+=area*(bite?4:2.5)}
+  if(mt==='pressione'){
+    if(cov==='aperto'){lines.push('<strong>Attenzione:</strong> le aste a pressione spingono contro il soffitto. Con un balcone scoperto servono pali fissati alla ringhiera con morsetti e un\'ala inclinata verso l\'interno di 40-50 cm in cima, come un catio.');var pl=Math.ceil(per/1.5)+1;lines.push('<strong>Pali con morsetti per ringhiera:</strong> circa '+pl+' (15-20 € a morsetto, più il palo).');lo+=pl*20;hi+=pl*35}
+    else{var na=2+Math.max(0,Math.ceil(fr/2.5)-1)+sides*Math.max(0,Math.ceil(dp/2.5)-1);lines.push('<strong>Aste a pressione:</strong> '+na+', una per ogni angolo esterno e una intermedia ogni 2,5 metri circa (30-35 € l\'una, ad esempio il set telescopico 128-320 cm). Sui lati corti la rete si tende fino al muro con ganci adesivi o fascette.');lo+=na*30;hi+=na*35}
+  }else{
+    var cable=Math.ceil(per*2+2),hooks=Math.ceil(per*2/0.5)+4,packs=Math.ceil(hooks/20);
+    lines.push('<strong>Cavo d\'acciaio plastificato da 3 mm:</strong> '+cable+' metri, uno in alto e uno in basso (8-10 € ogni 10 m).');
+    lines.push('<strong>Ganci a occhiello con tassello:</strong> circa '+hooks+', uno ogni 50 cm in alto e in basso: '+packs+' confezion'+(packs>1?'i':'e')+' da 20 (8-12 € l\'una).');
+    lo+=Math.ceil(cable/10)*8+packs*8;hi+=Math.ceil(cable/10)*10+packs*12;
+    if(cov==='aperto')lines.push('<strong>Balcone scoperto:</strong> la rete deve chiudersi in alto con un\'ala inclinata verso l\'interno di 40-50 cm, sostenuta da staffe a muro.');
+  }
+  lines.push('<strong>Fascette nere resistenti ai raggi UV:</strong> una confezione da 100 (5-8 €). Non usare quelle bianche: dopo un\'estate si spezzano.');lo+=5;hi+=8;
+  var r=document.getElementById('netres');r.className='tool-result good';
+  r.innerHTML='<strong>Superficie da chiudere: circa '+num(area,1)+' m²</strong> ('+num(per,1)+' m di perimetro aperto per '+num(hh,1)+' m di altezza'+(cov==='aperto'?', compresa l\'ala in cima':'')+', più il 15% per pieghe e sovrapposizioni).<ul><li>'+lines.join('</li><li>')+'</li></ul><strong>Spesa indicativa: '+eur(lo)+'–'+eur(hi)+'.</strong> Non chiudere il lato della porta-finestra e fissa la rete anche alla ringhiera, non solo in alto: il gatto passa sotto.';
 });
 })();
 </script>
