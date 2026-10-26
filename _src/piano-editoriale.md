@@ -46,11 +46,11 @@ Nuova categoria `razze` da aggiungere in config.json (nome "Razze in appartament
 - [x] 14 A I migliori tiragraffi alti e stabili · spazio-verticale · 2026-10-22
 - [x] 21 A Rete per gatti sul balcone: le migliori e come montarla · balcone-e-finestre · 2026-10-23
 - [x] 27 A Le migliori fontanelle per gatti silenziose · vita-quotidiana · 2026-10-24
-- [ ] 9 A Lettiere per gatti grandi e Maine Coon · lettiera
-- [ ] 10 A Sabbia agglomerante, vegetale o silicio: quale conviene · lettiera
-- [ ] 16 P Mensole per gatti a parete: misure, distanze, montaggio · spazio-verticale
-- [ ] 22 P Rete balcone senza forare: sistemi a pressione e a morsetto · balcone-e-finestre
-- [ ] 29 A Distributori automatici di cibo: i migliori per gatti · vita-quotidiana
+- [x] 9 A Lettiere per gatti grandi e Maine Coon · lettiera · 2026-10-26
+- [x] 10 A Sabbia agglomerante, vegetale o silicio: quale conviene · lettiera · 2026-10-27
+- [x] 16 P Mensole per gatti a parete: misure, distanze, montaggio · spazio-verticale · 2026-10-28
+- [x] 22 P Rete balcone senza forare: sistemi a pressione e a morsetto · balcone-e-finestre · 2026-10-29
+- [x] 29 A Distributori automatici di cibo: i migliori per gatti · vita-quotidiana · 2026-10-30
 - [ ] 11 P Dove mettere la lettiera in un bilocale · lettiera
 - [ ] 12 P Il gatto fa i bisogni fuori dalla lettiera: le 9 cause · lettiera
 - [ ] 15 A Tiragraffi per gatti grandi: cosa deve avere · spazio-verticale

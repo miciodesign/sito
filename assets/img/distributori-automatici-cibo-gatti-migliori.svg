@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" font-family="Outfit, Arial, sans-serif">
+<rect width="1200" height="700" fill="#fbfaf7"/>
+<text x="60" y="70" font-size="34" font-weight="700" fill="#24201b">Distributori automatici: tre tipi, una giornata in cinque pasti</text>
+<text x="60" y="104" font-size="20" fill="#6a6359">Un gatto in natura fa 10-15 piccoli pasti. Due ciotole al giorno sono il nostro ritmo, non il suo</text>
+<!-- tre tipi -->
+<g transform="translate(80,140)">
+<!-- tipo 1: timer a scomparti -->
+<g>
+<rect x="0" y="0" width="330" height="300" rx="14" fill="#ffffff" stroke="#e7e2d9" stroke-width="3"/>
+<text x="165" y="36" font-size="18" font-weight="700" fill="#24201b" text-anchor="middle">A scomparti con timer</text>
+<text x="165" y="58" font-size="14" fill="#6a6359" text-anchor="middle">Cat Mate C500, C200 · Trixie TX2</text>
+<!-- disco a 5 scomparti -->
+<circle cx="165" cy="160" r="70" fill="#f7e8d9" stroke="#c2651d" stroke-width="5"/>
+<g stroke="#c2651d" stroke-width="4"><line x1="165" y1="160" x2="165" y2="90"/><line x1="165" y1="160" x2="231" y2="138"/><line x1="165" y1="160" x2="206" y2="216"/><line x1="165" y1="160" x2="124" y2="216"/><line x1="165" y1="160" x2="99" y2="138"/></g>
+<path d="M165 160 L165 90 A70 70 0 0 1 231 138 Z" fill="#c2651d"/>
+<circle cx="165" cy="160" r="12" fill="#24201b"/>
+<text x="165" y="262" font-size="14" fill="#24201b" text-anchor="middle" font-weight="600">secco o umido · 2-5 pasti · pile</text>
+<text x="165" y="284" font-size="14" fill="#4e7a66" text-anchor="middle">20-85 € · l'unico per l'umido</text>
+</g>
+<!-- tipo 2: serbatoio con app -->
+<g transform="translate(355,0)">
+<rect x="0" y="0" width="330" height="300" rx="14" fill="#ffffff" stroke="#e7e2d9" stroke-width="3"/>
+<text x="165" y="36" font-size="18" font-weight="700" fill="#24201b" text-anchor="middle">A serbatoio, con app</text>
+<text x="165" y="58" font-size="14" fill="#6a6359" text-anchor="middle">PetKit Solo · Petlibro Granary, Air · Faroro</text>
+<!-- corpo -->
+<rect x="110" y="80" width="110" height="130" rx="12" fill="#f7e8d9" stroke="#c2651d" stroke-width="5"/>
+<rect x="120" y="92" width="90" height="60" rx="6" fill="#ffffff" stroke="#e7e2d9" stroke-width="2"/>
+<g fill="#c2651d"><circle cx="140" cy="120" r="5"/><circle cx="158" cy="110" r="5"/><circle cx="176" cy="122" r="5"/><circle cx="194" cy="112" r="5"/><circle cx="150" cy="138" r="5"/><circle cx="170" cy="140" r="5"/><circle cx="190" cy="134" r="5"/></g>
+<!-- scivolo e ciotola -->
+<path d="M165 210 L165 222" stroke="#c2651d" stroke-width="5"/>
+<path d="M125 222 Q165 250 205 222" fill="#e7e2d9" stroke="#24201b" stroke-width="4"/>
+<g fill="#c2651d"><circle cx="150" cy="228" r="4"/><circle cx="165" cy="232" r="4"/><circle cx="180" cy="228" r="4"/></g>
+<!-- wifi -->
+<g fill="none" stroke="#4e7a66" stroke-width="4" stroke-linecap="round"><path d="M246 96 a18 18 0 0 1 24 0"/><path d="M240 86 a28 28 0 0 1 36 0"/></g><circle cx="258" cy="106" r="3" fill="#4e7a66"/>
+<text x="165" y="262" font-size="14" fill="#24201b" text-anchor="middle" font-weight="600">secco · fino a 10 pasti · corrente + pile</text>
+<text x="165" y="284" font-size="14" fill="#4e7a66" text-anchor="middle">35-125 € · porzioni da 10 g, essiccante</text>
+</g>
+<!-- tipo 3: microchip -->
+<g transform="translate(710,0)">
+<rect x="0" y="0" width="330" height="300" rx="14" fill="#ffffff" stroke="#e7e2d9" stroke-width="3"/>
+<text x="165" y="36" font-size="18" font-weight="700" fill="#24201b" text-anchor="middle">Ciotola a microchip</text>
+<text x="165" y="58" font-size="14" fill="#6a6359" text-anchor="middle">SureFeed Microchip</text>
+<!-- ciotola con coperchio -->
+<rect x="95" y="150" width="140" height="60" rx="10" fill="#f7e8d9" stroke="#c2651d" stroke-width="5"/>
+<path d="M95 150 L165 100 L235 150" fill="#e7e2d9" stroke="#24201b" stroke-width="4" stroke-linejoin="round"/>
+<ellipse cx="165" cy="180" rx="45" ry="14" fill="#ffffff" stroke="#24201b" stroke-width="3"/>
+<!-- gatto con chip -->
+<g fill="#4e7a66" transform="translate(240,170)"><path d="M0 20 L4 0 L14 10 L26 10 L36 0 L40 20 A20 20 0 1 1 0 20 Z"/></g>
+<g fill="none" stroke="#4e7a66" stroke-width="3"><path d="M262 150 a10 10 0 0 1 14 0"/><path d="M257 142 a18 18 0 0 1 24 0"/></g>
+<text x="165" y="262" font-size="14" fill="#24201b" text-anchor="middle" font-weight="600">si apre solo per il gatto registrato</text>
+<text x="165" y="284" font-size="14" fill="#4e7a66" text-anchor="middle">150-180 € · due diete, o un cane che ruba</text>
+</g>
+</g>
+<!-- timeline pasti -->
+<g transform="translate(80,470)">
+<rect x="0" y="0" width="1040" height="150" rx="14" fill="#ffffff" stroke="#e7e2d9" stroke-width="3"/>
+<text x="24" y="36" font-size="18" font-weight="700" fill="#24201b">La giornata di un gatto da 4 kg: 55 g di crocchette in 5 pasti da 11 g</text>
+<line x1="60" y1="95" x2="980" y2="95" stroke="#e7e2d9" stroke-width="4"/>
+<g font-size="13" fill="#6a6359" text-anchor="middle">
+<text x="60" y="130">0</text><text x="290" y="130">6</text><text x="520" y="130">12</text><text x="750" y="130">18</text><text x="980" y="130">24</text>
+</g>
+<!-- pasti: 6:30, 12:00, 17:30, 21:00, 1:00 -->
+<g fill="#c2651d">
+<circle cx="309" cy="95" r="11"/><circle cx="520" cy="95" r="11"/><circle cx="731" cy="95" r="11"/><circle cx="865" cy="95" r="11"/><circle cx="98" cy="95" r="11"/>
+</g>
+<g font-size="13" fill="#c2651d" font-weight="600" text-anchor="middle">
+<text x="98" y="72">1:00 notte</text><text x="309" y="72">6:30 (non alle 5)</text><text x="520" y="72">12:00</text><text x="731" y="72">17:30</text><text x="865" y="72">21:00 dopo il gioco</text>
+</g>
+</g>
+<text x="60" y="672" font-size="16" fill="#6a6359">miciodesign.it · Prima settimana spento, seconda a mano, poi i pasti programmati. Prezzi di ottobre 2026</text>
+</svg>

@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" font-family="Outfit, Arial, sans-serif">
+<rect width="1200" height="700" fill="#fbfaf7"/>
+<text x="60" y="70" font-size="34" font-weight="700" fill="#24201b">Mensole per gatti a parete: le misure che contano</text>
+<text x="60" y="104" font-size="20" fill="#6a6359">Profondità 25-30 cm · 30-45 cm fra una mensola e l'altra · sfalsate di 20-40 cm · portata 20 kg</text>
+<!-- parete -->
+<g transform="translate(80,140)">
+<rect x="0" y="0" width="700" height="480" rx="14" fill="#ffffff" stroke="#e7e2d9" stroke-width="3"/>
+<!-- soffitto e pavimento -->
+<rect x="0" y="0" width="700" height="22" fill="#e7e2d9"/>
+<rect x="0" y="440" width="700" height="40" fill="#e7e2d9"/>
+<text x="20" y="470" font-size="13" fill="#6a6359">pavimento</text>
+<text x="20" y="16" font-size="13" fill="#6a6359">soffitto</text>
+<!-- divano di partenza -->
+<rect x="40" y="340" width="170" height="100" rx="12" fill="#e7e2d9"/>
+<text x="125" y="395" font-size="15" fill="#6a6359" text-anchor="middle">divano</text>
+<!-- mensole: piano + staffa -->
+<g>
+<!-- m1 -->
+<rect x="250" y="290" width="110" height="12" rx="3" fill="#c2651d"/><rect x="250" y="302" width="110" height="5" fill="#f7e8d9"/>
+<!-- m2 -->
+<rect x="390" y="230" width="110" height="12" rx="3" fill="#c2651d"/><rect x="390" y="242" width="110" height="5" fill="#f7e8d9"/>
+<!-- m3 -->
+<rect x="300" y="170" width="110" height="12" rx="3" fill="#c2651d"/><rect x="300" y="182" width="110" height="5" fill="#f7e8d9"/>
+<!-- m4 letto -->
+<rect x="440" y="100" width="200" height="14" rx="3" fill="#c2651d"/><rect x="440" y="114" width="200" height="5" fill="#f7e8d9"/>
+<rect x="440" y="86" width="6" height="14" fill="#c2651d"/><rect x="634" y="86" width="6" height="14" fill="#c2651d"/>
+</g>
+<!-- gatto sulla mensola letto -->
+<g fill="#4e7a66" transform="translate(500,56)"><path d="M0 20 L4 0 L14 10 L26 10 L36 0 L40 20 A20 20 0 1 1 0 20 Z"/><rect x="36" y="22" width="70" height="20" rx="10"/></g>
+<!-- quote verticali -->
+<g stroke="#4e7a66" stroke-width="2">
+<line x1="235" y1="296" x2="235" y2="340"/><line x1="229" y1="296" x2="241" y2="296"/><line x1="229" y1="340" x2="241" y2="340"/>
+<line x1="375" y1="236" x2="375" y2="296"/><line x1="369" y1="236" x2="381" y2="236"/><line x1="369" y1="296" x2="381" y2="296"/>
+<line x1="285" y1="176" x2="285" y2="236"/><line x1="279" y1="176" x2="291" y2="176"/><line x1="279" y1="236" x2="291" y2="236"/>
+<line x1="660" y1="22" x2="660" y2="106"/><line x1="654" y1="22" x2="666" y2="22"/><line x1="654" y1="106" x2="666" y2="106"/>
+</g>
+<g font-size="13" fill="#4e7a66" font-weight="600">
+<text x="225" y="322" text-anchor="end">dal divano ≤ 50 cm</text>
+<text x="365" y="270" text-anchor="end">30-45 cm</text>
+<text x="275" y="210" text-anchor="end">30-45 cm</text>
+<text x="648" y="44" text-anchor="end">≥ 35 cm dal soffitto</text>
+</g>
+<!-- quote orizzontali sfalsamento -->
+<g stroke="#c2651d" stroke-width="2" stroke-dasharray="4 4"><line x1="500" y1="250" x2="500" y2="262"/><line x1="500" y1="262" x2="530" y2="262"/></g>
+<text x="515" y="252" font-size="13" fill="#c2651d" font-weight="600">sfalsate 20-40 cm, a zig-zag</text>
+<!-- profondità -->
+<g stroke="#24201b" stroke-width="2"><line x1="250" y1="325" x2="360" y2="325"/><line x1="250" y1="319" x2="250" y2="331"/><line x1="360" y1="319" x2="360" y2="331"/></g>
+<text x="305" y="345" font-size="13" fill="#24201b" font-weight="600" text-anchor="middle">25-30 cm</text>
+<!-- mensola letto etichetta -->
+<text x="540" y="140" font-size="13" fill="#24201b" font-weight="600" text-anchor="middle">mensola letto 60-80 cm, con bordo</text>
+<!-- errore -->
+<text x="300" y="400" font-size="14" fill="#a53a2a" font-weight="600">✕ due mensole una sopra l'altra: il gatto salta a ritroso</text>
+<text x="300" y="422" font-size="14" fill="#a53a2a" font-weight="600">✕ piano liscio: scivola all'atterraggio e non torna</text>
+</g>
+<!-- colonna destra: tasselli -->
+<g transform="translate(810,140)">
+<rect x="0" y="0" width="310" height="480" rx="14" fill="#ffffff" stroke="#e7e2d9" stroke-width="3"/>
+<text x="24" y="40" font-size="18" font-weight="700" fill="#24201b">Il tassello giusto per il muro</text>
+<g font-size="15">
+<text x="24" y="80" font-weight="700" fill="#24201b">Muro pieno</text>
+<text x="24" y="102" fill="#6a6359">nylon 8 mm, viti 5×60</text>
+<text x="24" y="150" font-weight="700" fill="#24201b">Mattoni forati</text>
+<text x="24" y="172" fill="#6a6359">a espansione lunga o chimico</text>
+<text x="24" y="194" fill="#6a6359">con calza retinata, senza percussione</text>
+<text x="24" y="242" font-weight="700" fill="#24201b">Cartongesso</text>
+<text x="24" y="264" fill="#6a6359">viti nei montanti (ogni 60 cm);</text>
+<text x="24" y="286" fill="#6a6359">altrimenti Molly, 3 per mensola</text>
+<text x="24" y="334" font-weight="700" fill="#24201b">Gasbeton</text>
+<text x="24" y="356" fill="#6a6359">tasselli specifici o chimico</text>
+</g>
+<rect x="24" y="392" width="262" height="64" rx="10" fill="#f7e8d9"/>
+<text x="155" y="418" font-size="14" fill="#c2651d" font-weight="700" text-anchor="middle">Prova finale: peso doppio del gatto</text>
+<text x="155" y="440" font-size="14" fill="#c2651d" font-weight="700" text-anchor="middle">su ogni mensola per un'ora</text>
+</g>
+<text x="60" y="672" font-size="16" fill="#6a6359">miciodesign.it · Prima di forare: sagome di cartone sul muro per un giorno, poi il metro, poi il trapano</text>
+</svg>

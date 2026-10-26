@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" font-family="Outfit, Arial, sans-serif">
+<rect width="1200" height="700" fill="#fbfaf7"/>
+<text x="60" y="70" font-size="34" font-weight="700" fill="#24201b">Quanto deve essere lunga la lettiera di un gatto grande</text>
+<text x="60" y="104" font-size="20" fill="#6a6359">La regola: lunghezza interna almeno 1,5 volte il gatto, dal naso alla base della coda</text>
+<!-- tre righe: gatto medio, gatto grande, Maine Coon -->
+<g font-size="16">
+<!-- riga 1 -->
+<g transform="translate(80,150)">
+<rect x="0" y="0" width="1040" height="130" rx="14" fill="#ffffff" stroke="#e7e2d9" stroke-width="3"/>
+<text x="24" y="34" font-size="18" font-weight="700" fill="#24201b">Gatto medio, 4 kg</text>
+<text x="24" y="58" fill="#6a6359">lungo 40-45 cm</text>
+<!-- gatto -->
+<g fill="#4e7a66" transform="translate(300,38)"><path d="M0 20 L4 0 L14 10 L26 10 L36 0 L40 20 A20 20 0 1 1 0 20 Z"/><rect x="36" y="22" width="90" height="22" rx="11"/></g>
+<line x1="300" y1="80" x2="430" y2="80" stroke="#4e7a66" stroke-width="2"/><line x1="300" y1="74" x2="300" y2="86" stroke="#4e7a66" stroke-width="2"/><line x1="430" y1="74" x2="430" y2="86" stroke="#4e7a66" stroke-width="2"/>
+<text x="365" y="102" fill="#4e7a66" font-weight="600" text-anchor="middle">45 cm</text>
+<!-- lettiera -->
+<rect x="620" y="28" width="195" height="60" rx="8" fill="#f7e8d9" stroke="#c2651d" stroke-width="5"/>
+<text x="717" y="66" font-size="18" font-weight="700" fill="#c2651d" text-anchor="middle">55-60 cm interni</text>
+<text x="717" y="112" fill="#6a6359" text-anchor="middle">lettiera standard: appena sufficiente</text>
+</g>
+<!-- riga 2 -->
+<g transform="translate(80,300)">
+<rect x="0" y="0" width="1040" height="130" rx="14" fill="#ffffff" stroke="#e7e2d9" stroke-width="3"/>
+<text x="24" y="34" font-size="18" font-weight="700" fill="#24201b">Gatto grande, 6-7 kg</text>
+<text x="24" y="58" fill="#6a6359">lungo 50 cm</text>
+<g fill="#4e7a66" transform="translate(300,34)"><path d="M0 24 L5 0 L17 12 L31 12 L43 0 L48 24 A24 24 0 1 1 0 24 Z"/><rect x="44" y="26" width="110" height="26" rx="13"/></g>
+<line x1="300" y1="84" x2="455" y2="84" stroke="#4e7a66" stroke-width="2"/><line x1="300" y1="78" x2="300" y2="90" stroke="#4e7a66" stroke-width="2"/><line x1="455" y1="78" x2="455" y2="90" stroke="#4e7a66" stroke-width="2"/>
+<text x="377" y="106" fill="#4e7a66" font-weight="600" text-anchor="middle">50 cm</text>
+<rect x="620" y="26" width="235" height="64" rx="8" fill="#f7e8d9" stroke="#c2651d" stroke-width="5"/>
+<text x="737" y="66" font-size="18" font-weight="700" fill="#c2651d" text-anchor="middle">65-70 cm interni</text>
+<text x="737" y="114" fill="#6a6359" text-anchor="middle">esterni 70-75 cm: Trixie Primo XXL, Iris Ohyama XL</text>
+</g>
+<!-- riga 3 -->
+<g transform="translate(80,450)">
+<rect x="0" y="0" width="1040" height="130" rx="14" fill="#ffffff" stroke="#e7e2d9" stroke-width="3"/>
+<text x="24" y="34" font-size="18" font-weight="700" fill="#24201b">Maine Coon, 8-9 kg</text>
+<text x="24" y="58" fill="#6a6359">lungo 55-60 cm</text>
+<g fill="#4e7a66" transform="translate(300,28)"><path d="M0 28 L6 0 L20 14 L36 14 L50 0 L56 28 A28 28 0 1 1 0 28 Z"/><rect x="52" y="30" width="135" height="30" rx="15"/></g>
+<line x1="300" y1="88" x2="487" y2="88" stroke="#4e7a66" stroke-width="2"/><line x1="300" y1="82" x2="300" y2="94" stroke="#4e7a66" stroke-width="2"/><line x1="487" y1="82" x2="487" y2="94" stroke="#4e7a66" stroke-width="2"/>
+<text x="393" y="110" fill="#4e7a66" font-weight="600" text-anchor="middle">58 cm</text>
+<rect x="620" y="24" width="280" height="68" rx="8" fill="#f7e8d9" stroke="#c2651d" stroke-width="5"/>
+<text x="760" y="66" font-size="18" font-weight="700" fill="#c2651d" text-anchor="middle">75-85 cm interni</text>
+<text x="760" y="116" fill="#6a6359" text-anchor="middle">contenitore da 80 litri in un mobile copri-lettiera</text>
+</g>
+</g>
+<!-- nota misure -->
+<g transform="translate(80,600)" font-size="15">
+<text x="0" y="20" fill="#a53a2a" font-weight="600">✕ la misura sulla scatola è quella esterna: togli 8-12 cm per avere l'interno</text>
+<text x="0" y="44" fill="#4e7a66" font-weight="600">✓ bordi 25-30 cm su tre lati, ingresso ribassato a 12-15 cm per il gatto anziano</text>
+</g>
+<text x="60" y="672" font-size="16" fill="#6a6359">miciodesign.it · Lettiere per gatti grandi e Maine Coon, prezzi di ottobre 2026</text>
+</svg>

@@ -60,7 +60,7 @@ Alla fine passa con la mano tutto il perimetro: dove entra il pugno entra il gat
 
 Funziona se il balcone ha un soffitto (il balcone del piano di sopra o la soletta) e due pareti laterali. Il principio è una barra telescopica bloccata a pressione tra pavimento e soffitto in ciascun angolo aperto, con il cavo d'acciaio teso tra le barre e la rete appesa al cavo come nel montaggio con fori. Il set Trixie include una barra telescopica fino a 320 cm e due regolatori di tensione; per un balcone lungo servono due set, uno per angolo. In basso la rete si fissa alla ringhiera con i morsetti.
 
-Tiene bene se le barre sono messe a piombo e strette a fondo, e se il cavo non è teso al punto da tirare le barre verso l'interno: la tensione la dà la rete fissata in basso, non il cavo. Ne parliamo nel dettaglio in un articolo dedicato ai sistemi a pressione e a morsetto, in arrivo nelle prossime settimane.
+Tiene bene se le barre sono messe a piombo e strette a fondo, e se il cavo non è teso al punto da tirare le barre verso l'interno: la tensione la dà la rete fissata in basso, non il cavo. Ne parliamo nel dettaglio nell'articolo dedicato alla [rete balcone senza forare: sistemi a pressione e a morsetto](/balcone-e-finestre/rete-balcone-gatti-senza-forare/).
 
 ## Gli errori che vediamo più spesso
 
