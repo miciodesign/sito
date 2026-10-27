@@ -43,6 +43,30 @@ env = Environment(
 
 
 # ---------------------------------------------------------------- utilities
+def awin_link(shop: dict, url: str) -> str:
+    from urllib.parse import quote
+    return f"https://www.awin1.com/cread.php?awinmid={shop['awinmid']}&awinaffid={shop['awinaffid']}&ued={quote(url, safe='')}"
+
+
+def shop_links(a: dict) -> list:
+    """Link affiliati per l'articolo: per parola chiave nello slug, altrimenti per categoria."""
+    shops = CONFIG.get("affiliati", {})
+    keys = None
+    for kw, ks in CONFIG.get("negozi_per_parola", {}).items():
+        if kw in a["slug"]:
+            keys = ks
+            break
+    if keys is None:
+        keys = CONFIG.get("negozi_per_categoria", {}).get(a["category"], [])
+    out = []
+    for shop in shops.values():
+        for k in keys:
+            cat = shop.get("categorie", {}).get(k)
+            if cat:
+                out.append({"shop": shop["nome"], "label": cat["etichetta"], "url": awin_link(shop, cat["url"])})
+    return out
+
+
 def parse_front_matter(text: str) -> tuple[dict, str]:
     """Front matter minimale: righe `chiave: valore` fra due `---`."""
     if not text.startswith("---"):
@@ -172,6 +196,7 @@ def build() -> None:
                            "pillar": next((a for a in items if a["pillar"]), None)})
 
     base_ctx = {
+        "tool_shop": {k: awin_link(sh, v["url"]) for sh in CONFIG.get("affiliati", {}).values() for k, v in sh.get("categorie", {}).items()},
         "site": CONFIG,
         "site_url": SITE_URL,
         "categories": categories,
@@ -200,7 +225,7 @@ def build() -> None:
     for a in articles:
         related = [x for x in articles if x["category"] == a["category"] and x is not a][:4]
         write(ROOT / a["category"] / a["slug"] / "index.html", env.get_template("article.html").render(
-            **base_ctx, a=a, related=related, page_url=a["url"],
+            **base_ctx, a=a, related=related, shops=shop_links(a), page_url=a["url"],
             title=f"{a['title']} · {CONFIG['name']}", description=a["description"]))
 
     # pagine fisse

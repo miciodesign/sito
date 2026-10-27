@@ -30,6 +30,15 @@
     </div>
   </div>
 
+  {% if shops %}
+  <aside class="shop-box">
+    <p class="eyebrow">Dove trovarli</p>
+    <p class="shop-box-title">Su {{ shops[0].shop }}</p>
+    <ul>{% for l in shops %}<li><a href="{{ l.url }}" rel="nofollow sponsored noopener" target="_blank">{{ l.label }} →</a></li>{% endfor %}</ul>
+    <p class="small muted">Link di affiliazione: se compri da qui riceviamo una piccola commissione, senza costi per te. Una parte va alla <a href="/la-colonia/">nostra colonia felina</a>.</p>
+  </aside>
+  {% endif %}
+
   <footer class="article-foot">
     <p class="small muted">Questo articolo parla di casa, oggetti e abitudini. Non sostituisce il parere del veterinario: se il tuo gatto cambia comportamento all'improvviso, la prima cosa da fare è una visita.</p>
   </footer>

@@ -60,7 +60,79 @@
       "awinaffid": "3132250",
       "link_base": "https://www.awin1.com/cread.php?awinmid=15892&awinaffid=3132250",
       "deeplink": "https://www.awin1.com/cread.php?awinmid=15892&awinaffid=3132250&ued=URL_CODIFICATO",
-      "categorie": {}
+      "categorie": {
+        "lettiere": {
+          "etichetta": "Lettiere e sabbie",
+          "url": "https://www.robinsonpetshop.it/gatto/igiene-e-pulizia/lettiere/"
+        },
+        "tiragraffi": {
+          "etichetta": "Tiragraffi",
+          "url": "https://www.robinsonpetshop.it/gatto/accessori/tiragraffi/"
+        },
+        "ciotole": {
+          "etichetta": "Ciotole, fontanelle e distributori",
+          "url": "https://www.robinsonpetshop.it/gatto/accessori/ciotole-e-dispenser/"
+        },
+        "giochi": {
+          "etichetta": "Giochi",
+          "url": "https://www.robinsonpetshop.it/gatto/accessori/giochi/"
+        },
+        "cibo_secco": {
+          "etichetta": "Cibo secco di qualità",
+          "url": "https://www.robinsonpetshop.it/gatto/top-quality/cibo-secco/"
+        },
+        "cibo_umido": {
+          "etichetta": "Cibo umido di qualità",
+          "url": "https://www.robinsonpetshop.it/gatto/top-quality/cibo-umido/"
+        }
+      }
     }
+  },
+  "negozi_per_categoria": {
+    "lettiera": [
+      "lettiere"
+    ],
+    "spazio-verticale": [
+      "tiragraffi",
+      "giochi"
+    ],
+    "vita-quotidiana": [
+      "ciotole",
+      "giochi",
+      "cibo_umido"
+    ],
+    "convivenze": [
+      "giochi",
+      "lettiere"
+    ],
+    "arredo-e-pulizia": [
+      "tiragraffi",
+      "lettiere"
+    ],
+    "balcone-e-finestre": []
+  },
+  "negozi_per_parola": {
+    "fontanell": [
+      "ciotole"
+    ],
+    "distributor": [
+      "ciotole",
+      "cibo_secco"
+    ],
+    "cibo": [
+      "cibo_secco",
+      "cibo_umido",
+      "ciotole"
+    ],
+    "gioc": [
+      "giochi"
+    ],
+    "tiragraff": [
+      "tiragraffi"
+    ],
+    "mensol": [
+      "tiragraffi",
+      "giochi"
+    ]
   }
 }

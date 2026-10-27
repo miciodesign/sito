@@ -103,6 +103,8 @@
 
 <script>
 (function(){
+var SHOP={{ tool_shop|tojson }};
+function shop(k,txt){return SHOP[k]?'<br><a class="shop-inline" href="'+SHOP[k]+'" rel="nofollow sponsored noopener" target="_blank">'+txt+' su Robinson Pet Shop →</a> <span class="small muted">(link di affiliazione)</span>':''}
 // ---- piante
 var plants=[
  ['giglio','lilium','emerocallide','hemerocallis','giglio asiatico','giglio orientale'],
@@ -137,7 +139,7 @@ document.getElementById('litterform').addEventListener('submit',function(e){
   else if(pref==='aperta')type='Lettiere aperte: la scelta più accettata dai gatti. Bordi alti almeno 15 cm e un tappetino raccogli-sabbia.';
   else type='Tipo: con un solo gatto va bene qualunque tipo purché grande (almeno 1,5 volte la lunghezza del gatto); con più gatti meglio almeno una aperta.';
   var r=document.getElementById('litterres');r.className='tool-result good';
-  r.innerHTML='<strong>'+(tot===1?'Una lettiera, gestita bene.':tot+' lettiere.')+'</strong> '+(n>1?'La regola è una per gatto più una.':'Una per gatto più una: la seconda evita la maggior parte degli incidenti.')+'<ul><li>'+where.join('</li><li>')+'</li><li>'+type+'</li></ul>';
+  r.innerHTML='<strong>'+(tot===1?'Una lettiera, gestita bene.':tot+' lettiere.')+'</strong> '+(n>1?'La regola è una per gatto più una.':'Una per gatto più una: la seconda evita la maggior parte degli incidenti.')+'<ul><li>'+where.join('</li><li>')+'</li><li>'+type+'</li></ul>'+shop('lettiere','Vedi lettiere e sabbie');
 });
 // ---- acqua
 document.getElementById('waterform').addEventListener('submit',function(e){
@@ -150,6 +152,7 @@ document.getElementById('waterform').addEventListener('submit',function(e){
   var html='<strong>Fabbisogno totale: circa '+need+' ml al giorno</strong> (acqua bevuta più acqua nel cibo), per un gatto di '+kg+' kg.<br>';
   html+={secco:'Con solo cibo secco quasi tutta deve venire dalla ciotola: <strong>circa '+toDrink+' ml da bere</strong>. È tanto per un gatto, e la maggior parte non ci arriva: fontanella, più punti acqua lontani dal cibo, e una porzione di umido al giorno fanno la differenza.',misto:'Con dieta mista una parte arriva dall\'umido: <strong>circa '+toDrink+' ml da bere</strong> dalla ciotola o dalla fontanella.',umido:'Con solo umido il grosso arriva dal cibo: <strong>circa '+toDrink+' ml da bere</strong>, spesso senza che tu lo veda bere molto.'}[diet];
   if(ml!==''){var d=parseFloat(ml);if(d<toDrink*0.6)html+='<br><br>Beve <strong>'+d+' ml</strong>: meno di quanto servirebbe. Prova le soluzioni della guida (acqua lontana dal cibo, fontanella, ciotole larghe) e, se non cambia in due settimane, parlane con il veterinario.';else if(d>need*1.3)html+='<br><br>Beve <strong>'+d+' ml</strong>: più del previsto. Bere molto può essere normale col caldo, ma se è una novità va riferito al veterinario.';else html+='<br><br>Beve <strong>'+d+' ml</strong>: in linea con il fabbisogno.';}
+  html+=shop('ciotole','Fontanelle e ciotole');
   r.innerHTML=html;
 });
 // ---- utilità
@@ -168,7 +171,7 @@ document.getElementById('ageform').addEventListener('submit',function(e){
   else if(t<11){st='Adulto maturo';tips=['Si muove meno e tende a ingrassare: porzioni pesate e gioco quotidiano, anche breve.','Più acqua: una fontanella spesso lo fa bere di più (<a href="/vita-quotidiana/fontanelle-gatti-silenziose-migliori/">le più silenziose</a>).','Visita di controllo dal veterinario almeno una volta l\'anno.']}
   else {st='Anziano';tips=['Almeno una lettiera con bordo basso vicino a dove dorme (<a href="/lettiera/guida-lettiera-gatto-appartamento/">guida alla lettiera</a>).','Scalini o un mobile intermedio per raggiungere i posti alti a cui è abituato, senza grandi salti.','Una cuccia calda lontana dalle correnti, ciotole leggermente rialzate e acqua in più punti della casa.','Per i gatti anziani le linee guida veterinarie consigliano un controllo ogni sei mesi.']}
   var r=document.getElementById('ageres');r.className='tool-result good';
-  r.innerHTML='<strong>'+(t<1?'Il tuo gattino':'Il tuo gatto')+' ha circa '+h+' anni umani.</strong> Fase della vita: <strong>'+st.toLowerCase()+'</strong>.<ul><li>'+tips.join('</li><li>')+'</li></ul>';
+  r.innerHTML='<strong>'+(t<1?'Il tuo gattino':'Il tuo gatto')+' ha circa '+h+' anni umani.</strong> Fase della vita: <strong>'+st.toLowerCase()+'</strong>.<ul><li>'+tips.join('</li><li>')+'</li></ul>'+(t>=11?shop('lettiere','Lettiere comode per gatti anziani'):shop('giochi','Giochi per gatti'));
 });
 // ---- costo
 document.getElementById('costform').addEventListener('submit',function(e){
@@ -185,7 +188,7 @@ document.getElementById('costform').addEventListener('submit',function(e){
   rows.forEach(function(r){if(r[1]>0)t+='<tr><td>'+(r[2]?'<a href="'+r[2]+'">'+r[0]+'</a>':r[0])+'</td><td>'+eur(r[1])+'</td></tr>'});
   once.forEach(function(r){t+='<tr><td>'+r[0]+' <span class="muted">(una volta)</span></td><td>'+eur(r[1])+'</td></tr>'});
   t+='</tbody></table>';
-  t+='<p class="small" style="margin:10px 0 0">Il cibo è la voce che pesa di più e quella su cui conviene meno risparmiare. Sulla sabbia invece si risparmia molto scegliendo bene: il confronto è nella <a href="/lettiera/sabbia-gatti-agglomerante-vegetale-silicio/">guida alle sabbie</a>.</p>';
+  t+='<p class="small" style="margin:10px 0 0">Il cibo è la voce che pesa di più e quella su cui conviene meno risparmiare. Sulla sabbia invece si risparmia molto scegliendo bene: il confronto è nella <a href="/lettiera/sabbia-gatti-agglomerante-vegetale-silicio/">guida alle sabbie</a>.</p>'+shop('cibo_secco','Cibo secco di qualità')+shop('lettiere','Lettiere e sabbie');
   var r=document.getElementById('costres');r.className='tool-result good';r.innerHTML=t;
 });
 // ---- rete balcone
