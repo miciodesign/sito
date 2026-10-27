@@ -51,5 +51,16 @@
       "description": "Divani e tessuti che resistono, aspirapolvere per peli di gatto, odori di pipì e routine di pulizia: una casa bella anche con un gatto dentro.",
       "intro": "Una casa con un gatto può essere bella e pulita. Servono i tessuti giusti, due o tre strumenti che funzionano davvero e una routine che non pesa."
     }
-  ]
+  ],
+  "affiliati": {
+    "robinson": {
+      "nome": "Robinson Pet Shop",
+      "rete": "Awin",
+      "awinmid": "15892",
+      "awinaffid": "3132250",
+      "link_base": "https://www.awin1.com/cread.php?awinmid=15892&awinaffid=3132250",
+      "deeplink": "https://www.awin1.com/cread.php?awinmid=15892&awinaffid=3132250&ued=URL_CODIFICATO",
+      "categorie": {}
+    }
+  }
 }
