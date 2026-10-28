@@ -199,3 +199,17 @@ p{margin:0 0 1em}
 .shop-box li a{display:inline-block;padding:8px 14px;background:var(--paper);border:1px solid var(--line);border-radius:999px;font-weight:600;text-decoration:none;color:var(--accent-ink)}
 .shop-box li a:hover{border-color:var(--accent)}
 .shop-inline{display:inline-block;margin-top:10px;font-weight:600}
+
+/* Hero con foto nelle categorie */
+.cat-hero{position:relative;background-size:cover;background-color:#3b3027;color:#fff;min-height:400px;display:flex;align-items:flex-end;margin-bottom:36px}
+.cat-hero::before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(24,18,12,.82) 0%,rgba(24,18,12,.55) 45%,rgba(24,18,12,.08) 100%)}
+.cat-hero-inner{position:relative;padding-block:56px 48px;width:100%}
+.cat-hero h1{color:#fff;margin:.2em 0 .25em;text-shadow:0 2px 14px rgba(0,0,0,.35)}
+.cat-hero .lead{color:#f4ece3;max-width:34em}
+.cat-hero .crumbs,.cat-hero .crumbs a,.cat-hero .crumbs span{color:#eadfd3}
+.photo-credit{position:absolute;right:12px;bottom:8px;margin:0;font-size:11px;opacity:.85}
+.photo-credit a{color:#fff;text-decoration:none}
+.photo-credit a:hover{text-decoration:underline}
+@media (max-width:700px){.cat-hero{min-height:420px}.cat-hero::before{background:linear-gradient(0deg,rgba(24,18,12,.85) 0%,rgba(24,18,12,.55) 55%,rgba(24,18,12,.15) 100%)}}
+/* Riquadro guida: illustrazione e testo affiancati */
+@media (min-width:900px){.pillar-card{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,1fr);gap:32px;align-items:center}.pillar-card .pillar-img{margin:0}}

@@ -1,19 +1,32 @@
 {% extends "base.html" %}
 {% block content %}
+{% if cat.photo %}
+<section class="cat-hero" style="background-image:url('{{ cat.photo.src }}');background-position:{{ cat.photo.pos or 'center' }}">
+  <div class="wrap cat-hero-inner">
+    <nav class="crumbs" aria-label="Percorso"><a href="/">Home</a> › <span>{{ cat.name }}</span></nav>
+    <h1>{{ cat.name }}</h1>
+    <p class="lead">{{ cat.intro }}</p>
+  </div>
+  <p class="photo-credit"><a href="{{ cat.photo.page }}" rel="noopener" target="_blank">{{ cat.photo.credit }}</a></p>
+</section>
+{% else %}
 <section class="wrap section">
   <nav class="crumbs" aria-label="Percorso"><a href="/">Home</a> › <span>{{ cat.name }}</span></nav>
   <h1>{{ cat.name }}</h1>
   <p class="lead">{{ cat.intro }}</p>
 </section>
+{% endif %}
 
 {% if cat.pillar %}
 <section class="wrap">
   <a class="pillar-card" href="{{ cat.pillar.url }}">
     {% if cat.pillar.image %}<img class="pillar-img" src="{{ cat.pillar.image }}" alt="" width="1200" height="700">{% endif %}
+    <div class="pillar-text">
     <p class="eyebrow">La guida completa</p>
     <h2>{{ cat.pillar.title }}</h2>
     <p>{{ cat.pillar.description }}</p>
     <span class="btn">Leggi la guida · {{ cat.pillar.minutes }} min</span>
+    </div>
   </a>
 </section>
 {% endif %}
