@@ -84,13 +84,18 @@
         "cibo_umido": {
           "etichetta": "Cibo umido di qualità",
           "url": "https://www.robinsonpetshop.it/gatto/top-quality/cibo-umido/"
+        },
+        "pulizia": {
+          "etichetta": "Detergenti, antiodore e disabituanti",
+          "url": "https://www.robinsonpetshop.it/gatto/igiene-e-pulizia/disabituanti-pulizia-della-casa/"
         }
       }
     }
   },
   "negozi_per_categoria": {
     "lettiera": [
-      "lettiere"
+      "lettiere",
+      "pulizia"
     ],
     "spazio-verticale": [
       "tiragraffi",
@@ -103,15 +108,30 @@
     ],
     "convivenze": [
       "giochi",
-      "lettiere"
+      "lettiere",
+      "pulizia"
     ],
     "arredo-e-pulizia": [
-      "tiragraffi",
-      "lettiere"
+      "pulizia",
+      "tiragraffi"
     ],
     "balcone-e-finestre": []
   },
   "negozi_per_parola": {
+    "odor": [
+      "pulizia",
+      "lettiere"
+    ],
+    "pipi": [
+      "pulizia",
+      "lettiere"
+    ],
+    "puliz": [
+      "pulizia"
+    ],
+    "pulitor": [
+      "pulizia"
+    ],
     "fontanell": [
       "ciotole"
     ],
