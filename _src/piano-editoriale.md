@@ -51,6 +51,7 @@ Nuova categoria `razze` da aggiungere in config.json (nome "Razze in appartament
 - [x] 16 P Mensole per gatti a parete: misure, distanze, montaggio · spazio-verticale · 2026-10-28
 - [x] 22 P Rete balcone senza forare: sistemi a pressione e a morsetto · balcone-e-finestre · 2026-10-29
 - [x] 29 A Distributori automatici di cibo: i migliori per gatti · vita-quotidiana · 2026-10-30
+- [ ] 46 P Eliminare l'odore di pipì di gatto e pulire divano e tessuti: detergenti enzimatici e pulitori a confronto (query reale da Search Console: "pulitore tessuti gatti") · arredo-e-pulizia
 - [ ] 11 P Dove mettere la lettiera in un bilocale · lettiera
 - [ ] 12 P Il gatto fa i bisogni fuori dalla lettiera: le 9 cause · lettiera
 - [ ] 15 A Tiragraffi per gatti grandi: cosa deve avere · spazio-verticale
@@ -75,7 +76,6 @@ Nuova categoria `razze` da aggiungere in config.json (nome "Razze in appartament
 - [ ] 30 A Ciotole rialzate e antiscivolo: servono davvero · vita-quotidiana
 - [ ] 34 P Il gatto miagola di notte: cause e soluzioni · vita-quotidiana
 - [ ] 40 P Due gatti in appartamento: come farli andare d'accordo · convivenze
-- [ ] 46 P Eliminare l'odore di pipì di gatto da divano, materasso e pavimento · arredo-e-pulizia
 - [ ] 35 A Telecamere per gatti: le migliori per vederlo da fuori · vita-quotidiana
 - [ ] 36 I Lasciare il gatto solo: per quanto e come organizzarsi · vita-quotidiana
 - [ ] 41 P Gatto e cane in casa: l'inserimento passo per passo · convivenze
