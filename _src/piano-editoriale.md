@@ -56,22 +56,32 @@ Nuova categoria `razze` da aggiungere in config.json (nome "Razze in appartament
 - [x] 12 P Il gatto fa i bisogni fuori dalla lettiera: le 9 cause · lettiera · 2026-11-04
 - [x] 15 A Tiragraffi per gatti grandi: cosa deve avere · spazio-verticale · 2026-11-05
 - [x] 23 P Finestra a vasistas: il pericolo per i gatti e le protezioni · balcone-e-finestre · 2026-11-06
+<!-- Priorità novembre 2026: gruppo divano e pulizia (segnali da Search Console). Vedi _src/piano-seo.md -->
+- [ ] 45 P Il gatto graffia il divano: cosa fare davvero · arredo-e-pulizia · kw: gatto graffia divano
+- [ ] 44 A Divano antigraffio per gatti: i tessuti che resistono davvero (microfibra, tessuti tecnici, pelle) · arredo-e-pulizia · kw: divano antigraffio gatti, tessuto divano gatti
+- [ ] 49 P Come togliere i peli di gatto da divano, vestiti e lenzuola · arredo-e-pulizia · kw: togliere peli gatto divano
+- [ ] 61 P Odore di gatto in casa: da dove viene e come eliminarlo · arredo-e-pulizia · kw: eliminare odore gatto casa
+- [ ] 62 I Prodotti per la pulizia pericolosi per i gatti: candeggina, ammoniaca, fenoli, oli essenziali · arredo-e-pulizia · kw: candeggina gatti, detersivi sicuri gatti
+- [ ] 47 A I migliori aspirapolvere per peli di gatto · arredo-e-pulizia · kw: aspirapolvere peli gatto
+- [ ] 63 P Pulire i tappeti con un gatto: peli, vomito e pipì · arredo-e-pulizia · kw: pulire tappeto pipì gatto
+- [ ] 64 P Arredare una casa piccola con un gatto: 12 idee salvaspazio · arredo-e-pulizia · kw: arredare casa piccola con gatto
+- [ ] 65 I Casa a misura di gatto senza rinunciare al design · arredo-e-pulizia · kw: casa a misura di gatto, arredamento cat friendly
+- [ ] 50 P Tende e gatti: come salvarle · arredo-e-pulizia · kw: gatto si arrampica sulle tende
+- [ ] 18 P Il gatto non usa il tiragraffi: come convincerlo · spazio-verticale · kw: gatto non usa tiragraffi
+- [ ] 48 A Robot aspirapolvere e gatti: quali funzionano · arredo-e-pulizia · kw: robot aspirapolvere peli gatto
 - [ ] 31 A Giochi intelligenti e puzzle alimentari: i migliori · vita-quotidiana
 - [ ] 13 A Mobili copri-lettiera: i migliori e come arieggiarli · lettiera
 - [ ] 17 A Alberi per gatti da soffitto: i migliori a pressione · spazio-verticale
 - [ ] 24 P Come costruire un catio sul balcone · balcone-e-finestre
 - [ ] 28 P Il gatto beve poco: 8 modi per farlo bere di più · vita-quotidiana
 - [ ] 37 I Piante tossiche per gatti: l'elenco completo · convivenze
-- [ ] 18 P Il gatto non usa il tiragraffi: come convincerlo · spazio-verticale
 - [ ] 25 A Zanzariere a prova di gatto · balcone-e-finestre
 - [ ] 32 P Gatto annoiato in casa: 15 idee che funzionano · vita-quotidiana
 - [ ] 38 I Piante sicure per gatti: 25 specie da tenere in casa · convivenze
-- [ ] 44 A Divani a prova di gatto: tessuti che resistono · arredo-e-pulizia
 - [ ] 19 P Percorsi per gatti in una casa in affitto, senza forare · spazio-verticale
 - [ ] 26 A Gatto sul balcone d'inverno: cucce e ripari · balcone-e-finestre
 - [ ] 33 I Giocare col gatto: quanto, quando e con cosa · vita-quotidiana
 - [ ] 39 I Gatto e neonato in casa: come preparare l'arrivo · convivenze
-- [ ] 45 P Il gatto graffia il divano: cosa fare davvero · arredo-e-pulizia
 - [ ] 20 A Amache da finestra: le migliori e quanto reggono · spazio-verticale
 - [ ] 30 A Ciotole rialzate e antiscivolo: servono davvero · vita-quotidiana
 - [ ] 34 P Il gatto miagola di notte: cause e soluzioni · vita-quotidiana
@@ -79,12 +89,8 @@ Nuova categoria `razze` da aggiungere in config.json (nome "Razze in appartament
 - [ ] 35 A Telecamere per gatti: le migliori per vederlo da fuori · vita-quotidiana
 - [ ] 36 I Lasciare il gatto solo: per quanto e come organizzarsi · vita-quotidiana
 - [ ] 41 P Gatto e cane in casa: l'inserimento passo per passo · convivenze
-- [ ] 47 A I migliori aspirapolvere per peli di gatto · arredo-e-pulizia
-- [ ] 48 A Robot aspirapolvere e gatti: quali funzionano · arredo-e-pulizia
 - [ ] 42 I Un secondo gatto: quando sì e quando no · convivenze
 - [ ] 43 I Gatto e ospiti: il gatto che si nasconde · convivenze
-- [ ] 49 A Peli ovunque: spazzole, rulli e routine · arredo-e-pulizia
-- [ ] 50 P Tende e gatti: come salvarle · arredo-e-pulizia
 - [ ] 51 A Il miglior trasportino per gatti (e come farglielo amare) · vita-quotidiana
 - [ ] 52 A Zaini per gatti: i migliori e quando usarli · vita-quotidiana
 - [ ] 53 I Gatto in auto per lunghi viaggi · vita-quotidiana
