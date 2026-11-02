@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" font-family="Outfit, Arial, sans-serif">
+<rect width="1200" height="700" fill="#fbfaf7"/>
+<text x="60" y="70" font-size="34" font-weight="700" fill="#24201b">Il gatto fa i bisogni fuori dalla lettiera: le 9 cause, in ordine</text>
+<text x="60" y="104" font-size="20" fill="#6a6359">Non è dispetto: la lettiera è diventata un posto peggiore dell'alternativa. Prima il veterinario, poi la lettiera, poi la casa</text>
+<!-- tre colonne -->
+<g font-size="17" fill="#24201b">
+<!-- colonna 1: salute -->
+<rect x="60" y="140" width="340" height="400" rx="16" fill="#f8e3df"/>
+<text x="80" y="176" font-size="20" font-weight="700" fill="#a53a2a">Prima di tutto</text>
+<g transform="translate(80,200)">
+<circle cx="16" cy="14" r="16" fill="#a53a2a"/><text x="16" y="20" font-size="16" fill="#fff" text-anchor="middle" font-weight="700">1</text>
+<text x="44" y="20" font-weight="600">Salute</text>
+<text x="44" y="44" font-size="15" fill="#6a6359">cistite, calcoli, artrosi, dolore.</text>
+<text x="44" y="64" font-size="15" fill="#6a6359">Cambio improvviso = veterinario</text>
+</g>
+<!-- lettiera icona -->
+<g transform="translate(120,300)">
+<rect x="0" y="40" width="200" height="110" rx="14" fill="#f7e8d9" stroke="#c2651d" stroke-width="6"/>
+<rect x="14" y="90" width="172" height="46" rx="6" fill="#e7e2d9"/>
+<g fill="#c2651d" transform="translate(60,0)"><path d="M0 20 L4 0 L14 10 L26 10 L36 0 L40 20 A20 20 0 1 1 0 20 Z"/><rect x="36" y="22" width="50" height="20" rx="10"/></g>
+</g>
+<text x="80" y="500" font-size="15" fill="#a53a2a" font-weight="600">Maschio che non riesce a urinare:</text>
+<text x="80" y="522" font-size="15" fill="#a53a2a" font-weight="600">emergenza, oggi</text>
+<!-- colonna 2: lettiera -->
+<rect x="430" y="140" width="340" height="400" rx="16" fill="#f7e8d9"/>
+<text x="450" y="176" font-size="20" font-weight="700" fill="#c2651d">La lettiera</text>
+<g transform="translate(450,200)">
+<g><circle cx="16" cy="14" r="16" fill="#c2651d"/><text x="16" y="20" font-size="16" fill="#fff" text-anchor="middle" font-weight="700">2</text><text x="44" y="20" font-weight="600">Sporca (per lui)</text><text x="44" y="42" font-size="15" fill="#6a6359">grumi via 1-2 volte al giorno</text></g>
+<g transform="translate(0,62)"><circle cx="16" cy="14" r="16" fill="#c2651d"/><text x="16" y="20" font-size="16" fill="#fff" text-anchor="middle" font-weight="700">3</text><text x="44" y="20" font-weight="600">Troppo poche</text><text x="44" y="42" font-size="15" fill="#6a6359">una per gatto più una, in stanze diverse</text></g>
+<g transform="translate(0,124)"><circle cx="16" cy="14" r="16" fill="#c2651d"/><text x="16" y="20" font-size="16" fill="#fff" text-anchor="middle" font-weight="700">4</text><text x="44" y="20" font-weight="600">Posto sbagliato</text><text x="44" y="42" font-size="15" fill="#6a6359">cibo, lavatrice, ripostiglio, passaggio</text></g>
+<g transform="translate(0,186)"><circle cx="16" cy="14" r="16" fill="#c2651d"/><text x="16" y="20" font-size="16" fill="#fff" text-anchor="middle" font-weight="700">5</text><text x="44" y="20" font-weight="600">Piccola o chiusa</text><text x="44" y="42" font-size="15" fill="#6a6359">1,5 volte il gatto: 50-60 cm</text></g>
+<g transform="translate(0,248)"><circle cx="16" cy="14" r="16" fill="#c2651d"/><text x="16" y="20" font-size="16" fill="#fff" text-anchor="middle" font-weight="700">6</text><text x="44" y="20" font-weight="600">Sabbia sbagliata</text><text x="44" y="42" font-size="15" fill="#6a6359">profumata, grossa, poca, cambiata</text></g>
+</g>
+<!-- colonna 3: casa -->
+<rect x="800" y="140" width="340" height="400" rx="16" fill="#e6ede8"/>
+<text x="820" y="176" font-size="20" font-weight="700" fill="#4e7a66">La casa</text>
+<g transform="translate(820,200)">
+<g><circle cx="16" cy="14" r="16" fill="#4e7a66"/><text x="16" y="20" font-size="16" fill="#fff" text-anchor="middle" font-weight="700">7</text><text x="44" y="20" font-weight="600">Brutta esperienza</text><text x="44" y="42" font-size="15" fill="#6a6359">dolore, spavento: cambia tutto insieme</text></g>
+<g transform="translate(0,82)"><circle cx="16" cy="14" r="16" fill="#4e7a66"/><text x="16" y="20" font-size="16" fill="#fff" text-anchor="middle" font-weight="700">8</text><text x="44" y="20" font-weight="600">Stress</text><text x="44" y="42" font-size="15" fill="#6a6359">trasloco, neonato, nuovo animale:</text><text x="44" y="62" font-size="15" fill="#6a6359">marcatura su superfici verticali</text></g>
+<g transform="translate(0,184)"><circle cx="16" cy="14" r="16" fill="#4e7a66"/><text x="16" y="20" font-size="16" fill="#fff" text-anchor="middle" font-weight="700">9</text><text x="44" y="20" font-weight="600">Conflitto fra gatti</text><text x="44" y="42" font-size="15" fill="#6a6359">uno blocca l'accesso all'altro:</text><text x="44" y="62" font-size="15" fill="#6a6359">lettiere in stanze diverse</text></g>
+</g>
+</g>
+<!-- riga cosa fare -->
+<g transform="translate(60,570)">
+<rect x="0" y="0" width="1080" height="64" rx="12" fill="#ffffff" stroke="#e7e2d9" stroke-width="4"/>
+<text x="24" y="40" font-size="17" fill="#24201b"><tspan font-weight="700">Da fare subito:</tspan> veterinario → pulizia enzimatica → grumi 2 volte al giorno → una lettiera grande in più → mai punire</text>
+</g>
+<text x="60" y="672" font-size="16" fill="#6a6359">miciodesign.it · Pipì verticale a gocce = marcatura (stress). Pipì orizzontale = lettiera o salute. Feci accanto = lettiera.</text>
+</svg>

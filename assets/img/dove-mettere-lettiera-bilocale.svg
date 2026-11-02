@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" font-family="Outfit, Arial, sans-serif">
+<rect width="1200" height="700" fill="#fbfaf7"/>
+<text x="60" y="70" font-size="34" font-weight="700" fill="#24201b">Dove mettere la lettiera in un bilocale</text>
+<text x="60" y="104" font-size="20" fill="#6a6359">Lontana da cibo e acqua, con due vie di fuga, in una stanza che resta aperta. Due lettiere, in due stanze</text>
+<!-- pianta bilocale -->
+<g stroke="#24201b" stroke-width="6" fill="#ffffff">
+<rect x="80" y="150" width="760" height="480"/>
+<line x1="500" y1="150" x2="500" y2="630"/>
+<line x1="500" y1="420" x2="840" y2="420"/>
+<line x1="80" y1="500" x2="300" y2="500"/>
+<line x1="300" y1="500" x2="300" y2="630"/>
+<rect x="840" y="150" width="120" height="480" fill="#f1efe9"/>
+</g>
+<!-- porte -->
+<g stroke="#24201b" stroke-width="6" fill="none"><path d="M500 320 a60 60 0 0 1 -60 60"/><path d="M620 420 a60 60 0 0 0 60 60"/><path d="M300 560 a50 50 0 0 1 -50 50"/><path d="M190 500 a50 50 0 0 1 -50 -50"/></g>
+<rect x="496" y="320" width="8" height="60" fill="#fbfaf7"/>
+<rect x="620" y="416" width="60" height="8" fill="#fbfaf7"/>
+<rect x="296" y="560" width="8" height="50" fill="#fbfaf7"/>
+<rect x="140" y="496" width="50" height="8" fill="#fbfaf7"/>
+<!-- etichette -->
+<g font-size="18" fill="#6a6359" font-weight="500">
+<text x="100" y="180">SOGGIORNO + CUCINA</text><text x="520" y="180">CAMERA</text><text x="520" y="450">BAGNO</text><text x="100" y="530">INGRESSO</text><text x="858" y="180" font-size="14">BALCONE</text>
+</g>
+<!-- cucina -->
+<rect x="330" y="165" width="160" height="55" rx="6" fill="#e7e2d9"/><text x="345" y="199" font-size="15" fill="#6a6359">cucina</text>
+<circle cx="420" cy="250" r="12" fill="none" stroke="#4e7a66" stroke-width="5"/><circle cx="452" cy="250" r="12" fill="none" stroke="#4e7a66" stroke-width="5"/>
+<text x="390" y="286" font-size="14" fill="#4e7a66" font-weight="600">ciotole</text>
+<!-- lavatrice -->
+<rect x="700" y="440" width="50" height="50" rx="4" fill="#e7e2d9"/><circle cx="725" cy="465" r="14" fill="none" stroke="#6a6359" stroke-width="3"/><text x="760" y="470" font-size="13" fill="#6a6359">lavatrice</text>
+<!-- divano -->
+<rect x="110" y="330" width="200" height="80" rx="12" fill="#e7e2d9"/><text x="178" y="378" font-size="15" fill="#6a6359">divano</text>
+<!-- letto -->
+<rect x="530" y="210" width="180" height="150" rx="10" fill="#e7e2d9"/><text x="602" y="292" font-size="15" fill="#6a6359">letto</text>
+<!-- water -->
+<rect x="520" y="560" width="40" height="50" rx="10" fill="#e7e2d9"/>
+<!-- lettiere sì -->
+<g>
+<rect x="600" y="540" width="80" height="60" rx="10" fill="#f7e8d9" stroke="#c2651d" stroke-width="5"/>
+<text x="612" y="580" font-size="28" fill="#c2651d">✓</text>
+<text x="600" y="528" font-size="15" fill="#c2651d" font-weight="600">1. bagno, porta aperta</text>
+<rect x="745" y="170" width="80" height="60" rx="10" fill="#f7e8d9" stroke="#c2651d" stroke-width="5"/>
+<text x="757" y="210" font-size="28" fill="#c2651d">✓</text>
+<text x="600" y="395" font-size="15" fill="#c2651d" font-weight="600">2. angolo camera, lontano dal letto</text>
+<rect x="95" y="560" width="80" height="60" rx="10" fill="#f7e8d9" stroke="#c2651d" stroke-width="5"/>
+<text x="107" y="600" font-size="28" fill="#c2651d">✓</text>
+<text x="100" y="548" font-size="15" fill="#c2651d" font-weight="600">2. ingresso, in un mobile</text>
+</g>
+<!-- lettiere no -->
+<g>
+<rect x="240" y="235" width="80" height="60" rx="10" fill="#f8e3df" stroke="#a53a2a" stroke-width="5"/>
+<text x="262" y="276" font-size="28" fill="#a53a2a">✕</text>
+<text x="110" y="275" font-size="15" fill="#a53a2a" font-weight="600">vicino al cibo</text>
+<rect x="760" y="500" width="70" height="55" rx="10" fill="#f8e3df" stroke="#a53a2a" stroke-width="5"/>
+<text x="779" y="538" font-size="26" fill="#a53a2a">✕</text>
+<text x="700" y="580" font-size="14" fill="#a53a2a" font-weight="600">lavatrice: rumore</text>
+<rect x="320" y="440" width="80" height="60" rx="10" fill="#f8e3df" stroke="#a53a2a" stroke-width="5"/>
+<text x="342" y="481" font-size="28" fill="#a53a2a">✕</text>
+<text x="330" y="525" font-size="15" fill="#a53a2a" font-weight="600">nel passaggio</text>
+<rect x="862" y="440" width="76" height="56" rx="10" fill="#f8e3df" stroke="#a53a2a" stroke-width="5"/>
+<text x="882" y="479" font-size="26" fill="#a53a2a">✕</text>
+<text x="860" y="520" font-size="13" fill="#a53a2a" font-weight="600">balcone:</text><text x="860" y="538" font-size="13" fill="#a53a2a" font-weight="600">porta chiusa,</text><text x="860" y="556" font-size="13" fill="#a53a2a" font-weight="600">freddo, caldo</text>
+</g>
+<!-- gatto -->
+<g fill="#c2651d" transform="translate(410,340)"><path d="M0 20 L4 0 L14 10 L26 10 L36 0 L40 20 A20 20 0 1 1 0 20 Z"/></g>
+<!-- regole a destra -->
+<g transform="translate(990,160)" font-size="16" fill="#24201b">
+<text x="0" y="0" font-size="19" font-weight="700">Le 5 regole</text>
+<text x="0" y="40">1. Lontana da cibo</text><text x="0" y="62">e acqua</text>
+<text x="0" y="100">2. Due vie di fuga,</text><text x="0" y="122">mai in una nicchia</text>
+<text x="0" y="160">3. Tranquilla, non</text><text x="0" y="182">isolata</text>
+<text x="0" y="220">4. Porta sempre</text><text x="0" y="242">aperta (gattaiola)</text>
+<text x="0" y="280">5. Una per gatto</text><text x="0" y="302">più una, in stanze</text><text x="0" y="324">diverse</text>
+<text x="0" y="370" fill="#4e7a66" font-weight="600">Bagno + ingresso</text>
+<text x="0" y="392" fill="#4e7a66" font-weight="600">o bagno + camera</text>
+</g>
+<text x="60" y="672" font-size="16" fill="#6a6359">miciodesign.it · In un bilocale la seconda lettiera va in un'altra stanza, non accanto alla prima.</text>
+</svg>

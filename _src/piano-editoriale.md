@@ -24,8 +24,8 @@ Stato: [ ] da scrivere · [x] pubblicato
 
 Nuova categoria `razze` da aggiungere in config.json (nome "Razze in appartamento", intro: come vive ciascuna razza in casa). Ogni scheda, tipo I, 900-1.200 parole: carattere in casa, spazio verticale richiesto, bisogno di gioco e compagnia, pelo e pulizia, adatta a monolocale sì/no, con cosa attrezzare la casa, link alle guide. Niente salute né prezzi dei cuccioli. Illustrazione: silhouette della razza nello stile del sito finché non arriva la foto Wikimedia (con riga di attribuzione obbligatoria: autore, Wikimedia Commons, licenza).
 
-- [ ] R1 Maine Coon in appartamento: spazio, mensole e gioco per un gigante
-- [ ] R2 Il gatto europeo (soriano) in casa: il più adattabile di tutti
+- [x] R1 Maine Coon in appartamento: spazio, mensole e gioco per un gigante · razze · 2026-11-07
+- [x] R2 Il gatto europeo (soriano) in casa: il più adattabile di tutti · razze · 2026-11-08
 - [ ] R3 Siamese in appartamento: compagnia, voce e noia
 - [ ] R4 Britannico a pelo corto: il gatto da divano che ha bisogno di muoversi
 - [ ] R5 Persiano in casa: pelo, spazi bassi e routine
@@ -51,11 +51,11 @@ Nuova categoria `razze` da aggiungere in config.json (nome "Razze in appartament
 - [x] 16 P Mensole per gatti a parete: misure, distanze, montaggio · spazio-verticale · 2026-10-28
 - [x] 22 P Rete balcone senza forare: sistemi a pressione e a morsetto · balcone-e-finestre · 2026-10-29
 - [x] 29 A Distributori automatici di cibo: i migliori per gatti · vita-quotidiana · 2026-10-30
-- [ ] 46 P Eliminare l'odore di pipì di gatto e pulire divano e tessuti: detergenti enzimatici e pulitori a confronto (query reale da Search Console: "pulitore tessuti gatti") · arredo-e-pulizia
-- [ ] 11 P Dove mettere la lettiera in un bilocale · lettiera
-- [ ] 12 P Il gatto fa i bisogni fuori dalla lettiera: le 9 cause · lettiera
-- [ ] 15 A Tiragraffi per gatti grandi: cosa deve avere · spazio-verticale
-- [ ] 23 P Finestra a vasistas: il pericolo per i gatti e le protezioni · balcone-e-finestre
+- [x] 46 P Eliminare l'odore di pipì di gatto e pulire divano e tessuti: detergenti enzimatici e pulitori a confronto (query reale da Search Console: "pulitore tessuti gatti") · arredo-e-pulizia · 2026-11-02
+- [x] 11 P Dove mettere la lettiera in un bilocale · lettiera · 2026-11-03
+- [x] 12 P Il gatto fa i bisogni fuori dalla lettiera: le 9 cause · lettiera · 2026-11-04
+- [x] 15 A Tiragraffi per gatti grandi: cosa deve avere · spazio-verticale · 2026-11-05
+- [x] 23 P Finestra a vasistas: il pericolo per i gatti e le protezioni · balcone-e-finestre · 2026-11-06
 - [ ] 31 A Giochi intelligenti e puzzle alimentari: i migliori · vita-quotidiana
 - [ ] 13 A Mobili copri-lettiera: i migliori e come arieggiarli · lettiera
 - [ ] 17 A Alberi per gatti da soffitto: i migliori a pressione · spazio-verticale

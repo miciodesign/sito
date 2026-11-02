@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" font-family="Outfit, Arial, sans-serif">
+<rect width="1200" height="700" fill="#fbfaf7"/>
+<text x="60" y="70" font-size="34" font-weight="700" fill="#24201b">Il gatto europeo (soriano) in casa</text>
+<text x="60" y="104" font-size="20" fill="#6a6359">Il gatto comune, selezionato dalla vita accanto alle persone: equilibrato, robusto, il più adattabile di tutti</text>
+<!-- davanzale e finestra -->
+<rect x="80" y="150" width="500" height="340" rx="6" fill="#eef4fb" stroke="#24201b" stroke-width="6"/>
+<line x1="330" y1="150" x2="330" y2="490" stroke="#24201b" stroke-width="6"/>
+<rect x="60" y="490" width="560" height="26" rx="4" fill="#e7e2d9"/>
+<!-- sole -->
+<circle cx="470" cy="230" r="38" fill="#f7e8d9"/>
+<!-- gatto europeo seduto sul davanzale, silhouette con striature -->
+<g transform="translate(230,230)">
+<g fill="#c2651d">
+<path d="M70 260 C 20 260, 10 190, 40 130 C 60 85, 95 70, 130 70 L 118 15 L 158 50 L 212 50 L 250 15 L 242 75 C 285 90, 300 135, 282 180 C 315 215, 315 260, 275 260 Z"/>
+<path d="M275 260 C 350 262, 360 200, 300 185" fill="none" stroke="#c2651d" stroke-width="28" stroke-linecap="round"/>
+<rect x="100" y="190" width="38" height="70" rx="16"/>
+<rect x="150" y="196" width="38" height="64" rx="16"/>
+</g>
+<!-- striature tabby -->
+<g stroke="#24201b" stroke-width="7" stroke-linecap="round" fill="none" opacity="0.75">
+<path d="M150 72 q10 -14 20 0"/><path d="M175 70 q10 -14 20 0"/>
+<path d="M235 110 q18 10 10 34"/><path d="M250 150 q14 12 6 32"/>
+<path d="M60 150 q-14 16 -4 36"/><path d="M75 200 q-12 14 -4 30"/>
+<path d="M310 200 q16 20 8 40"/>
+</g>
+<circle cx="155" cy="105" r="8" fill="#fbfaf7"/><circle cx="215" cy="105" r="8" fill="#fbfaf7"/>
+</g>
+<!-- mensola accanto -->
+<rect x="640" y="300" width="110" height="14" rx="4" fill="#24201b"/>
+<line x1="650" y1="314" x2="650" y2="340" stroke="#24201b" stroke-width="6"/><line x1="740" y1="314" x2="740" y2="340" stroke="#24201b" stroke-width="6"/>
+<text x="695" y="290" font-size="13" fill="#6a6359" text-anchor="middle">mensola 25-30 cm</text>
+<!-- tiragraffi piccolo -->
+<rect x="650" y="580" width="110" height="14" rx="4" fill="#24201b"/>
+<rect x="693" y="360" width="24" height="220" fill="#f7e8d9" stroke="#c2651d" stroke-width="4"/>
+<rect x="670" y="350" width="70" height="12" rx="4" fill="#24201b"/>
+<text x="705" y="620" font-size="13" fill="#6a6359" text-anchor="middle">tiragraffi 120-160</text>
+<text x="330" y="560" font-size="15" fill="#c2651d" font-weight="600" text-anchor="middle">4-5 kg · una finestra, un posto alto, due sessioni di caccia al giorno</text>
+<!-- scheda -->
+<g transform="translate(820,150)" font-size="16" fill="#24201b">
+<rect x="0" y="0" width="320" height="440" rx="16" fill="#ffffff" stroke="#e7e2d9" stroke-width="4"/>
+<text x="20" y="36" font-size="20" font-weight="700">La casa per lui</text>
+<text x="20" y="76"><tspan fill="#4e7a66" font-weight="700">Carattere</tspan>  dipende dalla storia:</text><text x="20" y="98">in media equilibrato, curioso, prudente</text>
+<text x="20" y="136"><tspan fill="#4e7a66" font-weight="700">Altezza</tspan>  misure standard: mensole</text><text x="20" y="158">25-30 cm, 3-4 in percorso</text>
+<text x="20" y="196"><tspan fill="#4e7a66" font-weight="700">Gioco</tspan>  2 × 10 min con la bacchetta,</text><text x="20" y="218">la preda si nasconde e scappa</text>
+<text x="20" y="256"><tspan fill="#4e7a66" font-weight="700">Lettiera</tspan>  50-55 cm, aperta, pulita</text><text x="20" y="278">ogni giorno, più una seconda</text>
+<text x="20" y="316"><tspan fill="#4e7a66" font-weight="700">Pelo</tspan>  corto: spazzola di gomma</text><text x="20" y="338">1 volta a settimana, 2-3 in muta</text>
+<text x="20" y="376"><tspan fill="#4e7a66" font-weight="700">Dove</tspan>  gattile e rifugi: adulti con</text><text x="20" y="398">carattere già formato</text>
+<rect x="20" y="412" width="280" height="2" fill="#e7e2d9"/>
+<text x="20" y="432" fill="#c2651d" font-weight="600">Monolocale: sì, senza riserve</text>
+</g>
+<text x="60" y="672" font-size="16" fill="#6a6359">miciodesign.it · "Soriano" è il mantello tigrato, non una razza: quasi sempre è un europeo.</text>
+</svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" font-family="Outfit, Arial, sans-serif">
+<rect width="1200" height="700" fill="#fbfaf7"/>
+<text x="60" y="70" font-size="34" font-weight="700" fill="#24201b">Maine Coon in appartamento</text>
+<text x="60" y="104" font-size="20" fill="#6a6359">Un gigante tranquillo: tutto una taglia e mezza più grande, mensole larghe e vicine, compagnia</text>
+<!-- pavimento -->
+<line x1="60" y1="600" x2="760" y2="600" stroke="#e7e2d9" stroke-width="8"/>
+<!-- europeo piccolo per confronto -->
+<g transform="translate(95,452) scale(0.36)" fill="#e7e2d9">
+<path d="M350 430 C 440 436, 470 360, 410 300" fill="none" stroke="#e7e2d9" stroke-width="40" stroke-linecap="round"/>
+<path d="M90 150 C 20 220, 0 330, 30 430 L 360 430 C 390 340, 380 240, 320 180 C 280 140, 220 120, 160 125 Z"/>
+<ellipse cx="190" cy="95" rx="84" ry="72"/>
+<path d="M85 55 L70 -18 L135 30 Z"/><path d="M165 30 L230 -18 L215 55 Z"/>
+<rect x="120" y="320" width="58" height="110" rx="24"/><rect x="200" y="330" width="58" height="100" rx="24"/>
+</g>
+<text x="165" y="658" font-size="14" fill="#6a6359" text-anchor="middle">europeo, 4-5 kg</text>
+<g transform="translate(320,175)" fill="#c2651d">
+<!-- coda folta, dietro -->
+<path d="M340 430 C 450 436, 480 350, 420 285" fill="none" stroke="#c2651d" stroke-width="58" stroke-linecap="round"/>
+<!-- corpo seduto -->
+<path d="M90 150 C 20 220, 0 330, 30 430 L 360 430 C 390 340, 380 240, 320 180 C 280 140, 220 120, 160 125 Z"/>
+<!-- criniera -->
+
+<!-- testa -->
+<ellipse cx="190" cy="95" rx="84" ry="72"/>
+<!-- orecchie con ciuffi -->
+<path d="M122 45 L106 -24 L172 22 Z"/><path d="M208 22 L274 -24 L258 45 Z"/>
+<path d="M106 -24 L98 -42 L118 -14 Z"/><path d="M274 -24 L282 -42 L262 -14 Z"/>
+<!-- zampe anteriori -->
+<rect x="120" y="320" width="58" height="110" rx="24"/>
+<rect x="200" y="330" width="58" height="100" rx="24"/>
+<!-- occhi -->
+<circle cx="160" cy="92" r="9" fill="#fbfaf7"/><circle cx="222" cy="92" r="9" fill="#fbfaf7"/>
+<!-- ciuffi guance -->
+<path d="M112 118 L80 142 L118 146 Z"/><path d="M268 118 L300 142 L262 146 Z"/>
+</g>
+<text x="560" y="658" font-size="15" fill="#c2651d" font-weight="600" text-anchor="middle">Maine Coon, 7-10 kg · oltre 1 m con la coda</text>
+<!-- quota lunghezza -->
+<line x1="360" y1="612" x2="800" y2="612" stroke="#6a6359" stroke-width="2"/>
+<line x1="360" y1="604" x2="360" y2="620" stroke="#6a6359" stroke-width="2"/><line x1="800" y1="604" x2="800" y2="620" stroke="#6a6359" stroke-width="2"/>
+<!-- scheda a destra -->
+<g transform="translate(820,150)" font-size="16" fill="#24201b">
+<rect x="0" y="0" width="320" height="440" rx="16" fill="#ffffff" stroke="#e7e2d9" stroke-width="4"/>
+<text x="20" y="36" font-size="20" font-weight="700">La casa per lui</text>
+<text x="20" y="76"><tspan fill="#4e7a66" font-weight="700">Carattere</tspan>  tranquillo, segue le</text><text x="20" y="98">persone, cucciolo fino a 3-4 anni</text>
+<text x="20" y="136"><tspan fill="#4e7a66" font-weight="700">Altezza</tspan>  mensole 35-40 cm prof.,</text><text x="20" y="158">a 35-40 cm l'una dall'altra, 30 kg</text>
+<text x="20" y="196"><tspan fill="#4e7a66" font-weight="700">Tiragraffi</tspan>  XXL: pali 12-15 cm,</text><text x="20" y="218">base 60×60, cuccia bocca 25 cm</text>
+<text x="20" y="256"><tspan fill="#4e7a66" font-weight="700">Lettiera</tspan>  60×45 minimo, meglio</text><text x="20" y="278">70×50, ingresso basso</text>
+<text x="20" y="316"><tspan fill="#4e7a66" font-weight="700">Pelo</tspan>  semilungo, pettine 2-3 volte</text><text x="20" y="338">a settimana, ogni giorno in muta</text>
+<text x="20" y="376"><tspan fill="#4e7a66" font-weight="700">Compagnia</tspan>  sì, molta: un secondo</text><text x="20" y="398">gatto se la casa resta vuota</text>
+<rect x="20" y="412" width="280" height="2" fill="#e7e2d9"/>
+<text x="20" y="432" fill="#c2651d" font-weight="600">Monolocale: sì, se c'è compagnia</text>
+</g>
+<text x="60" y="688" font-size="16" fill="#6a6359">miciodesign.it · Illustrazione stilizzata. Niente salute e niente prezzi dei cuccioli: veterinario e allevatori.</text>
+</svg>

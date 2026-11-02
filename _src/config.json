@@ -50,6 +50,13 @@
       "short": "Divani, tessuti, peli, odori",
       "description": "Divani e tessuti che resistono, aspirapolvere per peli di gatto, odori di pipì e routine di pulizia: una casa bella anche con un gatto dentro.",
       "intro": "Una casa con un gatto può essere bella e pulita. Servono i tessuti giusti, due o tre strumenti che funzionano davvero e una routine che non pesa."
+    },
+    {
+      "slug": "razze",
+      "name": "Razze",
+      "short": "Quale gatto per quale casa",
+      "description": "Come vive ogni razza in appartamento: carattere in casa, spazio verticale, gioco e compagnia, pelo e pulizia, con cosa attrezzare la casa. Schede pratiche, dal Maine Coon al gatto europeo.",
+      "intro": "Ogni razza vive la casa a modo suo: c'è chi vuole l'altezza, chi la compagnia, chi un divano e basta. Qui trovi, razza per razza, cosa aspettarti in appartamento e come attrezzarlo."
     }
   ],
   "affiliati": {
@@ -115,7 +122,11 @@
       "pulizia",
       "tiragraffi"
     ],
-    "balcone-e-finestre": []
+    "balcone-e-finestre": [],
+    "razze": [
+      "giochi",
+      "tiragraffi"
+    ]
   },
   "negozi_per_parola": {
     "odor": [

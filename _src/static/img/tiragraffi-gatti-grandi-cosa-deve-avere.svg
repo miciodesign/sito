@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" font-family="Outfit, Arial, sans-serif">
+<rect width="1200" height="700" fill="#fbfaf7"/>
+<text x="60" y="70" font-size="34" font-weight="700" fill="#24201b">Tiragraffi per gatti grandi: le misure che reggono 7-10 kg</text>
+<text x="60" y="104" font-size="20" fill="#6a6359">Base larga almeno un terzo dell'altezza, pali da 12-15 cm, piattaforme da 45 cm, cuccia in basso, 30-50 kg di peso</text>
+<!-- pavimento -->
+<line x1="60" y1="600" x2="1140" y2="600" stroke="#e7e2d9" stroke-width="8"/>
+<!-- tiragraffi normale (sbagliato) -->
+<g transform="translate(120,0)">
+<rect x="40" y="585" width="140" height="15" rx="4" fill="#24201b"/>
+<rect x="95" y="300" width="26" height="285" fill="#f7e8d9" stroke="#c2651d" stroke-width="4"/>
+<rect x="60" y="420" width="100" height="14" rx="4" fill="#24201b"/>
+<rect x="70" y="290" width="100" height="14" rx="4" fill="#24201b"/>
+<circle cx="120" cy="250" r="34" fill="#e7e2d9"/>
+<!-- gatto grande sopra: oscilla -->
+<g fill="#a53a2a" transform="translate(90,205) rotate(-8 30 20)"><path d="M0 20 L4 0 L14 10 L26 10 L36 0 L40 20 A20 20 0 1 1 0 20 Z"/><rect x="36" y="20" width="78" height="28" rx="14"/></g>
+<path d="M30 240 q-25 30 0 60" fill="none" stroke="#a53a2a" stroke-width="4" stroke-dasharray="7 6"/>
+<text x="110" y="636" font-size="15" text-anchor="middle" fill="#a53a2a" font-weight="600">base 50 cm · pali 8 cm · 15 kg</text>
+<text x="110" y="658" font-size="15" text-anchor="middle" fill="#a53a2a" font-weight="600">✕ oscilla, si ribalta</text>
+</g>
+<!-- tiragraffi XXL (giusto) -->
+<g transform="translate(420,0)">
+<rect x="0" y="580" width="360" height="20" rx="4" fill="#24201b"/>
+<!-- pali grossi -->
+<rect x="60" y="220" width="56" height="360" fill="#f7e8d9" stroke="#c2651d" stroke-width="5"/>
+<rect x="230" y="380" width="56" height="200" fill="#f7e8d9" stroke="#c2651d" stroke-width="5"/>
+<g stroke="#c2651d" stroke-width="2">
+<line x1="60" y1="230" x2="116" y2="230"/><line x1="60" y1="250" x2="116" y2="250"/><line x1="60" y1="270" x2="116" y2="270"/><line x1="60" y1="290" x2="116" y2="290"/><line x1="60" y1="310" x2="116" y2="310"/><line x1="60" y1="330" x2="116" y2="330"/><line x1="60" y1="350" x2="116" y2="350"/><line x1="60" y1="370" x2="116" y2="370"/><line x1="60" y1="390" x2="116" y2="390"/><line x1="60" y1="410" x2="116" y2="410"/><line x1="60" y1="430" x2="116" y2="430"/><line x1="60" y1="450" x2="116" y2="450"/><line x1="60" y1="470" x2="116" y2="470"/><line x1="60" y1="490" x2="116" y2="490"/><line x1="60" y1="510" x2="116" y2="510"/><line x1="60" y1="530" x2="116" y2="530"/><line x1="60" y1="550" x2="116" y2="550"/>
+<line x1="230" y1="400" x2="286" y2="400"/><line x1="230" y1="420" x2="286" y2="420"/><line x1="230" y1="440" x2="286" y2="440"/><line x1="230" y1="460" x2="286" y2="460"/><line x1="230" y1="480" x2="286" y2="480"/><line x1="230" y1="500" x2="286" y2="500"/><line x1="230" y1="520" x2="286" y2="520"/><line x1="230" y1="540" x2="286" y2="540"/><line x1="230" y1="560" x2="286" y2="560"/>
+</g>
+<!-- cuccia in basso -->
+<rect x="140" y="440" width="140" height="120" rx="14" fill="#e7e2d9" stroke="#24201b" stroke-width="4"/>
+<circle cx="210" cy="500" r="32" fill="#fbfaf7" stroke="#24201b" stroke-width="4"/>
+<text x="210" y="618" font-size="13" text-anchor="middle" fill="#6a6359">cuccia 45×45, bocca 25 cm</text>
+<!-- piattaforme -->
+<rect x="190" y="360" width="150" height="20" rx="4" fill="#24201b"/>
+<rect x="20" y="200" width="190" height="20" rx="4" fill="#24201b"/>
+<rect x="30" y="180" width="170" height="20" rx="10" fill="#e7e2d9"/>
+<!-- gatto grande in cima -->
+<g fill="#c2651d" transform="translate(50,134)"><path d="M0 20 L4 0 L14 10 L26 10 L36 0 L40 20 A20 20 0 1 1 0 20 Z"/><rect x="36" y="20" width="100" height="28" rx="14"/><path d="M136 34 q40 -20 30 -50" fill="none" stroke="#c2651d" stroke-width="12" stroke-linecap="round"/></g>
+<!-- quote -->
+<line x1="88" y1="250" x2="88" y2="430" stroke="#6a6359" stroke-width="2"/>
+<text x="46" y="340" font-size="13" fill="#6a6359" transform="rotate(-90 46 340)" text-anchor="middle">sisal libero 80-90 cm</text>
+
+<text x="126" y="250" font-size="14" fill="#c2651d" font-weight="600">Ø 12-15 cm</text>
+<text x="265" y="352" font-size="14" text-anchor="middle" fill="#4e7a66" font-weight="600">piattaforma 45×45</text>
+<line x1="390" y1="180" x2="390" y2="600" stroke="#6a6359" stroke-width="2"/>
+<line x1="380" y1="180" x2="400" y2="180" stroke="#6a6359" stroke-width="2"/>
+<text x="410" y="370" font-size="15" fill="#6a6359" transform="rotate(90 410 370)" text-anchor="middle">170-200 cm</text>
+<text x="180" y="636" font-size="15" text-anchor="middle" fill="#4e7a66" font-weight="600">base 60-100 × 60 cm, spessore 2-3 cm · 30-50 kg</text>
+<text x="180" y="658" font-size="15" text-anchor="middle" fill="#4e7a66" font-weight="600">✓ base ≥ 1/3 dell'altezza</text>
+</g>
+<!-- checklist -->
+<g transform="translate(880,160)" font-size="16" fill="#24201b">
+<text x="0" y="0" font-size="20" font-weight="700">Prima di comprare</text>
+<text x="0" y="40"><tspan fill="#4e7a66" font-weight="700">✓</tspan> Diametro pali dichiarato</text>
+<text x="0" y="70"><tspan fill="#4e7a66" font-weight="700">✓</tspan> Base ≥ 60×60 cm</text>
+<text x="0" y="100"><tspan fill="#4e7a66" font-weight="700">✓</tspan> Peso totale ≥ 30 kg</text>
+<text x="0" y="130"><tspan fill="#4e7a66" font-weight="700">✓</tspan> Cuccia nel terzo basso</text>
+<text x="0" y="160"><tspan fill="#4e7a66" font-weight="700">✓</tspan> Sisal naturale, non plastica</text>
+<text x="0" y="190"><tspan fill="#4e7a66" font-weight="700">✓</tspan> Amache: carico ≥ 10 kg</text>
+<text x="0" y="240" font-size="15" fill="#6a6359">Se la base è al limite:</text>
+<text x="0" y="262" font-size="15" fill="#6a6359">multistrato 80×60 avvitato</text>
+<text x="0" y="284" font-size="15" fill="#6a6359">sotto + squadretta al muro</text>
+<text x="0" y="330" font-size="15" fill="#6a6359">Maine Coon 7-10 kg</text>
+<text x="0" y="352" font-size="15" fill="#6a6359">Norvegese, Ragdoll 6-8 kg</text>
+<text x="0" y="374" font-size="15" fill="#6a6359">Europeo robusto 6-7 kg</text>
+</g>
+<text x="60" y="690" font-size="16" fill="#6a6359">miciodesign.it · Un tiragraffi che oscilla al primo salto non viene più usato. Il gatto ha ragione.</text>
+</svg>
