@@ -1,0 +1,12 @@
+{
+  "_nota": "Ricerche Pixabay per le foto. Il workflow 'Foto Pixabay' scarica i candidati in _src/foto-candidati/<nome>/ quando questo file cambia. Cambia 'giro' per forzare una nuova ricerca.",
+  "giro": 1,
+  "ricerche": {
+    "lettiera": ["cat litter box", "cat bathroom"],
+    "spazio-verticale": ["cat tree indoor", "cat shelf wall"],
+    "balcone-e-finestre": ["cat window", "cat balcony"],
+    "vita-quotidiana": ["cat playing toy", "cat eating bowl"],
+    "convivenze": ["cat houseplant", "cat dog friends"],
+    "arredo-e-pulizia": ["cat sofa living room", "cat sleeping couch"]
+  }
+}
