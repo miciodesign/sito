@@ -1,0 +1,24 @@
+name: Foto Pixabay
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["_src/foto-richieste.json"]
+permissions:
+  contents: write
+jobs:
+  foto:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Scarica i candidati
+        env:
+          PIXABAY_KEY: ${{ secrets.PIXABAY_KEY }}
+        run: python3 _src/tools/pixabay_fetch.py
+      - name: Salva nel repository
+        run: |
+          git config user.name "Micio Design"
+          git config user.email "redazione@miciodesign.it"
+          git add _src/foto-candidati
+          git diff --cached --quiet || git commit -m "Foto candidate da Pixabay"
+          git push
