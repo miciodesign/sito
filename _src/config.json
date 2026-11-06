@@ -14,42 +14,78 @@
       "name": "Lettiera",
       "short": "Tipi, posizione, sabbie, odori",
       "description": "Come scegliere la lettiera, dove metterla in un appartamento, quale sabbia usare e come gestire gli odori. Guide e confronti di prodotti.",
-      "intro": "La lettiera è il mobile più importante della casa di un gatto, e il più sbagliato. Qui trovi come sceglierla, dove metterla quando lo spazio è poco, quale sabbia conviene e come tenere la casa senza odori."
+      "intro": "La lettiera è il mobile più importante della casa di un gatto, e il più sbagliato. Qui trovi come sceglierla, dove metterla quando lo spazio è poco, quale sabbia conviene e come tenere la casa senza odori.",
+      "photo": {
+        "src": "/assets/img/foto/lettiera.jpg",
+        "credit": "Foto: guvo59, Pixabay",
+        "page": "https://pixabay.com/photos/cat-pet-animal-tabby-cat-5657055/",
+        "pos": "70% 40%"
+      }
     },
     {
       "slug": "spazio-verticale",
       "name": "Spazio verticale",
       "short": "Mensole, tiragraffi, percorsi",
       "description": "Mensole a parete, tiragraffi alti, alberi da soffitto e percorsi: come dare al gatto l'altezza che cerca anche in una casa piccola.",
-      "intro": "Un gatto d'appartamento misura la casa in altezza, non in metri quadri. Mensole, tiragraffi stabili e percorsi a parete trasformano un bilocale in un territorio da esplorare."
+      "intro": "Un gatto d'appartamento misura la casa in altezza, non in metri quadri. Mensole, tiragraffi stabili e percorsi a parete trasformano un bilocale in un territorio da esplorare.",
+      "photo": {
+        "src": "/assets/img/foto/spazio-verticale.jpg",
+        "credit": "Foto: guvo59, Pixabay",
+        "page": "https://pixabay.com/photos/cat-domestic-animal-animal-4081971/",
+        "pos": "65% 40%"
+      }
     },
     {
       "slug": "balcone-e-finestre",
       "name": "Balcone e finestre",
       "short": "Reti, vasistas, catio",
       "description": "Reti per balcone anche senza forare, protezioni per le finestre a vasistas, catio e ripari: la sicurezza del gatto fuori dalla porta di casa.",
-      "intro": "Balconi e finestre sono il punto più pericoloso della casa per un gatto. Si mettono in sicurezza con poco, spesso senza forare, e diventano il suo posto preferito."
+      "intro": "Balconi e finestre sono il punto più pericoloso della casa per un gatto. Si mettono in sicurezza con poco, spesso senza forare, e diventano il suo posto preferito.",
+      "photo": {
+        "src": "/assets/img/foto/balcone-e-finestre.jpg",
+        "credit": "Foto: Alexas_Fotos, Pixabay",
+        "page": "https://pixabay.com/photos/cat-cat-net-security-nostalgia-red-4396832/",
+        "pos": "70% 35%"
+      }
     },
     {
       "slug": "vita-quotidiana",
       "name": "Vita quotidiana",
       "short": "Acqua, cibo, gioco, routine",
       "description": "Fontanelle, distributori, giochi intelligenti e routine: tutto quello che rende felice un gatto che vive in casa.",
-      "intro": "Acqua, cibo, gioco e riposo nei posti giusti: la vita quotidiana di un gatto d'appartamento funziona quando la casa è organizzata attorno alle sue abitudini, non alle nostre."
+      "intro": "Acqua, cibo, gioco e riposo nei posti giusti: la vita quotidiana di un gatto d'appartamento funziona quando la casa è organizzata attorno alle sue abitudini, non alle nostre.",
+      "photo": {
+        "src": "/assets/img/foto/vita-quotidiana.jpg",
+        "credit": "Foto: Pezibear, Pixabay",
+        "page": "https://pixabay.com/photos/cat-domestic-animal-domestic-cat-7707625/",
+        "pos": "70% 50%"
+      }
     },
     {
       "slug": "convivenze",
       "name": "Convivenze",
       "short": "Piante, bambini, altri animali",
       "description": "Piante sicure e tossiche, l'arrivo di un neonato, un secondo gatto o un cane: come far convivere tutti nella stessa casa.",
-      "intro": "Piante, bambini, altri gatti e cani: ogni nuovo arrivo cambia gli equilibri della casa. Qui trovi come prepararli e come gestirli senza stress per nessuno."
+      "intro": "Piante, bambini, altri gatti e cani: ogni nuovo arrivo cambia gli equilibri della casa. Qui trovi come prepararli e come gestirli senza stress per nessuno.",
+      "photo": {
+        "src": "/assets/img/foto/convivenze.jpg",
+        "credit": "Foto: pangyuyu, Pixabay",
+        "page": "https://pixabay.com/photos/pot-desktop-flora-leaf-table-cat-3054289/",
+        "pos": "75% 85%"
+      }
     },
     {
       "slug": "arredo-e-pulizia",
       "name": "Arredo e pulizia",
       "short": "Divani, tessuti, peli, odori",
       "description": "Divani e tessuti che resistono, aspirapolvere per peli di gatto, odori di pipì e routine di pulizia: una casa bella anche con un gatto dentro.",
-      "intro": "Una casa con un gatto può essere bella e pulita. Servono i tessuti giusti, due o tre strumenti che funzionano davvero e una routine che non pesa."
+      "intro": "Una casa con un gatto può essere bella e pulita. Servono i tessuti giusti, due o tre strumenti che funzionano davvero e una routine che non pesa.",
+      "photo": {
+        "src": "/assets/img/foto/arredo-e-pulizia.jpg",
+        "credit": "Foto: Natasha-Dmay, Pixabay",
+        "page": "https://pixabay.com/photos/cat-sleep-animal-lazy-relax-sweet-5373244/",
+        "pos": "70% 50%"
+      }
     },
     {
       "slug": "razze",
