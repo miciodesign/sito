@@ -26,6 +26,8 @@ Metrica da seguire nei prossimi 2-3 mesi: impressioni totali (obiettivo 100 → 
 
 | Parola chiave | Intento | Titolo | Tipo | Stato | Link interni |
 | --- | --- | --- | --- | --- | --- |
+| miglior detergente enzimatico urina gatto | comprare | Il miglior detergente enzimatico per urina di gatto: come funziona e quale scegliere | A | coda 1 | pipì divano, odore in casa, materasso |
+| odore urina gatto materasso | risolvere | Pipì di gatto sul materasso: come togliere macchia e odore | P | coda 2 | pipì divano, detergente enzimatico |
 | pulire pipì gatto divano, pulitore tessuti gatti | risolvere subito, poi comprare un enzimatico | Eliminare l'odore di pipì di gatto e pulire divano e tessuti | P | pubblicato 02/11 | pilastro, fuori lettiera, odore in casa, prodotti pericolosi |
 | gatto graffia divano | risolvere un comportamento | Il gatto graffia il divano: cosa fare davvero | P | coda 1 | pilastro, divano antigraffio, tiragraffi alti, gatto non usa tiragraffi |
 | divano antigraffio gatti, tessuto divano gatti | scegliere prima di comprare | Divano antigraffio per gatti: i tessuti che resistono davvero | A | coda 2 | pilastro, graffia divano, peli divano |
@@ -49,7 +51,17 @@ Metrica da seguire nei prossimi 2-3 mesi: impressioni totali (obiettivo 100 → 
 
 Restano nell'ordine della coda in `piano-editoriale.md`. Già coperti: dove mettere la lettiera in un bilocale, percorsi verticali, mensole, rete balcone (con e senza fori), vasistas, piante sicure e tossiche (pilastro e strumento).
 
+## Monitoraggio settimanale (Search Console, ultimi 3 mesi)
+
+| Data | Impressioni | Clic | Query | Pagine con impressioni | Posizione media |
+| --- | --- | --- | --- | --- | --- |
+| 30/10/2026 | 9 | 4 | 3 | 8 | 4,4 |
+| 07/11/2026 | 33 | 5 | 5 | 15 | 12 |
+
+Obiettivo: 33 → 70 → 150 → 300 impressioni. Query reali al 07/11: pulitore tessuti gatti, finestre vasistas gatti, miglior detergente enzimatico urina gatto, pulire pipì gatto divano, miccio design.
+
 ## Revisione
 
 - 02/11/2026: prima versione, gruppo divano e pulizia portato in cima alla coda.
+- 07/11/2026: aggiunti detergente enzimatico (query reale) e materasso in cima alla coda; avviato monitoraggio settimanale.
 - Prossima revisione: metà novembre, con gli screenshot di Search Console (Query e Pagine, ultimi 28 giorni).

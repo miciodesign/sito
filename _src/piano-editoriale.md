@@ -57,6 +57,8 @@ Nuova categoria `razze` da aggiungere in config.json (nome "Razze in appartament
 - [x] 15 A Tiragraffi per gatti grandi: cosa deve avere · spazio-verticale · 2026-11-05
 - [x] 23 P Finestra a vasistas: il pericolo per i gatti e le protezioni · balcone-e-finestre · 2026-11-06
 <!-- Priorità novembre 2026: gruppo divano e pulizia (segnali da Search Console). Vedi _src/piano-seo.md -->
+- [ ] 66 A Il miglior detergente enzimatico per urina di gatto: come funziona e quale scegliere · arredo-e-pulizia · kw: miglior detergente enzimatico urina gatto (query reale Search Console 07/11)
+- [ ] 67 P Pipì di gatto sul materasso: come togliere macchia e odore · arredo-e-pulizia · kw: odore urina gatto materasso
 - [ ] 45 P Il gatto graffia il divano: cosa fare davvero · arredo-e-pulizia · kw: gatto graffia divano
 - [ ] 44 A Divano antigraffio per gatti: i tessuti che resistono davvero (microfibra, tessuti tecnici, pelle) · arredo-e-pulizia · kw: divano antigraffio gatti, tessuto divano gatti
 - [ ] 49 P Come togliere i peli di gatto da divano, vestiti e lenzuola · arredo-e-pulizia · kw: togliere peli gatto divano
