@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" font-family="Outfit, Arial, sans-serif">
+<rect width="1200" height="700" fill="#fbfaf7"/>
+<text x="60" y="70" font-size="34" font-weight="700" fill="#24201b">Pipì di gatto sul materasso: la procedura che funziona</text>
+<text x="60" y="104" font-size="20" fill="#6a6359">Materasso in piedi, enzimatico versato dall'alto, ore di posa sotto la pellicola, asciugatura all'aria</text>
+<!-- parete e pavimento -->
+<rect x="60" y="140" width="14" height="440" fill="#e7e2d9"/>
+<rect x="60" y="580" width="520" height="14" fill="#24201b"/>
+<!-- telo -->
+<rect x="74" y="566" width="420" height="14" rx="4" fill="#e3ebe6"/>
+<!-- materasso inclinato -->
+<g transform="translate(120,150) skewX(-10)">
+<rect x="0" y="0" width="150" height="420" rx="16" fill="#ffffff" stroke="#24201b" stroke-width="6"/>
+<!-- trapuntatura -->
+<g stroke="#e7e2d9" stroke-width="3">
+<line x1="0" y1="70" x2="150" y2="70"/><line x1="0" y1="140" x2="150" y2="140"/><line x1="0" y1="210" x2="150" y2="210"/><line x1="0" y1="280" x2="150" y2="280"/><line x1="0" y1="350" x2="150" y2="350"/>
+</g>
+<!-- macchia -->
+<ellipse cx="75" cy="190" rx="48" ry="40" fill="#f7e8d9" stroke="#c2651d" stroke-width="4"/>
+<g fill="#c2651d"><circle cx="60" cy="180" r="4"/><circle cx="85" cy="200" r="4"/><circle cx="70" cy="215" r="4"/><circle cx="95" cy="178" r="3"/></g>
+<!-- prodotto che scende -->
+<path d="M75 20 L75 150" stroke="#4e7a66" stroke-width="6" stroke-linecap="round"/>
+<path d="M60 150 Q75 240 70 400" stroke="#4e7a66" stroke-width="10" stroke-linecap="round" fill="none" opacity="0.5"/>
+<path d="M90 150 Q95 240 80 400" stroke="#4e7a66" stroke-width="10" stroke-linecap="round" fill="none" opacity="0.5"/>
+</g>
+<!-- flacone -->
+<g transform="translate(250,135)">
+<rect x="0" y="0" width="40" height="56" rx="8" fill="#e3ebe6" stroke="#4e7a66" stroke-width="4" transform="rotate(50 20 28)"/>
+</g>
+<text x="330" y="330" font-size="15" fill="#4e7a66" font-weight="600">versato dall'alto:</text>
+<text x="330" y="352" font-size="15" fill="#4e7a66" font-weight="600">attraversa e scola</text>
+<text x="330" y="400" font-size="15" fill="#c2651d" font-weight="600">300-500 ml per macchia</text>
+<text x="330" y="422" font-size="15" fill="#c2651d" font-weight="600">oltre il bordo visibile</text>
+<!-- sdraiato: sbagliato -->
+<g transform="translate(330,470)">
+<rect x="0" y="40" width="200" height="40" rx="10" fill="#ffffff" stroke="#a53a2a" stroke-width="4"/>
+<path d="M100 22 L100 40" stroke="#a53a2a" stroke-width="4"/>
+<path d="M60 80 Q100 110 140 80" stroke="#a53a2a" stroke-width="5" fill="none" stroke-dasharray="6 5"/>
+<text x="100" y="14" font-size="14" fill="#a53a2a" text-anchor="middle" font-weight="600">✕ sdraiato: tutto scende al centro</text>
+</g>
+<!-- passi -->
+<g transform="translate(640,150)">
+<text x="0" y="0" font-size="20" font-weight="700" fill="#24201b">Passo per passo</text>
+<g font-size="16" fill="#24201b">
+<g transform="translate(0,26)"><circle cx="14" cy="10" r="14" fill="#4e7a66"/><text x="14" y="15" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="700">1</text><text x="40" y="15">Biancheria in lavatrice con additivo enzimatico</text></g>
+<g transform="translate(0,66)"><circle cx="14" cy="10" r="14" fill="#4e7a66"/><text x="14" y="15" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="700">2</text><text x="40" y="15">Assorbi premendo: niente acqua calda, niente vapore</text></g>
+<g transform="translate(0,106)"><circle cx="14" cy="10" r="14" fill="#4e7a66"/><text x="14" y="15" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="700">3</text><text x="40" y="15">Materasso in piedi contro la parete, su un telo</text></g>
+<g transform="translate(0,146)"><circle cx="14" cy="10" r="14" fill="#4e7a66"/><text x="14" y="15" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="700">4</text><text x="40" y="15">Torcia UV al buio: trova le altre macchie</text></g>
+<g transform="translate(0,186)"><circle cx="14" cy="10" r="14" fill="#4e7a66"/><text x="14" y="15" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="700">5</text><text x="40" y="15">Versa l'enzimatico, abbondante, dal bordo alto</text></g>
+<g transform="translate(0,226)"><circle cx="14" cy="10" r="14" fill="#4e7a66"/><text x="14" y="15" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="700">6</text><text x="40" y="15">Pellicola sopra: 1 h se fresca, 8-24 h se vecchia</text></g>
+<g transform="translate(0,266)"><circle cx="14" cy="10" r="14" fill="#4e7a66"/><text x="14" y="15" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="700">7</text><text x="40" y="15">Assorbi, poi aria e ventilatore per 24-48 h</text></g>
+<g transform="translate(0,306)"><circle cx="14" cy="10" r="14" fill="#4e7a66"/><text x="14" y="15" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="700">8</text><text x="40" y="15">Controllo con naso e UV: ripeti se serve</text></g>
+</g>
+<rect x="0" y="350" width="500" height="90" rx="12" fill="#f8e3df"/>
+<text x="20" y="382" font-size="17" font-weight="700" fill="#a53a2a">✕ Mai</text>
+<text x="20" y="408" font-size="15" fill="#a53a2a">candeggina · ammoniaca · phon e vapore prima · profumatori</text>
+<text x="20" y="430" font-size="15" fill="#a53a2a">strofinare · dormirci sopra prima che sia asciutto</text>
+</g>
+<!-- coprimaterasso -->
+<g transform="translate(640,610)">
+<rect x="0" y="-8" width="500" height="4" fill="#4e7a66"/>
+<text x="0" y="16" font-size="14" fill="#4e7a66" font-weight="600">Dopo: coprimaterasso impermeabile e traspirante, e la causa dal veterinario.</text>
+</g>
+<!-- gatto -->
+<g fill="#c2651d" transform="translate(520,160)"><path d="M0 20 L4 0 L14 10 L26 10 L36 0 L40 20 A20 20 0 1 1 0 20 Z"/></g>
+<text x="60" y="672" font-size="16" fill="#6a6359">miciodesign.it · Un gatto che fa pipì sul letto e prima non lo faceva: prima il veterinario.</text>
+</svg>

@@ -25,7 +25,7 @@ Il divano è il campo di battaglia principale, per due motivi: è dove il gatto 
 
 Se il divano c'è già ed è del tipo sbagliato, le soluzioni in ordine di efficacia: un **tiragraffi alto e stabile** a meno di un metro dal punto graffiato (la cosa che conta di più; vedi la guida allo [spazio verticale](/spazio-verticale/)); un **copridivano** in microfibra o in tessuto trapuntato, che si lava in lavatrice; **protezioni trasparenti** autoadesive sugli angoli e sui braccioli, brutte ma efficaci nei primi mesi; **nastro biadesivo** sui punti critici, che i gatti detestano sotto le zampe. Gli spray repellenti funzionano poco e per poco. [Copridivani per gatti in microfibra](https://www.amazon.it/s?k=copridivano+antigraffio+gatti) · [Protezioni angoli divano](https://www.amazon.it/s?k=protezione+divano+graffi+gatto+trasparente).
 
-Una cosa che non va fatta: punire il gatto che graffia il divano. Graffia per segnare il territorio e per stirare i muscoli, e lo farà comunque; l'unica cosa che si può decidere è dove.
+Una cosa che non va fatta: punire il gatto che graffia il divano. Graffia per segnare il territorio e per stirare i muscoli, e lo farà comunque; l'unica cosa che si può decidere è dove. Il metodo passo per passo è nell'articolo [il gatto graffia il divano: cosa fare davvero](/arredo-e-pulizia/gatto-graffia-divano-cosa-fare/), e il confronto completo fra i tessuti, con i prezzi, in [divano antigraffio per gatti](/arredo-e-pulizia/divano-antigraffio-gatti-tessuti-resistenti/).
 
 ## Il resto dell'arredo: cosa scegliere quando si compra
 
@@ -40,7 +40,7 @@ Una cosa che non va fatta: punire il gatto che graffia il divano. Graffia per se
 
 ## Peli: gli strumenti che funzionano
 
-I peli non si eliminano, si gestiscono. Tre livelli.
+I peli non si eliminano, si gestiscono. Tre livelli (la procedura dettagliata per divano, vestiti e lenzuola è in [come togliere i peli di gatto](/arredo-e-pulizia/togliere-peli-gatto-divano-vestiti-lenzuola/)).
 
 **Alla fonte.** Spazzolare il gatto due o tre volte a settimana (ogni giorno nei cambi di stagione, primavera e autunno) toglie i peli prima che finiscano sul divano. Per i gatti a pelo corto va bene un guanto in silicone o una spazzola in gomma; per i semilunghi e i lunghi un pettine a denti fini più un cardatore morbido. Gli strumenti "deshedding" con lama tolgono moltissimo pelo ma vanno usati con delicatezza e non ogni giorno. [Spazzole per gatti](https://www.amazon.it/s?k=spazzola+gatti+pelo+corto+guanto) · [Pettini e cardatori per pelo lungo](https://www.amazon.it/s?k=cardatore+gatti+pelo+lungo).
 
@@ -54,7 +54,7 @@ In una casa con gatti pulita non c'è odore. Se c'è, viene da una di tre fonti 
 
 **La lettiera.** È la fonte più frequente e si risolve con pulizia due volte al giorno, cambio completo ogni 3-4 settimane e vaschetta sostituita ogni anno. Tutto nella [guida alla lettiera](/lettiera/).
 
-**La pipì fuori posto.** L'urina di gatto contiene acido urico, che i detergenti normali non scompongono: l'odore sparisce per un giorno e torna con l'umidità, e per il gatto il punto resta marcato. L'unica cosa che funziona è un **detergente enzimatico**, che digerisce le molecole. Procedura: assorbire il più possibile con carta (senza strofinare), bagnare abbondantemente con l'enzimatico, lasciare agire il tempo indicato (spesso ore, a volte una notte, coprendo con un panno umido), far asciugare all'aria. Su materasso e divano l'enzimatico deve arrivare in profondità quanto è arrivata l'urina. Niente candeggina né ammoniaca, che ricordano l'urina e invitano a rifare. Una torcia UV da pochi euro mostra le macchie vecchie che non si vedono. [Detergenti enzimatici per urina di gatto](https://www.amazon.it/s?k=detergente+enzimatico+urina+gatto) · [Torcia UV per macchie](https://www.amazon.it/s?k=torcia+uv+macchie+urina+animali).
+**La pipì fuori posto.** L'urina di gatto contiene acido urico, che i detergenti normali non scompongono: l'odore sparisce per un giorno e torna con l'umidità, e per il gatto il punto resta marcato. L'unica cosa che funziona è un **detergente enzimatico**, che digerisce le molecole. Procedura: assorbire il più possibile con carta (senza strofinare), bagnare abbondantemente con l'enzimatico, lasciare agire il tempo indicato (spesso ore, a volte una notte, coprendo con un panno umido), far asciugare all'aria. Su materasso e divano l'enzimatico deve arrivare in profondità quanto è arrivata l'urina ([quale detergente enzimatico scegliere](/arredo-e-pulizia/miglior-detergente-enzimatico-urina-gatto/) e [la procedura per il materasso](/arredo-e-pulizia/pipi-gatto-materasso-togliere-macchia-odore/)). Niente candeggina né ammoniaca, che ricordano l'urina e invitano a rifare. Una torcia UV da pochi euro mostra le macchie vecchie che non si vedono. [Detergenti enzimatici per urina di gatto](https://www.amazon.it/s?k=detergente+enzimatico+urina+gatto) · [Torcia UV per macchie](https://www.amazon.it/s?k=torcia+uv+macchie+urina+animali).
 
 Se la pipì fuori posto si ripete, non è un problema di pulizia: le cause sono nella guida alla lettiera, e la prima cosa da escludere con il veterinario è una cistite.
 

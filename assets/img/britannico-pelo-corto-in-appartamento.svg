@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" font-family="Outfit, Arial, sans-serif">
+<rect width="1200" height="700" fill="#fbfaf7"/>
+<text x="60" y="70" font-size="34" font-weight="700" fill="#24201b">Britannico a pelo corto in appartamento</text>
+<text x="60" y="104" font-size="20" fill="#6a6359">Il gatto da divano che ha bisogno di muoversi: tranquillo, silenzioso, e con una facilità a ingrassare da tenere d'occhio</text>
+<!-- divano -->
+<g transform="translate(80,330)">
+<rect x="0" y="120" width="440" height="130" rx="16" fill="#e7e2d9"/>
+<rect x="28" y="50" width="384" height="100" rx="14" fill="#efeae2" stroke="#24201b" stroke-width="5"/>
+<rect x="0" y="110" width="60" height="140" rx="12" fill="#efeae2" stroke="#24201b" stroke-width="5"/>
+<rect x="380" y="110" width="60" height="140" rx="12" fill="#efeae2" stroke="#24201b" stroke-width="5"/>
+<rect x="60" y="140" width="160" height="100" rx="10" fill="#efeae2" stroke="#24201b" stroke-width="5"/>
+<rect x="220" y="140" width="160" height="100" rx="10" fill="#efeae2" stroke="#24201b" stroke-width="5"/>
+<rect x="20" y="250" width="400" height="14" fill="#24201b"/>
+</g>
+<!-- gatto britannico: rotondo, blu-grigio, sdraiato sul divano -->
+<g transform="translate(150,290)">
+<g fill="#8a93a3">
+<!-- corpo a pagnotta -->
+<path d="M20 200 C 0 150, 30 110, 90 104 L 170 104 C 240 104, 280 140, 272 200 Z"/>
+<!-- testa rotonda -->
+<circle cx="236" cy="120" r="54"/>
+<!-- orecchie piccole -->
+<path d="M196 86 L188 48 L220 72 Z"/><path d="M276 86 L284 48 L252 72 Z"/>
+<!-- coda corta e spessa -->
+<path d="M30 190 C -10 180, -16 150, 10 140" fill="none" stroke="#8a93a3" stroke-width="22" stroke-linecap="round"/>
+</g>
+<!-- guance -->
+<circle cx="214" cy="134" r="18" fill="#9aa3b3"/><circle cx="258" cy="134" r="18" fill="#9aa3b3"/>
+<!-- occhi rame -->
+<circle cx="218" cy="112" r="9" fill="#c2651d"/><circle cx="254" cy="112" r="9" fill="#c2651d"/>
+<!-- naso -->
+<path d="M230 130 L242 130 L236 138 Z" fill="#5a4636"/>
+</g>
+<text x="300" y="635" font-size="15" fill="#c2651d" font-weight="600" text-anchor="middle">5-8 kg · salta poco · due sessioni di gioco al giorno, proposte da te · pesalo ogni mese</text>
+<!-- mensole a gradini -->
+<g transform="translate(600,150)">
+<text x="0" y="0" font-size="16" fill="#6a6359" font-weight="500">Percorso a gradini, piattaforme larghe</text>
+<g fill="#24201b">
+<rect x="0" y="330" width="120" height="12" rx="4"/>
+<rect x="110" y="270" width="120" height="12" rx="4"/>
+<rect x="30" y="210" width="120" height="12" rx="4"/>
+<rect x="140" y="150" width="130" height="12" rx="4"/>
+</g>
+<!-- cuccia in cima -->
+<rect x="160" y="118" width="90" height="32" rx="12" fill="#f7e8d9" stroke="#c2651d" stroke-width="4"/>
+<g stroke="#4e7a66" stroke-width="3">
+<line x1="60" y1="330" x2="60" y2="284"/><line x1="54" y1="330" x2="66" y2="330"/><line x1="54" y1="284" x2="66" y2="284"/>
+</g>
+<text x="70" y="312" font-size="13" fill="#4e7a66" font-weight="600">30-40 cm</text>
+<text x="0" y="370" font-size="13" fill="#6a6359">larghe 35 cm, fissate per 10 kg</text>
+<!-- puzzle alimentare -->
+<g transform="translate(0,400)">
+<rect x="0" y="0" width="120" height="50" rx="10" fill="#ffffff" stroke="#24201b" stroke-width="4"/>
+<circle cx="25" cy="25" r="8" fill="#e7e2d9"/><circle cx="60" cy="25" r="8" fill="#e7e2d9"/><circle cx="95" cy="25" r="8" fill="#e7e2d9"/>
+<circle cx="60" cy="25" r="4" fill="#c2651d"/><circle cx="95" cy="25" r="4" fill="#c2651d"/>
+<text x="0" y="-10" font-size="13" fill="#c2651d" font-weight="600">puzzle al posto della ciotola</text>
+</g>
+</g>
+<!-- scheda -->
+<g transform="translate(880,150)" font-size="16" fill="#24201b">
+<rect x="0" y="0" width="290" height="440" rx="16" fill="#ffffff" stroke="#e7e2d9" stroke-width="4"/>
+<text x="20" y="36" font-size="20" font-weight="700">La casa per lui</text>
+<text x="20" y="76"><tspan fill="#4e7a66" font-weight="700">Carattere</tspan>  posato, accanto a te,</text><text x="20" y="98">non addosso; miagola poco</text>
+<text x="20" y="136"><tspan fill="#4e7a66" font-weight="700">Altezza</tspan>  la usa a gradini bassi,</text><text x="20" y="158">piattaforme larghe e robuste</text>
+<text x="20" y="196"><tspan fill="#4e7a66" font-weight="700">Gioco</tspan>  non lo chiede: 2 × 10 min</text><text x="20" y="218">con prede a terra, puzzle</text>
+<text x="20" y="256"><tspan fill="#4e7a66" font-weight="700">Lettiera</tspan>  55-60 cm, ingresso</text><text x="20" y="278">basso, più una seconda</text>
+<text x="20" y="316"><tspan fill="#4e7a66" font-weight="700">Pelo</tspan>  fitto "a peluche": più di</text><text x="20" y="338">quanto si creda nelle mute</text>
+<text x="20" y="376"><tspan fill="#4e7a66" font-weight="700">Solo in casa</tspan>  lo regge bene,</text><text x="20" y="398">purché al ritorno si giochi</text>
+<rect x="20" y="412" width="250" height="2" fill="#e7e2d9"/>
+<text x="20" y="432" fill="#c2651d" font-weight="600">Monolocale: sì, fra i più adatti</text>
+</g>
+<text x="60" y="672" font-size="16" fill="#6a6359">miciodesign.it · Facile non vuol dire da lasciare sul cuscino: il gioco va proposto, ogni giorno.</text>
+</svg>

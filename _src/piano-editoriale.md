@@ -26,8 +26,8 @@ Nuova categoria `razze` da aggiungere in config.json (nome "Razze in appartament
 
 - [x] R1 Maine Coon in appartamento: spazio, mensole e gioco per un gigante · razze · 2026-11-07
 - [x] R2 Il gatto europeo (soriano) in casa: il più adattabile di tutti · razze · 2026-11-08
-- [ ] R3 Siamese in appartamento: compagnia, voce e noia
-- [ ] R4 Britannico a pelo corto: il gatto da divano che ha bisogno di muoversi
+- [x] R3 Siamese in appartamento: compagnia, voce e noia · razze · 2026-11-14
+- [x] R4 Britannico a pelo corto: il gatto da divano che ha bisogno di muoversi · razze · 2026-11-15
 - [ ] R5 Persiano in casa: pelo, spazi bassi e routine
 - [ ] R6 Ragdoll in appartamento: il gatto da interno per definizione
 - [ ] R7 Bengala in casa: energia, altezza e arricchimento
@@ -57,11 +57,11 @@ Nuova categoria `razze` da aggiungere in config.json (nome "Razze in appartament
 - [x] 15 A Tiragraffi per gatti grandi: cosa deve avere · spazio-verticale · 2026-11-05
 - [x] 23 P Finestra a vasistas: il pericolo per i gatti e le protezioni · balcone-e-finestre · 2026-11-06
 <!-- Priorità novembre 2026: gruppo divano e pulizia (segnali da Search Console). Vedi _src/piano-seo.md -->
-- [ ] 66 A Il miglior detergente enzimatico per urina di gatto: come funziona e quale scegliere · arredo-e-pulizia · kw: miglior detergente enzimatico urina gatto (query reale Search Console 07/11)
-- [ ] 67 P Pipì di gatto sul materasso: come togliere macchia e odore · arredo-e-pulizia · kw: odore urina gatto materasso
-- [ ] 45 P Il gatto graffia il divano: cosa fare davvero · arredo-e-pulizia · kw: gatto graffia divano
-- [ ] 44 A Divano antigraffio per gatti: i tessuti che resistono davvero (microfibra, tessuti tecnici, pelle) · arredo-e-pulizia · kw: divano antigraffio gatti, tessuto divano gatti
-- [ ] 49 P Come togliere i peli di gatto da divano, vestiti e lenzuola · arredo-e-pulizia · kw: togliere peli gatto divano
+- [x] 66 A Il miglior detergente enzimatico per urina di gatto: come funziona e quale scegliere · arredo-e-pulizia · kw: miglior detergente enzimatico urina gatto (query reale Search Console 07/11) · 2026-11-09
+- [x] 67 P Pipì di gatto sul materasso: come togliere macchia e odore · arredo-e-pulizia · kw: odore urina gatto materasso · 2026-11-10
+- [x] 45 P Il gatto graffia il divano: cosa fare davvero · arredo-e-pulizia · kw: gatto graffia divano · 2026-11-11
+- [x] 44 A Divano antigraffio per gatti: i tessuti che resistono davvero (microfibra, tessuti tecnici, pelle) · arredo-e-pulizia · kw: divano antigraffio gatti, tessuto divano gatti · 2026-11-12
+- [x] 49 P Come togliere i peli di gatto da divano, vestiti e lenzuola · arredo-e-pulizia · kw: togliere peli gatto divano · 2026-11-13
 - [ ] 61 P Odore di gatto in casa: da dove viene e come eliminarlo · arredo-e-pulizia · kw: eliminare odore gatto casa
 - [ ] 62 I Prodotti per la pulizia pericolosi per i gatti: candeggina, ammoniaca, fenoli, oli essenziali · arredo-e-pulizia · kw: candeggina gatti, detersivi sicuri gatti
 - [ ] 47 A I migliori aspirapolvere per peli di gatto · arredo-e-pulizia · kw: aspirapolvere peli gatto

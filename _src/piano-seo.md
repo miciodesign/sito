@@ -26,12 +26,12 @@ Metrica da seguire nei prossimi 2-3 mesi: impressioni totali (obiettivo 100 → 
 
 | Parola chiave | Intento | Titolo | Tipo | Stato | Link interni |
 | --- | --- | --- | --- | --- | --- |
-| miglior detergente enzimatico urina gatto | comprare | Il miglior detergente enzimatico per urina di gatto: come funziona e quale scegliere | A | coda 1 | pipì divano, odore in casa, materasso |
-| odore urina gatto materasso | risolvere | Pipì di gatto sul materasso: come togliere macchia e odore | P | coda 2 | pipì divano, detergente enzimatico |
+| miglior detergente enzimatico urina gatto | comprare | Il miglior detergente enzimatico per urina di gatto: come funziona e quale scegliere | A | pubblicato 09/11 | pipì divano, odore in casa, materasso |
+| odore urina gatto materasso | risolvere | Pipì di gatto sul materasso: come togliere macchia e odore | P | pubblicato 10/11 | pipì divano, detergente enzimatico |
 | pulire pipì gatto divano, pulitore tessuti gatti | risolvere subito, poi comprare un enzimatico | Eliminare l'odore di pipì di gatto e pulire divano e tessuti | P | pubblicato 02/11 | pilastro, fuori lettiera, odore in casa, prodotti pericolosi |
-| gatto graffia divano | risolvere un comportamento | Il gatto graffia il divano: cosa fare davvero | P | coda 1 | pilastro, divano antigraffio, tiragraffi alti, gatto non usa tiragraffi |
-| divano antigraffio gatti, tessuto divano gatti | scegliere prima di comprare | Divano antigraffio per gatti: i tessuti che resistono davvero | A | coda 2 | pilastro, graffia divano, peli divano |
-| togliere peli gatto divano / vestiti | risolvere, comprare spazzole e rulli | Come togliere i peli di gatto da divano, vestiti e lenzuola | P | coda 3 | pilastro, aspirapolvere, tappeti |
+| gatto graffia divano | risolvere un comportamento | Il gatto graffia il divano: cosa fare davvero | P | pubblicato 11/11 | pilastro, divano antigraffio, tiragraffi alti, gatto non usa tiragraffi |
+| divano antigraffio gatti, tessuto divano gatti | scegliere prima di comprare | Divano antigraffio per gatti: i tessuti che resistono davvero | A | pubblicato 12/11 | pilastro, graffia divano, peli divano |
+| togliere peli gatto divano / vestiti | risolvere, comprare spazzole e rulli | Come togliere i peli di gatto da divano, vestiti e lenzuola | P | pubblicato 13/11 | pilastro, aspirapolvere, tappeti |
 | eliminare odore gatto casa, puzza di gatto in casa | risolvere | Odore di gatto in casa: da dove viene e come eliminarlo | P | coda 4 | pilastro, pipì divano, sabbia, lettiere chiuse |
 | candeggina gatti, detersivi sicuri gatti | informarsi, evitare un rischio | Prodotti per la pulizia pericolosi per i gatti | I | coda 5 | pilastro, pipì divano, piante tossiche (strumento) |
 | aspirapolvere peli gatto | comprare | I migliori aspirapolvere per peli di gatto | A | coda 6 | peli divano, robot, pilastro |
@@ -64,4 +64,5 @@ Obiettivo: 33 → 70 → 150 → 300 impressioni. Query reali al 07/11: pulitore
 
 - 02/11/2026: prima versione, gruppo divano e pulizia portato in cima alla coda.
 - 07/11/2026: aggiunti detergente enzimatico (query reale) e materasso in cima alla coda; avviato monitoraggio settimanale.
+- 09/11/2026: pubblicati i primi cinque del gruppo divano e pulizia (detergente enzimatico, materasso, graffia il divano, divano antigraffio, peli) con link incrociati dal pilastro e dall'articolo sulla pipì sul divano.
 - Prossima revisione: metà novembre, con gli screenshot di Search Console (Query e Pagine, ultimi 28 giorni).

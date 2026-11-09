@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" font-family="Outfit, Arial, sans-serif">
+<rect width="1200" height="700" fill="#fbfaf7"/>
+<text x="60" y="70" font-size="34" font-weight="700" fill="#24201b">Divano antigraffio per gatti: i tessuti che resistono</text>
+<text x="60" y="104" font-size="20" fill="#6a6359">L'unghia fa danni dove trova un filo da agganciare: vince la trama fitta, perde tutto ciò che "tira"</text>
+<defs>
+<pattern id="micro" width="6" height="6" patternUnits="userSpaceOnUse"><rect width="6" height="6" fill="#dfe6e2"/><circle cx="3" cy="3" r="1" fill="#4e7a66" opacity="0.4"/></pattern>
+<pattern id="fitto" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="8" fill="#e3ebe6"/><path d="M0 4 H8 M4 0 V8" stroke="#4e7a66" stroke-width="1.2" opacity="0.5"/></pattern>
+<pattern id="velluto" width="10" height="10" patternUnits="userSpaceOnUse"><rect width="10" height="10" fill="#e6e0ea"/><path d="M0 10 L10 0" stroke="#8a7a94" stroke-width="1" opacity="0.5"/></pattern>
+<pattern id="pelle" width="40" height="40" patternUnits="userSpaceOnUse"><rect width="40" height="40" fill="#d9b48f"/><path d="M5 10 q10 -6 20 2 M15 30 q12 -8 20 0" stroke="#b58a5e" stroke-width="1" fill="none" opacity="0.6"/></pattern>
+<pattern id="lino" width="18" height="18" patternUnits="userSpaceOnUse"><rect width="18" height="18" fill="#f1ebdf"/><path d="M0 9 H18 M9 0 V18" stroke="#b9ab93" stroke-width="3"/></pattern>
+<pattern id="boucle" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="#efe9df"/><circle cx="5" cy="5" r="4" fill="none" stroke="#a89880" stroke-width="2.5"/><circle cx="15" cy="15" r="4" fill="none" stroke="#a89880" stroke-width="2.5"/></pattern>
+<pattern id="eco" width="30" height="30" patternUnits="userSpaceOnUse"><rect width="30" height="30" fill="#8d8f93"/><path d="M0 15 H30" stroke="#6f7175" stroke-width="1" opacity="0.5"/></pattern>
+<pattern id="cover" width="40" height="40" patternUnits="userSpaceOnUse"><rect width="40" height="40" fill="#e0e4dc"/><path d="M0 20 L20 0 L40 20 L20 40 Z" fill="none" stroke="#9aa693" stroke-width="1.5"/></pattern>
+</defs>
+<!-- griglia campioni -->
+<g transform="translate(60,140)">
+<!-- riga 1: sì -->
+<g transform="translate(0,0)">
+<rect x="0" y="0" width="240" height="150" rx="12" fill="url(#micro)" stroke="#4e7a66" stroke-width="5"/>
+<rect x="0" y="110" width="240" height="40" rx="0" fill="#ffffff" opacity="0.9"/>
+<text x="14" y="136" font-size="17" font-weight="700" fill="#24201b">Microfibra</text><text x="226" y="136" font-size="14" fill="#4e7a66" font-weight="600" text-anchor="end">✓ la scelta</text>
+</g>
+<g transform="translate(270,0)">
+<rect x="0" y="0" width="240" height="150" rx="12" fill="url(#fitto)" stroke="#4e7a66" stroke-width="5"/>
+<rect x="0" y="110" width="240" height="40" fill="#ffffff" opacity="0.9"/>
+<text x="14" y="136" font-size="17" font-weight="700" fill="#24201b">Aquaclean / tecnici</text><text x="226" y="136" font-size="14" fill="#4e7a66" font-weight="600" text-anchor="end">✓ ottimo</text>
+</g>
+<g transform="translate(540,0)">
+<rect x="0" y="0" width="240" height="150" rx="12" fill="url(#velluto)" stroke="#4e7a66" stroke-width="5"/>
+<rect x="0" y="110" width="240" height="40" fill="#ffffff" opacity="0.9"/>
+<text x="14" y="136" font-size="17" font-weight="700" fill="#24201b">Velluto tecnico</text><text x="226" y="136" font-size="14" fill="#4e7a66" font-weight="600" text-anchor="end">✓ se poliestere</text>
+</g>
+<g transform="translate(810,0)">
+<rect x="0" y="0" width="240" height="150" rx="12" fill="url(#pelle)" stroke="#c2651d" stroke-width="5"/>
+<rect x="0" y="110" width="240" height="40" fill="#ffffff" opacity="0.9"/>
+<text x="14" y="136" font-size="17" font-weight="700" fill="#24201b">Pelle pieno fiore</text><text x="226" y="136" font-size="14" fill="#c2651d" font-weight="600" text-anchor="end">dipende</text>
+</g>
+<!-- riga 2 -->
+<g transform="translate(0,180)">
+<rect x="0" y="0" width="240" height="150" rx="12" fill="url(#cover)" stroke="#4e7a66" stroke-width="5"/>
+<rect x="0" y="110" width="240" height="40" fill="#ffffff" opacity="0.9"/>
+<text x="14" y="136" font-size="17" font-weight="700" fill="#24201b">Copridivano</text><text x="226" y="136" font-size="14" fill="#4e7a66" font-weight="600" text-anchor="end">✓ microfibra, 15-60 €</text>
+</g>
+<g transform="translate(270,180)">
+<rect x="0" y="0" width="240" height="150" rx="12" fill="url(#eco)" stroke="#a53a2a" stroke-width="5"/>
+<path d="M60 40 L80 75 M100 30 L95 70" stroke="#24201b" stroke-width="3"/><path d="M60 40 Q75 60 95 70 L80 75 Z" fill="#c9cbcf"/>
+<rect x="0" y="110" width="240" height="40" fill="#ffffff" opacity="0.9"/>
+<text x="14" y="136" font-size="17" font-weight="700" fill="#24201b">Ecopelle</text><text x="226" y="136" font-size="14" fill="#a53a2a" font-weight="600" text-anchor="end">✕ si fora e si sfoglia</text>
+</g>
+<g transform="translate(540,180)">
+<rect x="0" y="0" width="240" height="150" rx="12" fill="url(#lino)" stroke="#a53a2a" stroke-width="5"/>
+<path d="M80 50 q30 -30 60 0" stroke="#b9ab93" stroke-width="3" fill="none"/>
+<rect x="0" y="110" width="240" height="40" fill="#ffffff" opacity="0.9"/>
+<text x="14" y="136" font-size="17" font-weight="700" fill="#24201b">Lino, cotone largo</text><text x="226" y="136" font-size="14" fill="#a53a2a" font-weight="600" text-anchor="end">✕ fili tirati</text>
+</g>
+<g transform="translate(810,180)">
+<rect x="0" y="0" width="240" height="150" rx="12" fill="url(#boucle)" stroke="#a53a2a" stroke-width="5"/>
+<rect x="0" y="110" width="240" height="40" fill="#ffffff" opacity="0.9"/>
+<text x="14" y="136" font-size="17" font-weight="700" fill="#24201b">Bouclé, ciniglia</text><text x="226" y="136" font-size="14" fill="#a53a2a" font-weight="600" text-anchor="end">✕ li adora</text>
+</g>
+</g>
+<!-- regole in basso -->
+<g transform="translate(60,500)">
+<rect x="0" y="0" width="1050" height="120" rx="14" fill="#e3ebe6"/>
+<text x="24" y="34" font-size="18" font-weight="700" fill="#24201b">Cosa guardare sul campione</text>
+<g font-size="16" fill="#24201b">
+<text x="24" y="66"><tspan fill="#4e7a66" font-weight="700">Composizione</tspan>  poliestere, microfibre</text>
+<text x="330" y="66"><tspan fill="#4e7a66" font-weight="700">Martindale</tspan>  &gt; 50.000, meglio &gt; 100.000</text>
+<text x="700" y="66"><tspan fill="#4e7a66" font-weight="700">Sfoderabile</tspan>  lavabile a 30-40°</text>
+<text x="24" y="98"><tspan fill="#c2651d" font-weight="700">La prova</tspan>  unghia del pollice forte in diagonale: se solleva un filo, no.  <tspan fill="#6a6359">Prezzi indicativi al 9 novembre 2026.</tspan></text>
+</g>
+</g>
+<!-- gatto -->
+<g fill="#c2651d" transform="translate(1120,60)"><path d="M0 20 L4 0 L14 10 L26 10 L36 0 L40 20 A20 20 0 1 1 0 20 Z"/></g>
+<text x="60" y="672" font-size="16" fill="#6a6359">miciodesign.it · Il tessuto è metà della soluzione; l'altra metà è un tiragraffi a meno di un metro.</text>
+</svg>

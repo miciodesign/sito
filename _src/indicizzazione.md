@@ -23,5 +23,12 @@ Registro delle pagine inviate a mano con "Richiedi indicizzazione". Limite prati
 11. https://miciodesign.it/razze/maine-coon-in-appartamento/
 12. https://miciodesign.it/razze/gatto-europeo-soriano-in-casa/
 13. https://miciodesign.it/razze/
+14. https://miciodesign.it/arredo-e-pulizia/miglior-detergente-enzimatico-urina-gatto/
+15. https://miciodesign.it/arredo-e-pulizia/pipi-gatto-materasso-togliere-macchia-odore/
+16. https://miciodesign.it/arredo-e-pulizia/gatto-graffia-divano-cosa-fare/
+17. https://miciodesign.it/arredo-e-pulizia/divano-antigraffio-gatti-tessuti-resistenti/
+18. https://miciodesign.it/arredo-e-pulizia/togliere-peli-gatto-divano-vestiti-lenzuola/
+19. https://miciodesign.it/razze/siamese-in-appartamento/
+20. https://miciodesign.it/razze/britannico-pelo-corto-in-appartamento/
 
 Dopo ogni lunedì aggiungere qui gli articoli nuovi.

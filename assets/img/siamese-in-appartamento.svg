@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" font-family="Outfit, Arial, sans-serif">
+<rect width="1200" height="700" fill="#fbfaf7"/>
+<text x="60" y="70" font-size="34" font-weight="700" fill="#24201b">Siamese in appartamento</text>
+<text x="60" y="104" font-size="20" fill="#6a6359">Il gatto più sociale e più vocale che esista: compagnia, percorsi in alto e gioco tutti i giorni</text>
+<!-- parete con percorso di mensole -->
+<g stroke="#24201b" stroke-width="6" fill="#24201b">
+<rect x="80" y="520" width="140" height="12" rx="4"/>
+<rect x="260" y="440" width="140" height="12" rx="4"/>
+<rect x="440" y="360" width="140" height="12" rx="4"/>
+<rect x="620" y="280" width="160" height="12" rx="4"/>
+</g>
+<g stroke="#e7e2d9" stroke-width="3" stroke-dasharray="6 6" fill="none">
+<path d="M150 520 Q200 460 330 440"/><path d="M330 440 Q380 380 510 360"/><path d="M510 360 Q560 300 700 280"/>
+</g>
+<text x="160" y="560" font-size="13" fill="#6a6359" text-anchor="middle">mensole 25-30 cm, a 40-50 cm l'una dall'altra</text>
+<!-- finestra -->
+<rect x="400" y="140" width="170" height="150" rx="6" fill="#eef4fb" stroke="#24201b" stroke-width="5"/>
+<line x1="485" y1="140" x2="485" y2="290" stroke="#24201b" stroke-width="5"/>
+<text x="485" y="316" font-size="13" fill="#6a6359" text-anchor="middle">finestra: guarda e "parla" agli uccelli</text>
+<!-- gatto siamese seduto sulla mensola alta: snello, colourpoint -->
+<g transform="translate(628,164) scale(0.5,0.6)">
+<!-- corpo chiaro -->
+<g fill="#e8d9c4">
+<path d="M60 190 C 20 190, 14 130, 40 85 C 56 55, 80 44, 102 44 L 94 0 L 124 34 L 158 34 L 190 0 L 182 48 C 214 60, 226 100, 214 136 C 240 160, 238 190, 206 190 Z"/>
+<rect x="84" y="140" width="26" height="52" rx="12"/>
+<rect x="124" y="144" width="26" height="48" rx="12"/>
+</g>
+<!-- coda lunga scura -->
+<path d="M206 190 C 280 196, 300 140, 250 120" fill="none" stroke="#5a4636" stroke-width="18" stroke-linecap="round"/>
+<!-- maschera, orecchie, zampe scure -->
+<g fill="#5a4636">
+<path d="M94 0 L124 34 L108 40 Z"/><path d="M190 0 L158 34 L176 40 Z"/>
+<ellipse cx="142" cy="76" rx="36" ry="28"/>
+<rect x="84" y="170" width="26" height="22" rx="10"/><rect x="124" y="172" width="26" height="20" rx="10"/>
+</g>
+<!-- occhi azzurri -->
+<circle cx="128" cy="72" r="7" fill="#7fa7d6"/><circle cx="156" cy="72" r="7" fill="#7fa7d6"/>
+<!-- miagolio -->
+<g stroke="#c2651d" stroke-width="3" fill="none" stroke-linecap="round">
+<path d="M196 60 q10 -8 20 0"/><path d="M204 44 q14 -10 28 0"/><path d="M212 28 q18 -12 36 0"/>
+</g>
+</g>
+<text x="420" y="615" font-size="15" fill="#c2651d" font-weight="600" text-anchor="middle">3-5 kg · salta altissimo · 2-3 sessioni di gioco al giorno · non va lasciato solo tutto il giorno</text>
+<!-- scheda -->
+<g transform="translate(860,150)" font-size="16" fill="#24201b">
+<rect x="0" y="0" width="300" height="440" rx="16" fill="#ffffff" stroke="#e7e2d9" stroke-width="4"/>
+<text x="20" y="36" font-size="20" font-weight="700">La casa per lui</text>
+<text x="20" y="76"><tspan fill="#4e7a66" font-weight="700">Carattere</tspan>  estroverso, ti segue,</text><text x="20" y="98">commenta tutto ad alta voce</text>
+<text x="20" y="136"><tspan fill="#4e7a66" font-weight="700">Altezza</tspan>  misure standard, ma</text><text x="20" y="158">un percorso intero, non un punto</text>
+<text x="20" y="196"><tspan fill="#4e7a66" font-weight="700">Gioco</tspan>  2-3 × 10-15 min, riporto,</text><text x="20" y="218">puzzle alimentari, tunnel</text>
+<text x="20" y="256"><tspan fill="#4e7a66" font-weight="700">Compagnia</tspan>  il punto decisivo:</text><text x="20" y="278">solo tutto il giorno soffre e lo dice</text>
+<text x="20" y="316"><tspan fill="#4e7a66" font-weight="700">Pelo</tspan>  cortissimo, quasi niente</text><text x="20" y="338">sul divano: un guanto a settimana</text>
+<text x="20" y="376"><tspan fill="#4e7a66" font-weight="700">Sicurezza</tspan>  rete al balcone e</text><text x="20" y="398">vasistas protetti, obbligatori</text>
+<rect x="20" y="412" width="260" height="2" fill="#e7e2d9"/>
+<text x="20" y="432" fill="#c2651d" font-weight="600">Monolocale: sì, se non resta solo</text>
+</g>
+<text x="60" y="672" font-size="16" fill="#6a6359">miciodesign.it · Un Siamese silenzioso è raro; uno che miagola di notte di solito è solo e annoiato.</text>
+</svg>

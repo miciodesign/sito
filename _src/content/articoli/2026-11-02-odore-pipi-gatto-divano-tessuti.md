@@ -29,11 +29,11 @@ I detergenti enzimatici contengono enzimi (proteasi, ureasi, lipasi) e, in molti
 6. **Ripeti se serve.** Sulle macchie vecchie di solito servono due o tre trattamenti. La prova finale è a divano asciutto, con il naso vicino al tessuto e, se ce l'hai, con la lampada UV.
 7. **Lava le fodere in lavatrice** con un additivo enzimatico nel cestello, a 30-40 gradi, senza ammorbidente (copre gli odori ma non li toglie). Un ciclo di risciacquo in più non guasta.
 
-Sul materasso la sequenza è la stessa, con una differenza: va trattato in piedi, appoggiato a una parete, per non far scendere l'urina ancora più dentro. Sui tappeti è importante trattare anche il retro e il pavimento sotto, perché l'urina passa.
+Sul materasso la sequenza è la stessa, con una differenza: va trattato in piedi, appoggiato a una parete, per non far scendere l'urina ancora più dentro (la procedura completa è nell'articolo [pipì di gatto sul materasso](/arredo-e-pulizia/pipi-gatto-materasso-togliere-macchia-odore/)). Sui tappeti è importante trattare anche il retro e il pavimento sotto, perché l'urina passa.
 
 ## I detergenti enzimatici a confronto
 
-Prezzi indicativi rilevati il 2 novembre 2026 su Amazon.it e nei negozi online per animali. Quasi tutti esistono in formato spray pronto all'uso e in formato concentrato da diluire: il concentrato costa meno al litro ed è quello giusto se il problema è ricorrente.
+Prezzi indicativi rilevati il 2 novembre 2026 su Amazon.it e nei negozi online per animali. Quasi tutti esistono in formato spray pronto all'uso e in formato concentrato da diluire: il concentrato costa meno al litro ed è quello giusto se il problema è ricorrente. Per capire come scegliere fra i due formati e come lavorano gli enzimi c'è l'articolo sul [miglior detergente enzimatico per urina di gatto](/arredo-e-pulizia/miglior-detergente-enzimatico-urina-gatto/).
 
 | Prodotto | Formato e prezzo indicativo | Punti forti | Attenzione a |
 | --- | --- | --- | --- |

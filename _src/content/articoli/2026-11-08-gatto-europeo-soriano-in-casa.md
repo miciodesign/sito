@@ -27,7 +27,7 @@ Il minimo che funziona in un bilocale è un tiragraffi alto e stabile accanto al
 
 È un cacciatore, e in casa la caccia si chiama gioco. Due sessioni al giorno da 10 minuti con la bacchetta, con una preda che si muove come una preda (si nasconde, si ferma, scappa, non vola sempre in aria), gli bastano. Senza gioco, un europeo giovane si inventa la caccia alle caviglie alle cinque del mattino. I giochi da solo che funzionano: palline leggere, topi di stoffa, scatole di cartone, un puzzle alimentare semplice, e una finestra con vista su qualcosa che si muove.
 
-Quanto alla compagnia, l'europeo regge la solitudine meglio di molte razze da compagnia (Siamese, Ragdoll, Sphynx), ma non è un gatto da lasciare solo tutto il giorno tutti i giorni per anni. Se la casa resta vuota a lungo, un secondo gatto europeo, meglio se della stessa età o un cucciolo quando l'altro è giovane, è la soluzione classica, e in genere funziona. Le regole di cibo, acqua e routine sono nella guida [il gatto d'appartamento felice](/vita-quotidiana/gatto-appartamento-felice-routine/).
+Quanto alla compagnia, l'europeo regge la solitudine meglio di molte razze da compagnia ([Siamese](/razze/siamese-in-appartamento/), Ragdoll, Sphynx) e un po' meno di un [Britannico a pelo corto](/razze/britannico-pelo-corto-in-appartamento/), ma non è un gatto da lasciare solo tutto il giorno tutti i giorni per anni. Se la casa resta vuota a lungo, un secondo gatto europeo, meglio se della stessa età o un cucciolo quando l'altro è giovane, è la soluzione classica, e in genere funziona. Le regole di cibo, acqua e routine sono nella guida [il gatto d'appartamento felice](/vita-quotidiana/gatto-appartamento-felice-routine/).
 
 ## Pelo e pulizia
 
