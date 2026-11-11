@@ -62,6 +62,8 @@ Nuova categoria `razze` da aggiungere in config.json (nome "Razze in appartament
 - [x] 45 P Il gatto graffia il divano: cosa fare davvero · arredo-e-pulizia · kw: gatto graffia divano · 2026-11-11
 - [x] 44 A Divano antigraffio per gatti: i tessuti che resistono davvero (microfibra, tessuti tecnici, pelle) · arredo-e-pulizia · kw: divano antigraffio gatti, tessuto divano gatti · 2026-11-12
 - [x] 49 P Come togliere i peli di gatto da divano, vestiti e lenzuola · arredo-e-pulizia · kw: togliere peli gatto divano · 2026-11-13
+- [ ] 25 A Zanzariere a prova di gatto: quali resistono alle unghie e come montarle · balcone-e-finestre · kw: zanzariera per gatti
+- [ ] 68 A Protezioni per finestre a vasistas per gatti: i modelli in vendita e come sceglierli · balcone-e-finestre · kw: protezione vasistas gatti (query reale 'finestre vasistas gatti', 6 impressioni al 11/11)
 - [ ] 61 P Odore di gatto in casa: da dove viene e come eliminarlo · arredo-e-pulizia · kw: eliminare odore gatto casa
 - [ ] 62 I Prodotti per la pulizia pericolosi per i gatti: candeggina, ammoniaca, fenoli, oli essenziali · arredo-e-pulizia · kw: candeggina gatti, detersivi sicuri gatti
 - [ ] 47 A I migliori aspirapolvere per peli di gatto · arredo-e-pulizia · kw: aspirapolvere peli gatto
@@ -77,7 +79,6 @@ Nuova categoria `razze` da aggiungere in config.json (nome "Razze in appartament
 - [ ] 24 P Come costruire un catio sul balcone · balcone-e-finestre
 - [ ] 28 P Il gatto beve poco: 8 modi per farlo bere di più · vita-quotidiana
 - [ ] 37 I Piante tossiche per gatti: l'elenco completo · convivenze
-- [ ] 25 A Zanzariere a prova di gatto · balcone-e-finestre
 - [ ] 32 P Gatto annoiato in casa: 15 idee che funzionano · vita-quotidiana
 - [ ] 38 I Piante sicure per gatti: 25 specie da tenere in casa · convivenze
 - [ ] 19 P Percorsi per gatti in una casa in affitto, senza forare · spazio-verticale
