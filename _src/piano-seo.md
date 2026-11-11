@@ -53,10 +53,11 @@ Restano nell'ordine della coda in `piano-editoriale.md`. Già coperti: dove mett
 
 ## Monitoraggio settimanale (Search Console, ultimi 3 mesi)
 
-| Data | Impressioni | Clic | Query | Pagine con impressioni | Posizione media |
-| --- | --- | --- | --- | --- | --- |
+| Data | Impressioni | Clic | Query | Pagine con impressioni | Posizione media | Note |
+| --- | --- | --- | --- | --- | --- | --- |
 | 30/10/2026 | 9 | 4 | 3 | 8 | 4,4 |
 | 07/11/2026 | 33 | 5 | 5 | 15 | 12 |
+| 11/11/2026 | ~110 (somma per pagina) | 5 | n.d. | 15 | n.d. | Più impressioni: guida lettiera 21, balcone 20, percorsi verticali 13, pipì divano 12 |
 
 Obiettivo: 33 → 70 → 150 → 300 impressioni. Query reali al 07/11: pulitore tessuti gatti, finestre vasistas gatti, miglior detergente enzimatico urina gatto, pulire pipì gatto divano, miccio design.
 
