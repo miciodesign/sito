@@ -30,5 +30,12 @@ Registro delle pagine inviate a mano con "Richiedi indicizzazione". Limite prati
 18. https://miciodesign.it/arredo-e-pulizia/togliere-peli-gatto-divano-vestiti-lenzuola/
 19. https://miciodesign.it/razze/siamese-in-appartamento/
 20. https://miciodesign.it/razze/britannico-pelo-corto-in-appartamento/
+21. https://miciodesign.it/balcone-e-finestre/zanzariera-per-gatti-antigraffio-quali-resistono/
+22. https://miciodesign.it/balcone-e-finestre/protezione-vasistas-gatti-modelli-come-scegliere/
+23. https://miciodesign.it/arredo-e-pulizia/eliminare-odore-gatto-casa-cause-rimedi/
+24. https://miciodesign.it/arredo-e-pulizia/prodotti-pulizia-pericolosi-gatti-candeggina-ammoniaca-oli-essenziali/
+25. https://miciodesign.it/arredo-e-pulizia/aspirapolvere-peli-gatto-migliori/
+26. https://miciodesign.it/razze/persiano-in-casa/
+27. https://miciodesign.it/razze/ragdoll-in-appartamento/
 
 Dopo ogni lunedì aggiungere qui gli articoli nuovi.

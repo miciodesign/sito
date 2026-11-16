@@ -28,8 +28,8 @@ Nuova categoria `razze` da aggiungere in config.json (nome "Razze in appartament
 - [x] R2 Il gatto europeo (soriano) in casa: il più adattabile di tutti · razze · 2026-11-08
 - [x] R3 Siamese in appartamento: compagnia, voce e noia · razze · 2026-11-14
 - [x] R4 Britannico a pelo corto: il gatto da divano che ha bisogno di muoversi · razze · 2026-11-15
-- [ ] R5 Persiano in casa: pelo, spazi bassi e routine
-- [ ] R6 Ragdoll in appartamento: il gatto da interno per definizione
+- [x] R5 Persiano in casa: pelo, spazi bassi e routine · razze · 2026-11-21
+- [x] R6 Ragdoll in appartamento: il gatto da interno per definizione · razze · 2026-11-22
 - [ ] R7 Bengala in casa: energia, altezza e arricchimento
 - [ ] R8 Sacro di Birmania in appartamento
 - [ ] R9 Norvegese delle foreste: un arrampicatore in casa
@@ -62,11 +62,11 @@ Nuova categoria `razze` da aggiungere in config.json (nome "Razze in appartament
 - [x] 45 P Il gatto graffia il divano: cosa fare davvero · arredo-e-pulizia · kw: gatto graffia divano · 2026-11-11
 - [x] 44 A Divano antigraffio per gatti: i tessuti che resistono davvero (microfibra, tessuti tecnici, pelle) · arredo-e-pulizia · kw: divano antigraffio gatti, tessuto divano gatti · 2026-11-12
 - [x] 49 P Come togliere i peli di gatto da divano, vestiti e lenzuola · arredo-e-pulizia · kw: togliere peli gatto divano · 2026-11-13
-- [ ] 25 A Zanzariere a prova di gatto: quali resistono alle unghie e come montarle · balcone-e-finestre · kw: zanzariera per gatti
-- [ ] 68 A Protezioni per finestre a vasistas per gatti: i modelli in vendita e come sceglierli · balcone-e-finestre · kw: protezione vasistas gatti (query reale 'finestre vasistas gatti', 6 impressioni al 11/11)
-- [ ] 61 P Odore di gatto in casa: da dove viene e come eliminarlo · arredo-e-pulizia · kw: eliminare odore gatto casa
-- [ ] 62 I Prodotti per la pulizia pericolosi per i gatti: candeggina, ammoniaca, fenoli, oli essenziali · arredo-e-pulizia · kw: candeggina gatti, detersivi sicuri gatti
-- [ ] 47 A I migliori aspirapolvere per peli di gatto · arredo-e-pulizia · kw: aspirapolvere peli gatto
+- [x] 25 A Zanzariere a prova di gatto: quali resistono alle unghie e come montarle · balcone-e-finestre · kw: zanzariera per gatti · 2026-11-16
+- [x] 68 A Protezioni per finestre a vasistas per gatti: i modelli in vendita e come sceglierli · balcone-e-finestre · kw: protezione vasistas gatti (query reale 'finestre vasistas gatti', 6 impressioni al 11/11) · 2026-11-17
+- [x] 61 P Odore di gatto in casa: da dove viene e come eliminarlo · arredo-e-pulizia · kw: eliminare odore gatto casa · 2026-11-18
+- [x] 62 I Prodotti per la pulizia pericolosi per i gatti: candeggina, ammoniaca, fenoli, oli essenziali · arredo-e-pulizia · kw: candeggina gatti, detersivi sicuri gatti · 2026-11-19
+- [x] 47 A I migliori aspirapolvere per peli di gatto · arredo-e-pulizia · kw: aspirapolvere peli gatto · 2026-11-20
 - [ ] 63 P Pulire i tappeti con un gatto: peli, vomito e pipì · arredo-e-pulizia · kw: pulire tappeto pipì gatto
 - [ ] 64 P Arredare una casa piccola con un gatto: 12 idee salvaspazio · arredo-e-pulizia · kw: arredare casa piccola con gatto
 - [ ] 65 I Casa a misura di gatto senza rinunciare al design · arredo-e-pulizia · kw: casa a misura di gatto, arredamento cat friendly

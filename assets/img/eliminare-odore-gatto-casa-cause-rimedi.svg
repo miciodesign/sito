@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" font-family="Outfit, Arial, sans-serif">
+<rect width="1200" height="700" fill="#fbfaf7"/>
+<text x="60" y="70" font-size="34" font-weight="700" fill="#24201b">Odore di gatto in casa: le cinque origini</text>
+<text x="60" y="104" font-size="20" fill="#6a6359">Si cerca con la lampada UV, si tratta la causa, non si copre con i profumi</text>
+<!-- pianta della casa -->
+<g stroke="#24201b" stroke-width="6" fill="#ffffff">
+<rect x="80" y="150" width="760" height="440"/>
+<line x1="480" y1="150" x2="480" y2="590"/>
+<line x1="480" y1="380" x2="840" y2="380"/>
+</g>
+<g font-size="17" fill="#6a6359" font-weight="500">
+<text x="100" y="180">SOGGIORNO E CUCINA</text><text x="500" y="180">CAMERA</text><text x="500" y="410">BAGNO</text>
+</g>
+<!-- 4 cucina e ciotole -->
+<rect x="330" y="170" width="130" height="50" rx="6" fill="#e7e2d9"/><text x="345" y="201" font-size="15" fill="#6a6359">cucina</text>
+<circle cx="380" cy="252" r="12" fill="none" stroke="#4e7a66" stroke-width="4"/><circle cx="412" cy="252" r="12" fill="none" stroke="#4e7a66" stroke-width="4"/>
+<circle cx="340" cy="252" r="18" fill="#c2651d"/><text x="340" y="259" font-size="19" fill="#fbfaf7" font-weight="700" text-anchor="middle">4</text>
+<text x="466" y="292" font-size="14" fill="#24201b" font-weight="600" text-anchor="end">umido lasciato per ore, ciotole di plastica</text>
+<!-- 2 pipì nascosta dietro il divano -->
+<rect x="100" y="360" width="200" height="90" rx="14" fill="#e7e2d9"/><text x="170" y="413" font-size="16" fill="#6a6359">divano</text>
+<ellipse cx="124" cy="352" rx="26" ry="14" fill="#f3e9a6" stroke="#c2651d" stroke-width="3"/>
+<circle cx="110" cy="326" r="18" fill="#c2651d"/><text x="110" y="333" font-size="19" fill="#fbfaf7" font-weight="700" text-anchor="middle">2</text>
+<text x="138" y="331" font-size="14" fill="#24201b" font-weight="600">pipì vecchia dietro il divano</text>
+<!-- torcia UV in basso a sinistra -->
+<g transform="translate(110,535)"><rect x="0" y="0" width="60" height="18" rx="6" fill="#24201b"/><path d="M60 0 L96 -16 L96 34 L60 18Z" fill="#b89ad6" opacity="0.6"/></g>
+<text x="110" y="522" font-size="13" fill="#6a6359">lampada UV, a luci spente</text>
+<!-- 3 marcatura alla porta -->
+<g stroke="#24201b" stroke-width="6" fill="none"><path d="M480 300 a60 60 0 0 1 -60 60"/></g>
+<rect x="476" y="300" width="8" height="60" fill="#fbfaf7"/>
+<g fill="#c2651d"><circle cx="458" cy="376" r="3"/><circle cx="465" cy="386" r="3"/><circle cx="452" cy="390" r="3"/></g>
+<circle cx="440" cy="412" r="18" fill="#c2651d"/><text x="440" y="419" font-size="19" fill="#fbfaf7" font-weight="700" text-anchor="middle">3</text>
+<text x="466" y="470" font-size="14" fill="#24201b" font-weight="600" text-anchor="end">marcatura a 20-30 cm da terra</text>
+<!-- 5 coperta sul letto -->
+<rect x="520" y="200" width="200" height="150" rx="10" fill="#e7e2d9"/><text x="600" y="282" font-size="16" fill="#6a6359" text-anchor="middle">letto</text>
+<rect x="640" y="210" width="70" height="50" rx="8" fill="#f7e8d9" stroke="#c2651d" stroke-width="3"/>
+<circle cx="740" cy="210" r="18" fill="#c2651d"/><text x="740" y="217" font-size="19" fill="#fbfaf7" font-weight="700" text-anchor="middle">5</text>
+<text x="665" y="370" font-size="14" fill="#24201b" font-weight="600" text-anchor="middle">coperta e cuccia mai lavate, pelo sotto i mobili</text>
+<!-- 1 lettiera in bagno -->
+<rect x="720" y="440" width="100" height="70" rx="10" fill="#f7e8d9" stroke="#c2651d" stroke-width="5"/>
+<circle cx="720" cy="440" r="18" fill="#c2651d"/><text x="720" y="447" font-size="19" fill="#fbfaf7" font-weight="700" text-anchor="middle">1</text>
+<text x="500" y="560" font-size="14" fill="#24201b" font-weight="600">lettiera: fondo e vaschetta impregnati, bagno cieco</text>
+<!-- gatto -->
+<g fill="#c2651d" transform="translate(560,480)"><path d="M0 20 L4 0 L14 10 L26 10 L36 0 L40 20 A20 20 0 1 1 0 20 Z"/></g>
+<!-- scheda destra -->
+<g transform="translate(880,150)" font-size="15" fill="#24201b">
+<rect x="0" y="0" width="260" height="440" rx="16" fill="#ffffff" stroke="#e7e2d9" stroke-width="4"/>
+<text x="20" y="36" font-size="20" font-weight="700">Cosa funziona</text>
+<text x="20" y="72" fill="#4e7a66" font-weight="700">✓ detergente enzimatico</text><text x="20" y="92">sull'urina, in profondità</text>
+<text x="20" y="124" fill="#4e7a66" font-weight="700">✓ vaschetta nuova ogni anno</text><text x="20" y="144">e sabbia agglomerante</text>
+<text x="20" y="176" fill="#4e7a66" font-weight="700">✓ due lettiere, aria</text><text x="20" y="196">niente chiuse in bagni ciechi</text>
+<text x="20" y="228" fill="#4e7a66" font-weight="700">✓ lavatrice ogni 2 settimane</text><text x="20" y="248">coperte, cucce, tovagliette</text>
+<rect x="20" y="270" width="220" height="2" fill="#e7e2d9"/>
+<text x="20" y="300" font-size="20" font-weight="700">Copre soltanto</text>
+<text x="20" y="334" fill="#a53a2a" font-weight="700">✕ profumatori, candele</text>
+<text x="20" y="362" fill="#a53a2a" font-weight="700">✕ sabbie profumate</text>
+<text x="20" y="390" fill="#a53a2a" font-weight="700">✕ oli essenziali (tossici)</text>
+<text x="20" y="418" fill="#a53a2a" font-weight="700">✕ candeggina e ammoniaca</text>
+</g>
+<text x="60" y="672" font-size="16" fill="#6a6359">miciodesign.it · Il gatto non puzza. Puzza l'acido urico che nessuno ha trovato.</text>
+</svg>

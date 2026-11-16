@@ -21,7 +21,7 @@ Un gatto incastrato può non fare rumore. La compressione dell'addome e delle za
 
 ## Le protezioni, dalla più efficace
 
-Esistono quattro soluzioni, e la differenza non è il prezzo (tutte costano meno di 40 euro a finestra) ma quanto bene si adattano alla finestra che hai.
+Esistono quattro soluzioni, e la differenza non è il prezzo (tutte costano meno di 40 euro a finestra) ma quanto bene si adattano alla finestra che hai. I singoli modelli in vendita, con misure e prezzi, sono nell'articolo [protezione per finestre a vasistas: i modelli e come sceglierli](/balcone-e-finestre/protezione-vasistas-gatti-modelli-come-scegliere/).
 
 **Griglia laterale per vasistas (la soluzione standard).** Un pannello di metallo verniciato o di plastica rigida, a forma di triangolo o di trapezio, che chiude lo spazio laterale fra anta e telaio quando la finestra è aperta. Se ne mettono due, una per lato, più un elemento per la fessura in alto nelle versioni complete. Il modello più diffuso è la griglia protettiva Trixie: tre pezzi (due laterali e uno superiore), si fissa con viti al telaio o con un adesivo biadesivo e nastri a strappo nelle versioni senza fori. Funziona su quasi tutte le finestre in PVC e in alluminio, è la protezione più collaudata e si vede poco. Limiti: con finestre dal telaio molto sottile o con le ante a filo (senza il battente sporgente) i pezzi non trovano appoggio.
 
@@ -87,6 +87,6 @@ Liberalo subito aprendo l'anta completamente (sganciando il compasso se serve) e
 
 ### La zanzariera basta?
 
-No. Le zanzariere a rullo e a pannello standard si sfondano con la zampa o si spostano con il muso. Esistono zanzariere rinforzate "a prova di gatto", ma sono di fatto le reti con telaio di cui parliamo qui.
+No. Le zanzariere a rullo e a pannello standard si sfondano con la zampa o si spostano con il muso. Esistono zanzariere rinforzate "a prova di gatto" ([quali reggono davvero](/balcone-e-finestre/zanzariera-per-gatti-antigraffio-quali-resistono/)), ma per il cuneo del vasistas servono comunque le griglie o le reti con telaio di cui parliamo qui.
 
 </div>

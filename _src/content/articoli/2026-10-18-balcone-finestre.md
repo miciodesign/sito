@@ -48,14 +48,14 @@ Tre tipi:
 - **Kit completo a tre lati** con rete sopra (30-60 €): chiude tutto, è la scelta sicura per le finestre basse del soggiorno e della camera.
 - **Zanzariera per vasistas in rete rinforzata** che si applica al telaio esterno: protegge e tiene fuori gli insetti insieme.
 
-[Protezioni per finestre a vasistas](https://www.amazon.it/s?k=protezione+vasistas+gatti). Una regola semplice: ogni vasistas che resta aperta quando il gatto è solo in casa deve avere la protezione. Le altre si possono tenere chiuse.
+[Protezioni per finestre a vasistas](https://www.amazon.it/s?k=protezione+vasistas+gatti) · [i modelli a confronto, con misure e prezzi](/balcone-e-finestre/protezione-vasistas-gatti-modelli-come-scegliere/). Una regola semplice: ogni vasistas che resta aperta quando il gatto è solo in casa deve avere la protezione. Le altre si possono tenere chiuse.
 
 ## Finestre ad anta e zanzariere
 
 Una finestra aperta ad anta è una porta sul vuoto. Le opzioni:
 
 - **Rete da finestra fissa o a telaio** sul lato esterno dell'anta, con maglia da 3 cm e telaio in alluminio: la finestra si apre e la rete resta. È la soluzione per le finestre che vuoi tenere aperte a lungo.
-- **Zanzariera "pet-proof"**: le zanzariere normali in fibra di vetro si strappano al primo colpo di zampa. Esistono reti in poliestere rivestito, spesse il doppio, che reggono il gatto che si appoggia e le unghie. Non reggono un gatto che ci si butta contro inseguendo un uccello: su finestre alte, la rete fissa è più sicura. [Zanzariere rinforzate per animali](https://www.amazon.it/s?k=zanzariera+rinforzata+gatti).
+- **Zanzariera "pet-proof"**: le zanzariere normali in fibra di vetro si strappano al primo colpo di zampa. Esistono reti in poliestere rivestito, spesse il doppio, che reggono il gatto che si appoggia e le unghie. Non reggono un gatto che ci si butta contro inseguendo un uccello: su finestre alte, la rete fissa è più sicura. [Zanzariere rinforzate per animali](https://www.amazon.it/s?k=zanzariera+rinforzata+gatti) · [quali zanzariere resistono ai gatti e come montarle](/balcone-e-finestre/zanzariera-per-gatti-antigraffio-quali-resistono/).
 - **Blocchi di apertura** che limitano l'anta a una fessura di 5-6 cm: arieggiano, non fanno passare il gatto, costano pochi euro.
 
 Il davanzale interno può diventare un posto bellissimo se è protetto: un'amaca da finestra a ventose (reggono 10-15 kg se il vetro è pulito e le ventose sono inumidite) o una mensola sotto il davanzale, come spiegato nella guida allo [spazio verticale](/spazio-verticale/).

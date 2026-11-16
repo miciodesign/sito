@@ -38,7 +38,7 @@ Due sessioni di gioco attivo al giorno, 10-15 minuti ciascuna, con lui che corre
 
 ## Pelo e pulizia
 
-Il pelo è semilungo, con un sottopelo più fitto in inverno e una criniera attorno al collo. Non è il pelo del Persiano: si infeltrisce meno, ma si infeltrisce, soprattutto sotto le ascelle, dietro le orecchie, sulla pancia e sui "pantaloni" delle zampe posteriori. Spazzolatura due o tre volte a settimana con un pettine a denti larghi e una spazzola slicker morbida, tutti i giorni nelle due mute di primavera e autunno. Dieci minuti, e il gatto in genere lo tollera volentieri perché è stato abituato da cucciolo.
+Il pelo è semilungo, con un sottopelo più fitto in inverno e una criniera attorno al collo. Non è il pelo del [Persiano](/razze/persiano-in-casa/): si infeltrisce meno, ma si infeltrisce, soprattutto sotto le ascelle, dietro le orecchie, sulla pancia e sui "pantaloni" delle zampe posteriori. Spazzolatura due o tre volte a settimana con un pettine a denti larghi e una spazzola slicker morbida, tutti i giorni nelle due mute di primavera e autunno. Dieci minuti, e il gatto in genere lo tollera volentieri perché è stato abituato da cucciolo.
 
 In casa questo significa pelo, tanto: ciuffi che rotolano sul pavimento, pelo sul divano, pelo nei vestiti. Un aspirapolvere con spazzola motorizzata per i tessuti e un rullo adesivo accanto alla porta sono la dotazione minima; la routine completa è nella guida [arredare e pulire una casa con gatti](/arredo-e-pulizia/arredare-pulire-casa-con-gatti/). I boli di pelo sono più frequenti che in un gatto a pelo corto: spazzolare serve anche a quello.
 

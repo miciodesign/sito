@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" font-family="Outfit, Arial, sans-serif">
+<rect width="1200" height="700" fill="#fbfaf7"/>
+<text x="60" y="70" font-size="34" font-weight="700" fill="#24201b">Persiano in casa</text>
+<text x="60" y="104" font-size="20" fill="#6a6359">Il gatto più tranquillo e meno arrampicatore: spazi bassi, davanzale e dieci minuti di spazzola al giorno</text>
+<!-- finestra con davanzale basso -->
+<rect x="140" y="150" width="300" height="230" rx="6" fill="#eef4fb" stroke="#24201b" stroke-width="5"/>
+<line x1="290" y1="150" x2="290" y2="380" stroke="#24201b" stroke-width="5"/>
+<rect x="110" y="380" width="360" height="22" rx="4" fill="#24201b"/>
+<!-- cuscino sul davanzale -->
+<rect x="150" y="360" width="280" height="26" rx="12" fill="#e7e2d9"/>
+<!-- persiano: tondo, pelo lungo, muso piatto -->
+<g transform="translate(180,230)">
+<!-- pelo esterno (profilo irregolare) -->
+<path d="M30 140 C -10 130, -6 70, 30 48 C 40 20, 70 8, 110 10 L 104 -10 L 126 6 L 150 4 L 174 -12 L 170 10 C 200 12, 226 34, 230 62 C 262 80, 256 136, 220 142 Z" fill="#e8d9c4" stroke="#d6c3a5" stroke-width="3"/>
+<!-- ciuffi di pelo -->
+<g stroke="#d6c3a5" stroke-width="3" fill="none" stroke-linecap="round"><path d="M10 100 q-10 6 -6 16"/><path d="M28 132 q-8 6 -2 14"/><path d="M236 110 q10 6 6 16"/><path d="M60 24 q-6 -8 2 -14"/></g>
+<!-- testa rotonda e muso piatto -->
+<circle cx="140" cy="60" r="46" fill="#e8d9c4" stroke="#d6c3a5" stroke-width="3"/>
+<circle cx="122" cy="52" r="8" fill="#c2651d"/><circle cx="158" cy="52" r="8" fill="#c2651d"/>
+<ellipse cx="140" cy="70" rx="7" ry="4" fill="#6a6359"/>
+<path d="M126 82 q14 10 28 0" fill="none" stroke="#6a6359" stroke-width="3" stroke-linecap="round"/>
+<!-- coda a pennacchio -->
+<path d="M222 130 C 270 130, 290 90, 262 70" fill="none" stroke="#e8d9c4" stroke-width="30" stroke-linecap="round"/>
+</g>
+<!-- pettine -->
+<g transform="translate(500,330)">
+<rect x="0" y="0" width="90" height="16" rx="6" fill="#24201b"/>
+<g stroke="#24201b" stroke-width="3"><path d="M8 16V40M20 16V40M32 16V40M44 16V40M56 16V40M68 16V40M80 16V40"/></g>
+<text x="45" y="64" font-size="14" fill="#6a6359" text-anchor="middle">pettine di metallo,</text>
+<text x="45" y="82" font-size="14" fill="#6a6359" text-anchor="middle">10 min al giorno</text>
+</g>
+<!-- mensola bassa a gradini -->
+<g fill="#24201b"><rect x="620" y="420" width="140" height="12" rx="4"/><rect x="700" y="360" width="140" height="12" rx="4"/></g>
+<text x="620" y="455" font-size="13" fill="#6a6359">mensole larghe 30-35 cm, a gradini di 30-35 cm</text>
+<!-- quota altezza -->
+<g stroke="#c2651d" stroke-width="3" fill="none"><path d="M590 420 V560"/><path d="M584 420 H596 M584 560 H596"/></g>
+<text x="578" y="495" font-size="14" fill="#c2651d" font-weight="600" text-anchor="end">60-80 cm</text>
+<line x1="80" y1="560" x2="840" y2="560" stroke="#e7e2d9" stroke-width="4"/>
+<text x="460" y="600" font-size="15" fill="#c2651d" font-weight="600" text-anchor="middle">3,5-5,5 kg · non salta · gioca a terra, piano · routine fissa · sopporta bene la giornata da solo</text>
+<!-- scheda -->
+<g transform="translate(880,150)" font-size="16" fill="#24201b">
+<rect x="0" y="0" width="280" height="440" rx="16" fill="#ffffff" stroke="#e7e2d9" stroke-width="4"/>
+<text x="20" y="36" font-size="20" font-weight="700">La casa per lui</text>
+<text x="20" y="76"><tspan fill="#4e7a66" font-weight="700">Carattere</tspan>  placido, silenzioso,</text><text x="20" y="98">legato alla routine</text>
+<text x="20" y="136"><tspan fill="#4e7a66" font-weight="700">Altezza</tspan>  poca: davanzale,</text><text x="20" y="158">divano, mensole larghe e basse</text>
+<text x="20" y="196"><tspan fill="#4e7a66" font-weight="700">Gioco</tspan>  2 × 5-10 min a terra,</text><text x="20" y="218">prede lente, puzzle semplici</text>
+<text x="20" y="256"><tspan fill="#4e7a66" font-weight="700">Compagnia</tspan>  presenza sì,</text><text x="20" y="278">interazione continua no</text>
+<text x="20" y="316"><tspan fill="#4e7a66" font-weight="700">Pelo</tspan>  il punto decisivo:</text><text x="20" y="338">spazzola ogni giorno, sempre</text>
+<text x="20" y="376"><tspan fill="#4e7a66" font-weight="700">Lettiera</tspan>  grande, senza sportello,</text><text x="20" y="398">sabbia che non si attacca</text>
+<rect x="20" y="412" width="240" height="2" fill="#e7e2d9"/>
+<text x="20" y="432" fill="#c2651d" font-weight="600">Monolocale: sì, forse il più adatto</text>
+</g>
+<text x="60" y="672" font-size="16" fill="#6a6359">miciodesign.it · Meno altezza, più comodità a terra. E il pettine sempre nello stesso posto.</text>
+</svg>

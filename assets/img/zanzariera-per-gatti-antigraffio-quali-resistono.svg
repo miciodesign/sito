@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" font-family="Outfit, Arial, sans-serif">
+<rect width="1200" height="700" fill="#fbfaf7"/>
+<text x="60" y="70" font-size="34" font-weight="700" fill="#24201b">Zanzariera per gatti: cosa regge e cosa no</text>
+<text x="60" y="104" font-size="20" fill="#6a6359">Rete pet screen bloccata su quattro lati, telaio avvitato o a strappo: tre cose che fanno la differenza</text>
+<!-- finestra sinistra: rete standard, strappata -->
+<g transform="translate(80,150)">
+<rect x="0" y="0" width="420" height="380" rx="8" fill="#ffffff" stroke="#24201b" stroke-width="6"/>
+<rect x="30" y="30" width="360" height="320" fill="#eef4fb" stroke="#e7e2d9" stroke-width="3"/>
+<!-- maglia fine -->
+<g stroke="#b9b2a7" stroke-width="1">
+<path d="M30 60H390M30 90H390M30 120H390M30 150H390M30 180H390M30 210H390M30 240H390M30 270H390M30 300H390M30 330H390"/>
+<path d="M60 30V350M90 30V350M120 30V350M150 30V350M180 30V350M210 30V350M240 30V350M270 30V350M300 30V350M330 30V350M360 30V350"/>
+</g>
+<!-- strappo -->
+<path d="M150 120 L200 170 L170 230 L230 270 L200 320" fill="none" stroke="#a53a2a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M200 170 L250 150 M170 230 L130 250 M230 270 L280 260" fill="none" stroke="#a53a2a" stroke-width="5" stroke-linecap="round"/>
+<!-- rete sfilata dal binario in basso -->
+<path d="M240 350 q40 -30 90 -10" fill="none" stroke="#a53a2a" stroke-width="6" stroke-linecap="round"/>
+<circle cx="80" cy="360" r="26" fill="#f8e3df" stroke="#a53a2a" stroke-width="5"/>
+<text x="80" y="371" font-size="30" fill="#a53a2a" text-anchor="middle">✕</text>
+<text x="210" y="415" font-size="18" fill="#a53a2a" font-weight="600" text-anchor="middle">rete standard in fibra di vetro</text>
+<text x="210" y="440" font-size="15" fill="#6a6359" text-anchor="middle">filo 0,25 mm: si taglia e si sfila dal binario</text>
+</g>
+<!-- finestra destra: pet screen, gatto appoggiato -->
+<g transform="translate(700,150)">
+<rect x="0" y="0" width="420" height="380" rx="8" fill="#ffffff" stroke="#24201b" stroke-width="6"/>
+<rect x="30" y="30" width="360" height="320" fill="#eef4fb" stroke="#24201b" stroke-width="4"/>
+<!-- maglia spessa -->
+<g stroke="#6a6359" stroke-width="2.5">
+<path d="M30 60H390M30 90H390M30 120H390M30 150H390M30 180H390M30 210H390M30 240H390M30 270H390M30 300H390M30 330H390"/>
+<path d="M60 30V350M90 30V350M120 30V350M150 30V350M180 30V350M210 30V350M240 30V350M270 30V350M300 30V350M330 30V350M360 30V350"/>
+</g>
+<!-- viti agli angoli -->
+<g fill="#24201b"><circle cx="16" cy="16" r="5"/><circle cx="404" cy="16" r="5"/><circle cx="16" cy="364" r="5"/><circle cx="404" cy="364" r="5"/></g>
+<!-- gatto che si appoggia (sagoma ambra, di spalle) -->
+<g fill="#c2651d" transform="translate(140,170)">
+<path d="M20 180 C -10 170, -6 110, 20 80 C 36 60, 60 50, 80 50 L 72 10 L 100 42 L 128 42 L 156 10 L 150 54 C 176 64, 186 100, 176 136 C 196 160, 190 180, 164 180 Z"/>
+<rect x="20" y="150" width="22" height="40" rx="10"/><rect x="140" y="150" width="22" height="40" rx="10"/>
+<path d="M164 170 C 210 180, 220 130, 190 115" fill="none" stroke="#c2651d" stroke-width="16" stroke-linecap="round"/>
+</g>
+<!-- zampe anteriori sulla rete -->
+<g fill="#c2651d"><ellipse cx="190" cy="222" rx="16" ry="10"/><ellipse cx="300" cy="222" rx="16" ry="10"/></g>
+<circle cx="80" cy="360" r="26" fill="#f7e8d9" stroke="#c2651d" stroke-width="5"/>
+<text x="80" y="371" font-size="30" fill="#c2651d" text-anchor="middle">✓</text>
+<text x="210" y="415" font-size="18" fill="#4e7a66" font-weight="600" text-anchor="middle">rete pet screen su telaio fisso</text>
+<text x="210" y="440" font-size="15" fill="#6a6359" text-anchor="middle">filo 0,63 mm, 380 g/m², bloccata sui quattro lati</text>
+</g>
+<!-- scheda centrale -->
+<g transform="translate(540,180)" font-size="15" fill="#24201b">
+<rect x="0" y="0" width="120" height="290" rx="14" fill="#ffffff" stroke="#e7e2d9" stroke-width="4"/>
+<text x="60" y="34" font-size="16" font-weight="700" text-anchor="middle">Prezzi</text>
+<text x="60" y="70" text-anchor="middle" fill="#4e7a66" font-weight="700">rete</text><text x="60" y="90" text-anchor="middle">10-30 €</text>
+<text x="60" y="126" text-anchor="middle" fill="#4e7a66" font-weight="700">a strappo</text><text x="60" y="146" text-anchor="middle">12-25 €</text>
+<text x="60" y="182" text-anchor="middle" fill="#4e7a66" font-weight="700">telaio fisso</text><text x="60" y="202" text-anchor="middle">40-90 €</text>
+<text x="60" y="238" text-anchor="middle" fill="#4e7a66" font-weight="700">battente</text><text x="60" y="258" text-anchor="middle">150-350 €</text>
+</g>
+<text x="600" y="620" font-size="15" fill="#c2651d" font-weight="600" text-anchor="middle">Trattiene un gatto che si appoggia e graffia, non uno che salta da una finestra alta: lì serve la rete di sicurezza</text>
+<text x="60" y="672" font-size="16" fill="#6a6359">miciodesign.it · Se la finestra ha già un telaio, cambia solo la rete: 15-30 euro e un pomeriggio.</text>
+</svg>

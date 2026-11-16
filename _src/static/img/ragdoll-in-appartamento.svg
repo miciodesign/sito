@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" font-family="Outfit, Arial, sans-serif">
+<rect width="1200" height="700" fill="#fbfaf7"/>
+<text x="60" y="70" font-size="34" font-weight="700" fill="#24201b">Ragdoll in appartamento</text>
+<text x="60" y="104" font-size="20" fill="#6a6359">Grande, docile, fatto per vivere solo in casa: mensole larghe e robuste, lettiera grande, compagnia</text>
+<!-- parete con due mensole larghe e robuste -->
+<g fill="#24201b">
+<rect x="90" y="470" width="220" height="14" rx="4"/>
+<rect x="330" y="400" width="240" height="14" rx="4"/>
+<rect x="590" y="330" width="260" height="14" rx="4"/>
+</g>
+<!-- staffe -->
+<g fill="#6a6359"><rect x="110" y="484" width="12" height="30"/><rect x="280" y="484" width="12" height="30"/><rect x="350" y="414" width="12" height="30"/><rect x="540" y="414" width="12" height="30"/><rect x="610" y="344" width="12" height="30"/><rect x="820" y="344" width="12" height="30"/></g>
+<text x="90" y="446" font-size="13" fill="#6a6359">profondità 35-40 cm · tasselli per 15-20 kg · gradini di 35-40 cm</text>
+<!-- quota -->
+<g stroke="#c2651d" stroke-width="3" fill="none"><path d="M870 330 V590"/><path d="M864 330 H876 M864 590 H876"/></g>
+<text x="858" y="465" font-size="14" fill="#c2651d" font-weight="600" text-anchor="end">120-150 cm</text>
+<line x1="80" y1="590" x2="860" y2="590" stroke="#e7e2d9" stroke-width="4"/>
+<!-- ragdoll sdraiato sulla mensola alta: grande, semilungo, colourpoint -->
+<g transform="translate(600,220)">
+<!-- corpo chiaro, lungo, sdraiato di lato -->
+<path d="M20 108 C -6 100, -2 60, 30 52 C 50 20, 100 10, 150 16 L 190 18 C 220 20, 236 50, 232 76 C 240 100, 226 112, 200 110 Z" fill="#efe6d8" stroke="#dccfb9" stroke-width="3"/>
+<!-- testa (maschera scura, orecchie scure) -->
+<circle cx="200" cy="50" r="40" fill="#efe6d8" stroke="#dccfb9" stroke-width="3"/>
+<ellipse cx="206" cy="58" rx="24" ry="18" fill="#7a6251"/>
+<path d="M170 20 L176 -8 L196 16Z" fill="#7a6251"/><path d="M230 20 L224 -8 L204 16Z" fill="#7a6251"/>
+<circle cx="194" cy="52" r="7" fill="#7fa7d6"/><circle cx="220" cy="52" r="7" fill="#7fa7d6"/>
+<!-- zampe scure (gloves), coda scura folta -->
+<rect x="150" y="96" width="40" height="18" rx="9" fill="#7a6251"/>
+<rect x="60" y="98" width="40" height="18" rx="9" fill="#7a6251"/>
+<path d="M22 100 C -30 110, -40 60, -10 46" fill="none" stroke="#7a6251" stroke-width="26" stroke-linecap="round"/>
+</g>
+<!-- lettiera grande a terra -->
+<g transform="translate(90,500)">
+<rect x="0" y="40" width="190" height="50" rx="10" fill="#f7e8d9" stroke="#c2651d" stroke-width="5"/>
+<text x="95" y="30" font-size="14" fill="#c2651d" font-weight="600" text-anchor="middle">lettiera ≥ 60 x 45 cm, aperta</text>
+</g>
+<!-- tiragraffi con base larga -->
+<g transform="translate(380,440)">
+<rect x="40" y="130" width="140" height="18" rx="6" fill="#24201b"/>
+<rect x="98" y="0" width="24" height="134" fill="#c2651d"/>
+<g stroke="#a3521a" stroke-width="2"><path d="M98 12H122M98 30H122M98 48H122M98 66H122M98 84H122M98 102H122M98 120H122"/></g>
+<text x="110" y="162" font-size="13" fill="#6a6359" text-anchor="middle">tiragraffi 90-100 cm, base larga e pesante</text>
+</g>
+<text x="470" y="632" font-size="15" fill="#c2651d" font-weight="600" text-anchor="middle">7-9 kg · si lascia prendere in braccio · solo tutto il giorno si spegne: meglio in due · solo in casa, per regola</text>
+<!-- scheda -->
+<g transform="translate(900,150)" font-size="16" fill="#24201b">
+<rect x="0" y="0" width="260" height="440" rx="16" fill="#ffffff" stroke="#e7e2d9" stroke-width="4"/>
+<text x="20" y="36" font-size="20" font-weight="700">La casa per lui</text>
+<text x="20" y="76"><tspan fill="#4e7a66" font-weight="700">Carattere</tspan>  docile, segue</text><text x="20" y="98">tutti, non si difende</text>
+<text x="20" y="136"><tspan fill="#4e7a66" font-weight="700">Altezza</tspan>  media: mensole</text><text x="20" y="158">larghe e robuste, non alte</text>
+<text x="20" y="196"><tspan fill="#4e7a66" font-weight="700">Gioco</tspan>  1-2 × 10 min, fisso</text><text x="20" y="218">la sera; attento al peso</text>
+<text x="20" y="256"><tspan fill="#4e7a66" font-weight="700">Compagnia</tspan>  più di quanto</text><text x="20" y="278">sembri: solo a lungo soffre</text>
+<text x="20" y="316"><tspan fill="#4e7a66" font-weight="700">Pelo</tspan>  semilungo, facile:</text><text x="20" y="338">2-3 spazzolate a settimana</text>
+<text x="20" y="376"><tspan fill="#4e7a66" font-weight="700">Taglia</tspan>  tutto in versione</text><text x="20" y="398">grande: lettiera, trasportino</text>
+<rect x="20" y="412" width="220" height="2" fill="#e7e2d9"/>
+<text x="20" y="432" fill="#c2651d" font-weight="600">Monolocale: sì, se non resta solo</text>
+</g>
+<text x="60" y="672" font-size="16" fill="#6a6359">miciodesign.it · Un gatto da 8 chili va pianificato come un mobile in più.</text>
+</svg>
