@@ -9,7 +9,7 @@ Le guide di Micio Design sono gratuite e lo resteranno. Per sostenerle usiamo li
 
 Quando in una guida consigliamo un prodotto, il link porta al negozio che lo vende. Se compri passando da quel link, il negozio ci riconosce una piccola percentuale sulla vendita. Il prezzo che paghi è identico: la commissione la paga il negozio, non tu.
 
-Partecipiamo ai programmi di affiliazione di alcuni negozi online per animali tramite la rete Awin, tra cui Robinson Pet Shop. L'elenco si aggiorna man mano che aderiamo a nuovi programmi.
+In qualità di Affiliato Amazon, Micio Design riceve un guadagno dagli acquisti idonei. Partecipiamo al Programma Affiliazione Amazon EU, un programma di affiliazione che consente ai siti di percepire una commissione pubblicitaria pubblicizzando e fornendo link al sito Amazon.it. Partecipiamo inoltre ai programmi di affiliazione di alcuni negozi online per animali tramite la rete Awin, tra cui Robinson Pet Shop. L'elenco si aggiorna man mano che aderiamo a nuovi programmi.
 
 ## Cosa non cambia
 
