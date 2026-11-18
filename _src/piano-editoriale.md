@@ -67,6 +67,9 @@ Nuova categoria `razze` da aggiungere in config.json (nome "Razze in appartament
 - [x] 61 P Odore di gatto in casa: da dove viene e come eliminarlo · arredo-e-pulizia · kw: eliminare odore gatto casa · 2026-11-18
 - [x] 62 I Prodotti per la pulizia pericolosi per i gatti: candeggina, ammoniaca, fenoli, oli essenziali · arredo-e-pulizia · kw: candeggina gatti, detersivi sicuri gatti · 2026-11-19
 - [x] 47 A I migliori aspirapolvere per peli di gatto · arredo-e-pulizia · kw: aspirapolvere peli gatto · 2026-11-20
+- [ ] 28 P Il gatto beve poco: 8 modi per farlo bere di più · vita-quotidiana · kw: gatto beve poco (gruppo fontanelle: prima pagina con clic da Google, 18/11)
+- [ ] 69 P Fontanella per gatti: come pulirla e ogni quanto cambiare il filtro · vita-quotidiana · kw: pulire fontanella gatti, filtri fontanella gatto
+- [ ] 70 A Fontanella per gatti senza fili o a batteria: le migliori · vita-quotidiana · kw: fontanella gatti senza fili
 - [ ] 63 P Pulire i tappeti con un gatto: peli, vomito e pipì · arredo-e-pulizia · kw: pulire tappeto pipì gatto
 - [ ] 64 P Arredare una casa piccola con un gatto: 12 idee salvaspazio · arredo-e-pulizia · kw: arredare casa piccola con gatto
 - [ ] 65 I Casa a misura di gatto senza rinunciare al design · arredo-e-pulizia · kw: casa a misura di gatto, arredamento cat friendly
@@ -77,7 +80,6 @@ Nuova categoria `razze` da aggiungere in config.json (nome "Razze in appartament
 - [ ] 13 A Mobili copri-lettiera: i migliori e come arieggiarli · lettiera
 - [ ] 17 A Alberi per gatti da soffitto: i migliori a pressione · spazio-verticale
 - [ ] 24 P Come costruire un catio sul balcone · balcone-e-finestre
-- [ ] 28 P Il gatto beve poco: 8 modi per farlo bere di più · vita-quotidiana
 - [ ] 37 I Piante tossiche per gatti: l'elenco completo · convivenze
 - [ ] 32 P Gatto annoiato in casa: 15 idee che funzionano · vita-quotidiana
 - [ ] 38 I Piante sicure per gatti: 25 specie da tenere in casa · convivenze

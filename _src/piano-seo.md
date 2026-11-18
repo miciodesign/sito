@@ -58,6 +58,7 @@ Restano nell'ordine della coda in `piano-editoriale.md`. Già coperti: dove mett
 | 30/10/2026 | 9 | 4 | 3 | 8 | 4,4 |
 | 07/11/2026 | 33 | 5 | 5 | 15 | 12 |
 | 11/11/2026 | ~110 (somma per pagina) | 5 | 6 | 15 | n.d. | Più impressioni: guida lettiera 21, balcone 20, percorsi verticali 13, pipì divano 12 |
+| 18/11/2026 | ~250 (somma pagine, ultimi 28 gg) | 6 | n.d. | 15+ | n.d. | Primi clic da ricerca su articolo con prodotti: fontanelle 38 impr. / 2 clic. Lettiera 57, pipì divano 48, percorsi 41, balcone 38 |
 
 Obiettivo: 33 → 70 → 150 → 300 impressioni. Query reali al 07/11: pulitore tessuti gatti, finestre vasistas gatti, miglior detergente enzimatico urina gatto, pulire pipì gatto divano, miccio design.
 
@@ -68,4 +69,5 @@ Obiettivo: 33 → 70 → 150 → 300 impressioni. Query reali al 07/11: pulitore
 - 09/11/2026: pubblicati i primi cinque del gruppo divano e pulizia (detergente enzimatico, materasso, graffia il divano, divano antigraffio, peli) con link incrociati dal pilastro e dall'articolo sulla pipì sul divano.
 - 11/11/2026: 'finestre vasistas gatti' prima query per impressioni (6): in testa protezioni vasistas (A) e zanzariere a prova di gatto (A).
 - 16/11/2026: pubblicati zanzariere a prova di gatto e protezioni vasistas (gruppo sicurezza finestre, dalla query reale), poi odore in casa, prodotti pericolosi e aspirapolvere (gruppo divano e pulizia), con link incrociati da pilastri, vasistas, pipì divano e peli. Razze: Persiano e Ragdoll.
+- 18/11/2026: fontanelle prima pagina con clic → in testa 'gatto beve poco', pulizia fontanella e filtri, fontanelle senza fili.
 - Prossima revisione: con gli screenshot di Search Console (Query e Pagine, ultimi 28 giorni).
